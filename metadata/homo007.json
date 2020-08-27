@@ -1,1 +1,164 @@
-{"created":1598535078,"d1":"ia600203.us.archive.org","d2":"ia800203.us.archive.org","dir":"/21/items/homo007","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1554470183","size":"2515","md5":"072d0ee2cdc3455d145ac5ed20a1d456","crc32":"ad760eca","sha1":"635c6faf48ababf9bf68d9b2e276d7dd26579369","format":"Item Tile","rotation":"0"},{"name":"homo007_archive.torrent","source":"metadata","btih":"52a116efb6fe9f377c64feb1629d6ba9afe7a5ab","mtime":"1554470187","size":"4220","md5":"4883bb5963557ac112e30e92439961f3","crc32":"1e7e1f29","sha1":"cc5ace9d9ab01e83e678e8de0185595b06c30fca","format":"Archive BitTorrent"},{"name":"homo007_files.xml","source":"original","format":"Metadata","md5":"04c99f6a6ea8c271ebbb2396050a68cb"},{"name":"homo007_meta.sqlite","source":"original","mtime":"1455255587","size":"11264","md5":"db87a586a15beeb9fbea70c64e568aff","crc32":"4bc85060","sha1":"2315dedf55bdeeabe39845e2187a1dba4228f877","format":"Metadata"},{"name":"homo007_meta.xml","source":"original","mtime":"1554470185","size":"1048","format":"Metadata","md5":"483b813bed8773d45b5c47f200254972","crc32":"dd147d6b","sha1":"651df6ca8be09cb856238790367d031ba4b806c5"},{"name":"taiga remains + david kirby - wings grow back.afpk","source":"derivative","format":"Columbia Peaks","original":"taiga remains + david kirby - wings grow back.mp3","mtime":"1455255928","size":"324904","md5":"9d3d8e646c2a640032d1a99a5f8cd24f","crc32":"ab2c7cc2","sha1":"8e76d970339f7c4ed19907597ce7bd4e5a3da00d"},{"name":"taiga remains + david kirby - wings grow back.mp3","source":"original","mtime":"1455255573","size":"26308608","md5":"75be75cd0650ccb3f329fdb0d565218d","crc32":"c6ea1e6a","sha1":"ea23ca1630c7f051cf0b0db02b16099098a6a080","format":"VBR MP3","length":"958.62","height":"348","width":"535","artist":"Taiga Remains + David Kirby","track":"1","album":"Wings Grow Back [Homophoni]","title":"Wings Grow Back","genre":"Drone","external-identifier-match-date":"acoustid:2019-04-05T13:15:57Z","external-identifier":"urn:acoustid:060e419c-7892-4821-a2c0-fbda0c9a3b48"},{"name":"taiga remains + david kirby - wings grow back.ogg","source":"derivative","format":"Ogg Vorbis","original":"taiga remains + david kirby - wings grow back.mp3","mtime":"1455255656","size":"9987743","md5":"49cb6365ef0cdba364fffc127ba94eb1","crc32":"a80b1692","sha1":"c064501dc8fa31b345df827feee6253bba5592b6","length":"958.56","height":"0","width":"0"},{"name":"taiga remains + david kirby - wings grow back.png","source":"derivative","format":"PNG","original":"taiga remains + david kirby - wings grow back.mp3","mtime":"1455255718","size":"8752","md5":"437b90cf7de04bd603fadd221ec56d6a","crc32":"b6fc81f5","sha1":"6f7d140d50ab903272ffabae3738977858eed87c"},{"name":"taiga remains + david kirby - wings grow back_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"taiga remains + david kirby - wings grow back.mp3","mtime":"1455255869","size":"33525","md5":"426a60a36ce77b1091687368a84e4849","crc32":"f17ce22b","sha1":"d4c49e81934af0a508a65a80f775152d7f7cbf1a"},{"name":"taiga remains + david kirby - wings grow back_spectrogram.png","source":"derivative","format":"Spectrogram","original":"taiga remains + david kirby - wings grow back.mp3","mtime":"1455255732","size":"244671","md5":"55a50b1d17c15fa7bee39bb86189230f","crc32":"5f927323","sha1":"3a088964ea885f16f761be2be43a99ea1afaec8c"}],"files_count":11,"item_last_updated":1554470187,"item_size":36927250,"metadata":{"identifier":"homo007","mediatype":"audio","collection":"opensource_audio","creator":"Taiga Remains & David Kirby","date":"2005-09-01","description":"<div>Acoustic Guitar, Guitar [E-bowed], Organ [Chord] \u2013 Taiga Remains</div><div>Effects [Processing] \u2013 David Kirby</div>","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Experimental","Ambient"],"title":"Wings Grow Back","publicdate":"2016-02-12 05:39:33","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-12 05:39:33","curation":"[curator]validator@archive.org[/curator][date]20160212053955[/date][comment]checked for malware[/comment]","backup_location":"ia906100_0","external_metadata_update":"2019-04-05T13:15:57Z"},"server":"ia800203.us.archive.org","uniq":1532362377,"workable_servers":["ia800203.us.archive.org","ia600203.us.archive.org"]}
+{
+    "created": 1598535078,
+    "d1": "ia600203.us.archive.org",
+    "d2": "ia800203.us.archive.org",
+    "dir": "/21/items/homo007",
+    "files": [
+        {
+            "crc32": "ad760eca",
+            "format": "Item Tile",
+            "md5": "072d0ee2cdc3455d145ac5ed20a1d456",
+            "mtime": "1554470183",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "635c6faf48ababf9bf68d9b2e276d7dd26579369",
+            "size": "2515",
+            "source": "original"
+        },
+        {
+            "btih": "52a116efb6fe9f377c64feb1629d6ba9afe7a5ab",
+            "crc32": "1e7e1f29",
+            "format": "Archive BitTorrent",
+            "md5": "4883bb5963557ac112e30e92439961f3",
+            "mtime": "1554470187",
+            "name": "homo007_archive.torrent",
+            "sha1": "cc5ace9d9ab01e83e678e8de0185595b06c30fca",
+            "size": "4220",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "04c99f6a6ea8c271ebbb2396050a68cb",
+            "name": "homo007_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "4bc85060",
+            "format": "Metadata",
+            "md5": "db87a586a15beeb9fbea70c64e568aff",
+            "mtime": "1455255587",
+            "name": "homo007_meta.sqlite",
+            "sha1": "2315dedf55bdeeabe39845e2187a1dba4228f877",
+            "size": "11264",
+            "source": "original"
+        },
+        {
+            "crc32": "dd147d6b",
+            "format": "Metadata",
+            "md5": "483b813bed8773d45b5c47f200254972",
+            "mtime": "1554470185",
+            "name": "homo007_meta.xml",
+            "sha1": "651df6ca8be09cb856238790367d031ba4b806c5",
+            "size": "1048",
+            "source": "original"
+        },
+        {
+            "crc32": "ab2c7cc2",
+            "format": "Columbia Peaks",
+            "md5": "9d3d8e646c2a640032d1a99a5f8cd24f",
+            "mtime": "1455255928",
+            "name": "taiga remains + david kirby - wings grow back.afpk",
+            "original": "taiga remains + david kirby - wings grow back.mp3",
+            "sha1": "8e76d970339f7c4ed19907597ce7bd4e5a3da00d",
+            "size": "324904",
+            "source": "derivative"
+        },
+        {
+            "album": "Wings Grow Back [Homophoni]",
+            "artist": "Taiga Remains + David Kirby",
+            "crc32": "c6ea1e6a",
+            "external-identifier": "urn:acoustid:060e419c-7892-4821-a2c0-fbda0c9a3b48",
+            "external-identifier-match-date": "acoustid:2019-04-05T13:15:57Z",
+            "format": "VBR MP3",
+            "genre": "Drone",
+            "height": "348",
+            "length": "958.62",
+            "md5": "75be75cd0650ccb3f329fdb0d565218d",
+            "mtime": "1455255573",
+            "name": "taiga remains + david kirby - wings grow back.mp3",
+            "sha1": "ea23ca1630c7f051cf0b0db02b16099098a6a080",
+            "size": "26308608",
+            "source": "original",
+            "title": "Wings Grow Back",
+            "track": "1",
+            "width": "535"
+        },
+        {
+            "crc32": "a80b1692",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "958.56",
+            "md5": "49cb6365ef0cdba364fffc127ba94eb1",
+            "mtime": "1455255656",
+            "name": "taiga remains + david kirby - wings grow back.ogg",
+            "original": "taiga remains + david kirby - wings grow back.mp3",
+            "sha1": "c064501dc8fa31b345df827feee6253bba5592b6",
+            "size": "9987743",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "b6fc81f5",
+            "format": "PNG",
+            "md5": "437b90cf7de04bd603fadd221ec56d6a",
+            "mtime": "1455255718",
+            "name": "taiga remains + david kirby - wings grow back.png",
+            "original": "taiga remains + david kirby - wings grow back.mp3",
+            "sha1": "6f7d140d50ab903272ffabae3738977858eed87c",
+            "size": "8752",
+            "source": "derivative"
+        },
+        {
+            "crc32": "f17ce22b",
+            "format": "Essentia Low GZ",
+            "md5": "426a60a36ce77b1091687368a84e4849",
+            "mtime": "1455255869",
+            "name": "taiga remains + david kirby - wings grow back_esslow.json.gz",
+            "original": "taiga remains + david kirby - wings grow back.mp3",
+            "sha1": "d4c49e81934af0a508a65a80f775152d7f7cbf1a",
+            "size": "33525",
+            "source": "derivative"
+        },
+        {
+            "crc32": "5f927323",
+            "format": "Spectrogram",
+            "md5": "55a50b1d17c15fa7bee39bb86189230f",
+            "mtime": "1455255732",
+            "name": "taiga remains + david kirby - wings grow back_spectrogram.png",
+            "original": "taiga remains + david kirby - wings grow back.mp3",
+            "sha1": "3a088964ea885f16f761be2be43a99ea1afaec8c",
+            "size": "244671",
+            "source": "derivative"
+        }
+    ],
+    "files_count": 11,
+    "item_last_updated": 1554470187,
+    "item_size": 36927250,
+    "metadata": {
+        "addeddate": "2016-02-12 05:39:33",
+        "backup_location": "ia906100_0",
+        "collection": "opensource_audio",
+        "creator": "Taiga Remains & David Kirby",
+        "curation": "[curator]validator@archive.org[/curator][date]20160212053955[/date][comment]checked for malware[/comment]",
+        "date": "2005-09-01",
+        "description": "<div>Acoustic Guitar, Guitar [E-bowed], Organ [Chord] \u2013 Taiga Remains</div><div>Effects [Processing] \u2013 David Kirby</div>",
+        "external_metadata_update": "2019-04-05T13:15:57Z",
+        "identifier": "homo007",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-12 05:39:33",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Experimental",
+            "Ambient"
+        ],
+        "title": "Wings Grow Back",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800203.us.archive.org",
+    "uniq": 1532362377,
+    "workable_servers": [
+        "ia800203.us.archive.org",
+        "ia600203.us.archive.org"
+    ]
+}

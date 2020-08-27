@@ -1,1 +1,144 @@
-{"created":1598535691,"d1":"ia600205.us.archive.org","d2":"ia800205.us.archive.org","dir":"/35/items/homo044","files":[{"name":"BryanEubanks-DesiredClimateWorks36.afpk","source":"derivative","format":"Columbia Peaks","original":"BryanEubanks-DesiredClimateWorks36.mp3","mtime":"1544384108","size":"1005592","md5":"8a4a0794a80e31bde20734cb62cbb260","crc32":"c0650435","sha1":"3f249bccf6367fc59a8cdc7ed66671e7a07f921a"},{"name":"BryanEubanks-DesiredClimateWorks36.mp3","source":"original","format":"VBR MP3","length":"3600.22","height":"348","width":"535","title":"Bryan Eubanks - Desired Climate Works 36","mtime":"1544382419","size":"116916551","md5":"728f5856dc26b888455a9127dcc33ea7","crc32":"65d78b25","sha1":"1a7d1c7a7c7365661dd8f4bd403384e62ee01554","artist":"Bryan Eubanks","genre":"eai","album":"Desired Climate Works #36","track":"1\/1","external-identifier-match-date":"acoustid:2019-04-17T04:35:29Z","external-identifier":"urn:acoustid:032631e3-8cfc-4b57-b54b-73dcabfaef32"},{"name":"BryanEubanks-DesiredClimateWorks36.ogg","source":"derivative","format":"Ogg Vorbis","original":"BryanEubanks-DesiredClimateWorks36.mp3","mtime":"1544383898","size":"31752049","md5":"0910f9869c46ad7f5a4ac71fb507be25","crc32":"32c3c524","sha1":"79c8dbcce1ceff5b18e14fdc9242122b0730f588","length":"2921.74","height":"0","width":"0"},{"name":"BryanEubanks-DesiredClimateWorks36.png","source":"derivative","format":"PNG","original":"BryanEubanks-DesiredClimateWorks36.mp3","mtime":"1544384018","size":"7264","md5":"7eb96aa84a4affaaf8466d69834d6a23","crc32":"583a7005","sha1":"141e9feadfa6ff4f63ebc8fdfa5675321ddaa717"},{"name":"BryanEubanks-DesiredClimateWorks36_spectrogram.png","source":"derivative","format":"Spectrogram","original":"BryanEubanks-DesiredClimateWorks36.mp3","mtime":"1544384044","size":"175198","md5":"1bf7fcf707eba63b4af56b454fb880d9","crc32":"9d722c1b","sha1":"387546e17d1041e6c2d1e4342cb6c3863f020640"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1544384114","size":"1926","md5":"003ab87b12091607901cdab010f1fd51","crc32":"8ea27370","sha1":"fbcf03b48690f8b33fc082ec6427c029440fb803","format":"Item Tile","rotation":"0"},{"name":"homo044_files.xml","source":"original","format":"Metadata","md5":"fa4c11a3650ac46a875d16f78480065c"},{"name":"homo044_meta.sqlite","source":"original","mtime":"1455259625","size":"12288","md5":"8fea7e9be3f1ab8d7f6b5ebc7688b7c2","crc32":"28e01217","sha1":"12ce2a63b4d2a0b93562cc952d2288f5131e5379","format":"Metadata"},{"name":"homo044_meta.xml","source":"original","mtime":"1555475741","size":"1541","format":"Metadata","md5":"aef144735951041e512427c88c7dde2e","crc32":"53305530","sha1":"7ad53486066b5e78b59056decec9af5a4f12df7f"}],"files_count":9,"item_last_updated":1555475741,"item_size":149872409,"metadata":{"identifier":"homo044","mediatype":"audio","collection":"opensource_audio","creator":"Bryan Eubanks","date":"2011-02-02","description":"<table class=\"playlist\" style=\"border-collapse:collapse;border-spacing:0px;width:819px;clear:none;line-height:18px;font-family:'Helvetica Neue', Helvetica, 'Nimbus Sans', Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);\"><tbody><tr class=\"first tracklist_track track\" style=\"vertical-align:top;border-top-width:0px;\"><td class=\"track tracklist_track_title\" style=\"padding:2px;\"><span class=\"tracklist_track_title\">Desired Climate Works #36<br /><br /></span></td></tr></tbody></table>","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Abstract","Drone","Experimental"],"title":"Desired Climate Works #36","publicdate":"2016-02-12 06:46:50","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-12 06:46:50","curation":"[curator]validator@archive.org[/curator][date]20181209191440[/date][comment]; checked for malware[/comment]","backup_location":"ia906100_0","noarchivetorrent":"true","external_metadata_update":"2019-04-17T04:35:29Z"},"server":"ia800205.us.archive.org","uniq":701132903,"workable_servers":["ia800205.us.archive.org","ia600205.us.archive.org"]}
+{
+    "created": 1598535691,
+    "d1": "ia600205.us.archive.org",
+    "d2": "ia800205.us.archive.org",
+    "dir": "/35/items/homo044",
+    "files": [
+        {
+            "crc32": "c0650435",
+            "format": "Columbia Peaks",
+            "md5": "8a4a0794a80e31bde20734cb62cbb260",
+            "mtime": "1544384108",
+            "name": "BryanEubanks-DesiredClimateWorks36.afpk",
+            "original": "BryanEubanks-DesiredClimateWorks36.mp3",
+            "sha1": "3f249bccf6367fc59a8cdc7ed66671e7a07f921a",
+            "size": "1005592",
+            "source": "derivative"
+        },
+        {
+            "album": "Desired Climate Works #36",
+            "artist": "Bryan Eubanks",
+            "crc32": "65d78b25",
+            "external-identifier": "urn:acoustid:032631e3-8cfc-4b57-b54b-73dcabfaef32",
+            "external-identifier-match-date": "acoustid:2019-04-17T04:35:29Z",
+            "format": "VBR MP3",
+            "genre": "eai",
+            "height": "348",
+            "length": "3600.22",
+            "md5": "728f5856dc26b888455a9127dcc33ea7",
+            "mtime": "1544382419",
+            "name": "BryanEubanks-DesiredClimateWorks36.mp3",
+            "sha1": "1a7d1c7a7c7365661dd8f4bd403384e62ee01554",
+            "size": "116916551",
+            "source": "original",
+            "title": "Bryan Eubanks - Desired Climate Works 36",
+            "track": "1/1",
+            "width": "535"
+        },
+        {
+            "crc32": "32c3c524",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "2921.74",
+            "md5": "0910f9869c46ad7f5a4ac71fb507be25",
+            "mtime": "1544383898",
+            "name": "BryanEubanks-DesiredClimateWorks36.ogg",
+            "original": "BryanEubanks-DesiredClimateWorks36.mp3",
+            "sha1": "79c8dbcce1ceff5b18e14fdc9242122b0730f588",
+            "size": "31752049",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "583a7005",
+            "format": "PNG",
+            "md5": "7eb96aa84a4affaaf8466d69834d6a23",
+            "mtime": "1544384018",
+            "name": "BryanEubanks-DesiredClimateWorks36.png",
+            "original": "BryanEubanks-DesiredClimateWorks36.mp3",
+            "sha1": "141e9feadfa6ff4f63ebc8fdfa5675321ddaa717",
+            "size": "7264",
+            "source": "derivative"
+        },
+        {
+            "crc32": "9d722c1b",
+            "format": "Spectrogram",
+            "md5": "1bf7fcf707eba63b4af56b454fb880d9",
+            "mtime": "1544384044",
+            "name": "BryanEubanks-DesiredClimateWorks36_spectrogram.png",
+            "original": "BryanEubanks-DesiredClimateWorks36.mp3",
+            "sha1": "387546e17d1041e6c2d1e4342cb6c3863f020640",
+            "size": "175198",
+            "source": "derivative"
+        },
+        {
+            "crc32": "8ea27370",
+            "format": "Item Tile",
+            "md5": "003ab87b12091607901cdab010f1fd51",
+            "mtime": "1544384114",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "fbcf03b48690f8b33fc082ec6427c029440fb803",
+            "size": "1926",
+            "source": "original"
+        },
+        {
+            "format": "Metadata",
+            "md5": "fa4c11a3650ac46a875d16f78480065c",
+            "name": "homo044_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "28e01217",
+            "format": "Metadata",
+            "md5": "8fea7e9be3f1ab8d7f6b5ebc7688b7c2",
+            "mtime": "1455259625",
+            "name": "homo044_meta.sqlite",
+            "sha1": "12ce2a63b4d2a0b93562cc952d2288f5131e5379",
+            "size": "12288",
+            "source": "original"
+        },
+        {
+            "crc32": "53305530",
+            "format": "Metadata",
+            "md5": "aef144735951041e512427c88c7dde2e",
+            "mtime": "1555475741",
+            "name": "homo044_meta.xml",
+            "sha1": "7ad53486066b5e78b59056decec9af5a4f12df7f",
+            "size": "1541",
+            "source": "original"
+        }
+    ],
+    "files_count": 9,
+    "item_last_updated": 1555475741,
+    "item_size": 149872409,
+    "metadata": {
+        "addeddate": "2016-02-12 06:46:50",
+        "backup_location": "ia906100_0",
+        "collection": "opensource_audio",
+        "creator": "Bryan Eubanks",
+        "curation": "[curator]validator@archive.org[/curator][date]20181209191440[/date][comment]; checked for malware[/comment]",
+        "date": "2011-02-02",
+        "description": "<table class=\"playlist\" style=\"border-collapse:collapse;border-spacing:0px;width:819px;clear:none;line-height:18px;font-family:'Helvetica Neue', Helvetica, 'Nimbus Sans', Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);\"><tbody><tr class=\"first tracklist_track track\" style=\"vertical-align:top;border-top-width:0px;\"><td class=\"track tracklist_track_title\" style=\"padding:2px;\"><span class=\"tracklist_track_title\">Desired Climate Works #36<br /><br /></span></td></tr></tbody></table>",
+        "external_metadata_update": "2019-04-17T04:35:29Z",
+        "identifier": "homo044",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "noarchivetorrent": "true",
+        "publicdate": "2016-02-12 06:46:50",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Abstract",
+            "Drone",
+            "Experimental"
+        ],
+        "title": "Desired Climate Works #36",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800205.us.archive.org",
+    "uniq": 701132903,
+    "workable_servers": [
+        "ia800205.us.archive.org",
+        "ia600205.us.archive.org"
+    ]
+}

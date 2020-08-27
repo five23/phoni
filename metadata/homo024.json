@@ -1,1 +1,175 @@
-{"created":1598535540,"d1":"ia600209.us.archive.org","d2":"ia800209.us.archive.org","dir":"/30/items/homo024","files":[{"name":"Matthew_Mullane_-_01_-_Hut.afpk","source":"derivative","format":"Columbia Peaks","original":"Matthew_Mullane_-_01_-_Hut.mp3","mtime":"1455259498","size":"288128","md5":"3d6201847d583fc7416e3884277294b3","crc32":"8a6b2cc3","sha1":"fc7a8be0d2cdc6e71d3533ea73ab471c7b0cae7b"},{"name":"Matthew_Mullane_-_01_-_Hut.mp3","source":"original","mtime":"1455259175","size":"33712128","md5":"740d16e9b489907351a9b90e7bb11d2a","crc32":"020b39e8","sha1":"24ca3694ca183b6212371d15325e7061b1169981","format":"VBR MP3","length":"842.06","height":"348","width":"535","title":"Hut","artist":"Matthew Mullane","track":"1","album":"Hut","genre":"Electroacoustic","external-identifier":"urn:acoustid:338b7774-4646-4102-9189-ba2bde1e8ea7","external-identifier-match-date":"acoustid:2019-04-17T09:10:20Z"},{"name":"Matthew_Mullane_-_01_-_Hut.ogg","source":"derivative","format":"Ogg Vorbis","original":"Matthew_Mullane_-_01_-_Hut.mp3","mtime":"1455259265","size":"9214686","md5":"2b5e5d90bd10d6e858f63240bc222ccd","crc32":"bcf6c9fd","sha1":"fa5c4f0db417f17af915fb11dcaddf82fb5de521","length":"842.01","height":"0","width":"0"},{"name":"Matthew_Mullane_-_01_-_Hut.png","source":"derivative","format":"PNG","original":"Matthew_Mullane_-_01_-_Hut.mp3","mtime":"1455259310","size":"7269","md5":"3595c1d020d079c5ed667e987542de7f","crc32":"a3a8d6cb","sha1":"631960437f8e9d3598bd8c88c85790acbc8f3cad"},{"name":"Matthew_Mullane_-_01_-_Hut_esshigh.json.gz","source":"derivative","format":"Essentia High GZ","original":"Matthew_Mullane_-_01_-_Hut_esslow.json.gz","mtime":"1455259526","size":"2025","md5":"42d4f88f3e74c164535f9b3cc9bbc665","crc32":"c9dede9a","sha1":"b23b8e4d3e809c3fd259f0359e046ee6867cf616"},{"name":"Matthew_Mullane_-_01_-_Hut_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"Matthew_Mullane_-_01_-_Hut.mp3","mtime":"1455259462","size":"30626","md5":"dc1f336bcd5e14c12a2705b11a379c1b","crc32":"cf20780a","sha1":"1da9a6353080be48970f5c49580aa02cb999d36f"},{"name":"Matthew_Mullane_-_01_-_Hut_spectrogram.png","source":"derivative","format":"Spectrogram","original":"Matthew_Mullane_-_01_-_Hut.mp3","mtime":"1455259324","size":"259825","md5":"d0974eb07fa518ebc605b7ce973ac795","crc32":"41fee5c4","sha1":"0c0a390a59ee9b910a6f23e747c3b792bc26e8b4"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1555492223","size":"2199","md5":"fe28605c7e92bb8d0cb56c3d706ad4fb","crc32":"18faf1a7","sha1":"e382e52228a40ac325296d05c06a48902091f2d3","format":"Item Tile","rotation":"0"},{"name":"homo024_archive.torrent","source":"metadata","btih":"880f7b3846ff829add20c8d0c06c1b7fc569b4b2","mtime":"1555492227","size":"4559","md5":"56ee22946db4f9e1e7622014d6979761","crc32":"4018f756","sha1":"f0fc6912d405401faba355960c82cc00f839ebf3","format":"Archive BitTorrent"},{"name":"homo024_files.xml","source":"original","format":"Metadata","md5":"84178f105f843a27b7e6941530d7ab97"},{"name":"homo024_meta.sqlite","source":"original","mtime":"1455259191","size":"9216","md5":"5aeef2ea7120cd147fa5f5ad7268e5f2","crc32":"21fa396c","sha1":"d8dfaf0e3ad4676992b795451192de625ec03398","format":"Metadata"},{"name":"homo024_meta.xml","source":"original","mtime":"1555492226","size":"876","format":"Metadata","md5":"ab777540c193eff475da5a44885d0edb","crc32":"bcc050ec","sha1":"9c9dc4dc7dc44bd2fa1a99846d0a6272818de294"}],"files_count":12,"item_last_updated":1555492227,"item_size":43531537,"metadata":{"identifier":"homo024","mediatype":"audio","collection":"opensource_audio","creator":"Matthew Mullane","date":"2008-01-01","description":"Hut","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Abstract","Experimental"],"title":"Hut","publicdate":"2016-02-12 06:39:36","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-12 06:39:36","curation":"[curator]validator@archive.org[/curator][date]20160212063959[/date][comment]checked for malware[/comment]","backup_location":"ia906100_0","external_metadata_update":"2019-04-17T09:10:20Z"},"server":"ia800209.us.archive.org","uniq":1595396026,"workable_servers":["ia800209.us.archive.org","ia600209.us.archive.org"]}
+{
+    "created": 1598535540,
+    "d1": "ia600209.us.archive.org",
+    "d2": "ia800209.us.archive.org",
+    "dir": "/30/items/homo024",
+    "files": [
+        {
+            "crc32": "8a6b2cc3",
+            "format": "Columbia Peaks",
+            "md5": "3d6201847d583fc7416e3884277294b3",
+            "mtime": "1455259498",
+            "name": "Matthew_Mullane_-_01_-_Hut.afpk",
+            "original": "Matthew_Mullane_-_01_-_Hut.mp3",
+            "sha1": "fc7a8be0d2cdc6e71d3533ea73ab471c7b0cae7b",
+            "size": "288128",
+            "source": "derivative"
+        },
+        {
+            "album": "Hut",
+            "artist": "Matthew Mullane",
+            "crc32": "020b39e8",
+            "external-identifier": "urn:acoustid:338b7774-4646-4102-9189-ba2bde1e8ea7",
+            "external-identifier-match-date": "acoustid:2019-04-17T09:10:20Z",
+            "format": "VBR MP3",
+            "genre": "Electroacoustic",
+            "height": "348",
+            "length": "842.06",
+            "md5": "740d16e9b489907351a9b90e7bb11d2a",
+            "mtime": "1455259175",
+            "name": "Matthew_Mullane_-_01_-_Hut.mp3",
+            "sha1": "24ca3694ca183b6212371d15325e7061b1169981",
+            "size": "33712128",
+            "source": "original",
+            "title": "Hut",
+            "track": "1",
+            "width": "535"
+        },
+        {
+            "crc32": "bcf6c9fd",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "842.01",
+            "md5": "2b5e5d90bd10d6e858f63240bc222ccd",
+            "mtime": "1455259265",
+            "name": "Matthew_Mullane_-_01_-_Hut.ogg",
+            "original": "Matthew_Mullane_-_01_-_Hut.mp3",
+            "sha1": "fa5c4f0db417f17af915fb11dcaddf82fb5de521",
+            "size": "9214686",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "a3a8d6cb",
+            "format": "PNG",
+            "md5": "3595c1d020d079c5ed667e987542de7f",
+            "mtime": "1455259310",
+            "name": "Matthew_Mullane_-_01_-_Hut.png",
+            "original": "Matthew_Mullane_-_01_-_Hut.mp3",
+            "sha1": "631960437f8e9d3598bd8c88c85790acbc8f3cad",
+            "size": "7269",
+            "source": "derivative"
+        },
+        {
+            "crc32": "c9dede9a",
+            "format": "Essentia High GZ",
+            "md5": "42d4f88f3e74c164535f9b3cc9bbc665",
+            "mtime": "1455259526",
+            "name": "Matthew_Mullane_-_01_-_Hut_esshigh.json.gz",
+            "original": "Matthew_Mullane_-_01_-_Hut_esslow.json.gz",
+            "sha1": "b23b8e4d3e809c3fd259f0359e046ee6867cf616",
+            "size": "2025",
+            "source": "derivative"
+        },
+        {
+            "crc32": "cf20780a",
+            "format": "Essentia Low GZ",
+            "md5": "dc1f336bcd5e14c12a2705b11a379c1b",
+            "mtime": "1455259462",
+            "name": "Matthew_Mullane_-_01_-_Hut_esslow.json.gz",
+            "original": "Matthew_Mullane_-_01_-_Hut.mp3",
+            "sha1": "1da9a6353080be48970f5c49580aa02cb999d36f",
+            "size": "30626",
+            "source": "derivative"
+        },
+        {
+            "crc32": "41fee5c4",
+            "format": "Spectrogram",
+            "md5": "d0974eb07fa518ebc605b7ce973ac795",
+            "mtime": "1455259324",
+            "name": "Matthew_Mullane_-_01_-_Hut_spectrogram.png",
+            "original": "Matthew_Mullane_-_01_-_Hut.mp3",
+            "sha1": "0c0a390a59ee9b910a6f23e747c3b792bc26e8b4",
+            "size": "259825",
+            "source": "derivative"
+        },
+        {
+            "crc32": "18faf1a7",
+            "format": "Item Tile",
+            "md5": "fe28605c7e92bb8d0cb56c3d706ad4fb",
+            "mtime": "1555492223",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "e382e52228a40ac325296d05c06a48902091f2d3",
+            "size": "2199",
+            "source": "original"
+        },
+        {
+            "btih": "880f7b3846ff829add20c8d0c06c1b7fc569b4b2",
+            "crc32": "4018f756",
+            "format": "Archive BitTorrent",
+            "md5": "56ee22946db4f9e1e7622014d6979761",
+            "mtime": "1555492227",
+            "name": "homo024_archive.torrent",
+            "sha1": "f0fc6912d405401faba355960c82cc00f839ebf3",
+            "size": "4559",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "84178f105f843a27b7e6941530d7ab97",
+            "name": "homo024_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "21fa396c",
+            "format": "Metadata",
+            "md5": "5aeef2ea7120cd147fa5f5ad7268e5f2",
+            "mtime": "1455259191",
+            "name": "homo024_meta.sqlite",
+            "sha1": "d8dfaf0e3ad4676992b795451192de625ec03398",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "bcc050ec",
+            "format": "Metadata",
+            "md5": "ab777540c193eff475da5a44885d0edb",
+            "mtime": "1555492226",
+            "name": "homo024_meta.xml",
+            "sha1": "9c9dc4dc7dc44bd2fa1a99846d0a6272818de294",
+            "size": "876",
+            "source": "original"
+        }
+    ],
+    "files_count": 12,
+    "item_last_updated": 1555492227,
+    "item_size": 43531537,
+    "metadata": {
+        "addeddate": "2016-02-12 06:39:36",
+        "backup_location": "ia906100_0",
+        "collection": "opensource_audio",
+        "creator": "Matthew Mullane",
+        "curation": "[curator]validator@archive.org[/curator][date]20160212063959[/date][comment]checked for malware[/comment]",
+        "date": "2008-01-01",
+        "description": "Hut",
+        "external_metadata_update": "2019-04-17T09:10:20Z",
+        "identifier": "homo024",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-12 06:39:36",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Abstract",
+            "Experimental"
+        ],
+        "title": "Hut",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800209.us.archive.org",
+    "uniq": 1595396026,
+    "workable_servers": [
+        "ia800209.us.archive.org",
+        "ia600209.us.archive.org"
+    ]
+}

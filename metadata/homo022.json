@@ -1,1 +1,149 @@
-{"created":1598535537,"d1":"ia600709.us.archive.org","d2":"ia800709.us.archive.org","dir":"/0/items/homo022","files":[{"name":"Xedh - Armiarma.afpk","source":"derivative","format":"Columbia Peaks","original":"Xedh - Armiarma.mp3","mtime":"1544495019","size":"215784","md5":"483a5c7fd1608614514e14de74dbf12d","crc32":"368f1c0b","sha1":"5038823797afccb8ab32161ce750c2c471fab057"},{"name":"Xedh - Armiarma.mp3","source":"original","mtime":"1544494909","size":"34117632","md5":"1d63feafbfe3a42cb5ab8310f377e1be","crc32":"83b96dbe","sha1":"bea78adec0f31348cb58db8306f5bdb95e1bb7c3","format":"VBR MP3","length":"850.81","height":"348","width":"535","title":"xedh - armiarma","track":"1","artist":"xedh","album":"Armiarma [Homophoni]","external-identifier":"urn:acoustid:e0759d94-30f2-4448-978c-4ebce1e96129","external-identifier-match-date":"acoustid:2019-04-13T16:39:40Z"},{"name":"Xedh - Armiarma.ogg","source":"derivative","format":"Ogg Vorbis","original":"Xedh - Armiarma.mp3","mtime":"1544494972","size":"9251814","md5":"e28fc237d5ef10afabffc5f4ca9370d8","crc32":"b00af20f","sha1":"6c92377057039ca559c7d0596d7222683365d379","length":"850.77","height":"0","width":"0"},{"name":"Xedh - Armiarma.png","source":"derivative","format":"PNG","original":"Xedh - Armiarma.mp3","mtime":"1544495000","size":"7879","md5":"7e282cd2df17d9cc43bc02267bc7d8cd","crc32":"19e2dbae","sha1":"c02b4549ddca085f05213a1ed225cca62a0b3f3e"},{"name":"Xedh - Armiarma_spectrogram.png","source":"derivative","format":"Spectrogram","original":"Xedh - Armiarma.mp3","mtime":"1544495007","size":"265900","md5":"004c393bcb7b74457ca57b21a9f20995","crc32":"2cef9d8a","sha1":"61c5a0851e4692b43907f26e83811bc5a5500e93"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1544495024","size":"1964","md5":"2f7c354a57bb0f16d4cb8981313d245f","crc32":"84eb7212","sha1":"cc3e215a49b27d98c6885ee9c97085f6ea341fc4","format":"Item Tile","rotation":"0"},{"name":"homo022_archive.torrent","source":"metadata","btih":"e3e453a82a11e03e2ddf8e6b2ebce6e5ee57444d","mtime":"1590448251","size":"4111","md5":"4dc8beab8f73ce8b4435589f709e9ed5","crc32":"773356fb","sha1":"0024edc4f074582f5f3fbe5580f0d2f0bd636d76","format":"Archive BitTorrent"},{"name":"homo022_files.xml","source":"original","format":"Metadata","md5":"10faca43d68c569b3dfd43b398466217"},{"name":"homo022_meta.sqlite","source":"original","mtime":"1544494935","size":"9216","md5":"9385b2eaff481fff63cc68e38afdd22b","crc32":"77557641","sha1":"bf53877f2441c6fab91d4405305859816db5a3f2","format":"Metadata"},{"name":"homo022_meta.xml","source":"original","mtime":"1590448250","size":"835","format":"Metadata","md5":"36ae31a943b6faf9534a559dc8874c8f","crc32":"894f7099","sha1":"51311866f38d31cf462b625a608045aead266618"}],"files_count":10,"item_last_updated":1590448251,"item_size":43875135,"metadata":{"identifier":"homo022","mediatype":"audio","collection":"opensource_audio","creator":"Xedh","date":"2007","description":"Armiarma","licenseurl":"http://creativecommons.org/licenses/by/4.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":"Abstract","title":"Armiarma","publicdate":"2018-12-11 02:21:49","uploader":"davidkirby@homophoni.com","addeddate":"2018-12-11 02:21:49","curation":"[curator]validator@archive.org[/curator][date]20181211022225[/date][comment]checked for malware[/comment]","external_metadata_update":"2019-04-13T16:39:40Z","backup_location":"ia906805_8"},"server":"ia800709.us.archive.org","uniq":487199651,"workable_servers":["ia800709.us.archive.org","ia600709.us.archive.org"]}
+{
+    "created": 1598535537,
+    "d1": "ia600709.us.archive.org",
+    "d2": "ia800709.us.archive.org",
+    "dir": "/0/items/homo022",
+    "files": [
+        {
+            "crc32": "368f1c0b",
+            "format": "Columbia Peaks",
+            "md5": "483a5c7fd1608614514e14de74dbf12d",
+            "mtime": "1544495019",
+            "name": "Xedh - Armiarma.afpk",
+            "original": "Xedh - Armiarma.mp3",
+            "sha1": "5038823797afccb8ab32161ce750c2c471fab057",
+            "size": "215784",
+            "source": "derivative"
+        },
+        {
+            "album": "Armiarma [Homophoni]",
+            "artist": "xedh",
+            "crc32": "83b96dbe",
+            "external-identifier": "urn:acoustid:e0759d94-30f2-4448-978c-4ebce1e96129",
+            "external-identifier-match-date": "acoustid:2019-04-13T16:39:40Z",
+            "format": "VBR MP3",
+            "height": "348",
+            "length": "850.81",
+            "md5": "1d63feafbfe3a42cb5ab8310f377e1be",
+            "mtime": "1544494909",
+            "name": "Xedh - Armiarma.mp3",
+            "sha1": "bea78adec0f31348cb58db8306f5bdb95e1bb7c3",
+            "size": "34117632",
+            "source": "original",
+            "title": "xedh - armiarma",
+            "track": "1",
+            "width": "535"
+        },
+        {
+            "crc32": "b00af20f",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "850.77",
+            "md5": "e28fc237d5ef10afabffc5f4ca9370d8",
+            "mtime": "1544494972",
+            "name": "Xedh - Armiarma.ogg",
+            "original": "Xedh - Armiarma.mp3",
+            "sha1": "6c92377057039ca559c7d0596d7222683365d379",
+            "size": "9251814",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "19e2dbae",
+            "format": "PNG",
+            "md5": "7e282cd2df17d9cc43bc02267bc7d8cd",
+            "mtime": "1544495000",
+            "name": "Xedh - Armiarma.png",
+            "original": "Xedh - Armiarma.mp3",
+            "sha1": "c02b4549ddca085f05213a1ed225cca62a0b3f3e",
+            "size": "7879",
+            "source": "derivative"
+        },
+        {
+            "crc32": "2cef9d8a",
+            "format": "Spectrogram",
+            "md5": "004c393bcb7b74457ca57b21a9f20995",
+            "mtime": "1544495007",
+            "name": "Xedh - Armiarma_spectrogram.png",
+            "original": "Xedh - Armiarma.mp3",
+            "sha1": "61c5a0851e4692b43907f26e83811bc5a5500e93",
+            "size": "265900",
+            "source": "derivative"
+        },
+        {
+            "crc32": "84eb7212",
+            "format": "Item Tile",
+            "md5": "2f7c354a57bb0f16d4cb8981313d245f",
+            "mtime": "1544495024",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "cc3e215a49b27d98c6885ee9c97085f6ea341fc4",
+            "size": "1964",
+            "source": "original"
+        },
+        {
+            "btih": "e3e453a82a11e03e2ddf8e6b2ebce6e5ee57444d",
+            "crc32": "773356fb",
+            "format": "Archive BitTorrent",
+            "md5": "4dc8beab8f73ce8b4435589f709e9ed5",
+            "mtime": "1590448251",
+            "name": "homo022_archive.torrent",
+            "sha1": "0024edc4f074582f5f3fbe5580f0d2f0bd636d76",
+            "size": "4111",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "10faca43d68c569b3dfd43b398466217",
+            "name": "homo022_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "77557641",
+            "format": "Metadata",
+            "md5": "9385b2eaff481fff63cc68e38afdd22b",
+            "mtime": "1544494935",
+            "name": "homo022_meta.sqlite",
+            "sha1": "bf53877f2441c6fab91d4405305859816db5a3f2",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "894f7099",
+            "format": "Metadata",
+            "md5": "36ae31a943b6faf9534a559dc8874c8f",
+            "mtime": "1590448250",
+            "name": "homo022_meta.xml",
+            "sha1": "51311866f38d31cf462b625a608045aead266618",
+            "size": "835",
+            "source": "original"
+        }
+    ],
+    "files_count": 10,
+    "item_last_updated": 1590448251,
+    "item_size": 43875135,
+    "metadata": {
+        "addeddate": "2018-12-11 02:21:49",
+        "backup_location": "ia906805_8",
+        "collection": "opensource_audio",
+        "creator": "Xedh",
+        "curation": "[curator]validator@archive.org[/curator][date]20181211022225[/date][comment]checked for malware[/comment]",
+        "date": "2007",
+        "description": "Armiarma",
+        "external_metadata_update": "2019-04-13T16:39:40Z",
+        "identifier": "homo022",
+        "licenseurl": "http://creativecommons.org/licenses/by/4.0/",
+        "mediatype": "audio",
+        "publicdate": "2018-12-11 02:21:49",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": "Abstract",
+        "title": "Armiarma",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800709.us.archive.org",
+    "uniq": 487199651,
+    "workable_servers": [
+        "ia800709.us.archive.org",
+        "ia600709.us.archive.org"
+    ]
+}

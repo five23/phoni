@@ -1,1 +1,171 @@
-{"created":1598535581,"d1":"ia600207.us.archive.org","d2":"ia800207.us.archive.org","dir":"/35/items/homo028","files":[{"name":"Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.afpk","source":"derivative","format":"Columbia Peaks","original":"Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.mp3","mtime":"1455259828","size":"233664","md5":"1345b7f4352197293f9f2f52a00d1fa7","crc32":"d656ebc5","sha1":"747fa7ef1634c3c73f2d5e99e8592736fbe5ae27"},{"name":"Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.mp3","source":"original","mtime":"1455259366","size":"73084928","md5":"4105ef14c2699f260bb8920d897c704d","crc32":"03855bb6","sha1":"4fefb88619069b505b535d9e7e59266122efd774","format":"VBR MP3","length":"1825.72","height":"348","width":"535","title":"Interrupci\u00f3n","artist":"Jason Kahn and Gabriel Paiuk","track":"1","album":"Interrupci\u00f3n","external-identifier-match-date":"acoustid:2019-04-01T22:08:47Z","external-identifier":"urn:acoustid:f5855df7-9034-4af9-a0a7-3f6a780d2e58"},{"name":"Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.ogg","source":"derivative","format":"Ogg Vorbis","original":"Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.mp3","mtime":"1455259487","size":"20285214","md5":"0c170c1edebebf96a918a25a16c0c842","crc32":"4ff88c66","sha1":"bad0a8f192963929f1edb5dc503edabd20a0e489","length":"1825.67","height":"0","width":"0"},{"name":"Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.png","source":"derivative","format":"PNG","original":"Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.mp3","mtime":"1455259528","size":"9455","md5":"06a386583788191ae8e28b30f9905c69","crc32":"d2450a69","sha1":"a8f9bc567492a824641d38ae3de75f8bb302ebc5"},{"name":"Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin_esshigh.json.gz","source":"derivative","format":"Essentia High GZ","original":"Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin_esslow.json.gz","mtime":"1455259858","size":"2016","md5":"44ea22d4e9d9290a90ef337af2fac20f","crc32":"fb458eb6","sha1":"060c52fab02c140f9e0d2366e8a0c35e643c68af"},{"name":"Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.mp3","mtime":"1455259784","size":"43113","md5":"f949913b3da5e3613da1ea159d092aa4","crc32":"cab32f0e","sha1":"bf9b3132028aba34891c92837cc78e9dab587165"},{"name":"Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin_spectrogram.png","source":"derivative","format":"Spectrogram","original":"Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.mp3","mtime":"1455259551","size":"324525","md5":"dea9dcc18532db6e10189ed52af2f702","crc32":"4e48c5ba","sha1":"a56ae197235761f1560713ed09c0d1c622a77fea"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1554156566","size":"2861","md5":"eb3ec15d6a1774ab1e66f5ec229d038b","crc32":"01a7b943","sha1":"bcc63293b97dc7b6b2f177f115a4f1649d1efd6c","format":"Item Tile","rotation":"0"},{"name":"homo028_archive.torrent","source":"metadata","btih":"110c8055b5e5f8690bf2d8201003f09c04b0c437","mtime":"1554156574","size":"6627","md5":"10b0b2ece896a404077a29662ee08292","crc32":"1646d312","sha1":"4111c83342ec7fb5c37101abb2eeccdb0686a9bf","format":"Archive BitTorrent"},{"name":"homo028_files.xml","source":"original","format":"Metadata","md5":"c23a973660fd6d0aae8fe0eb9ee46f55"},{"name":"homo028_meta.sqlite","source":"original","mtime":"1455259382","size":"9216","md5":"e2ccb0805a0c13c9b710416e849aa31a","crc32":"8bbb0532","sha1":"629f4f4d75bf4ccfe68a3596e1e4a7723c0eeb67","format":"Metadata"},{"name":"homo028_meta.xml","source":"original","mtime":"1554156571","size":"877","format":"Metadata","md5":"8be026ca6efee7b56ccbe2b3433a8a7c","crc32":"957a5d49","sha1":"26ee8d08e32448b252dc7a241b3b4452ff61e007"}],"files_count":12,"item_last_updated":1554156574,"item_size":94002496,"metadata":{"identifier":"homo028","mediatype":"audio","collection":"opensource_audio","creator":"Jason Kahn + Gabriel Paiuk","date":"2008-02-02","description":"Interrupci\u00f3n","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":"Experimental","title":"Interrupci\u00f3n","publicdate":"2016-02-12 06:42:47","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-12 06:42:47","curation":"[curator]validator@archive.org[/curator][date]20160212064312[/date][comment]checked for malware[/comment]","backup_location":"ia906100_0","external_metadata_update":"2019-04-01T22:08:47Z"},"server":"ia800207.us.archive.org","uniq":1886554945,"workable_servers":["ia800207.us.archive.org","ia600207.us.archive.org"]}
+{
+    "created": 1598535581,
+    "d1": "ia600207.us.archive.org",
+    "d2": "ia800207.us.archive.org",
+    "dir": "/35/items/homo028",
+    "files": [
+        {
+            "crc32": "d656ebc5",
+            "format": "Columbia Peaks",
+            "md5": "1345b7f4352197293f9f2f52a00d1fa7",
+            "mtime": "1455259828",
+            "name": "Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.afpk",
+            "original": "Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.mp3",
+            "sha1": "747fa7ef1634c3c73f2d5e99e8592736fbe5ae27",
+            "size": "233664",
+            "source": "derivative"
+        },
+        {
+            "album": "Interrupci\u00f3n",
+            "artist": "Jason Kahn and Gabriel Paiuk",
+            "crc32": "03855bb6",
+            "external-identifier": "urn:acoustid:f5855df7-9034-4af9-a0a7-3f6a780d2e58",
+            "external-identifier-match-date": "acoustid:2019-04-01T22:08:47Z",
+            "format": "VBR MP3",
+            "height": "348",
+            "length": "1825.72",
+            "md5": "4105ef14c2699f260bb8920d897c704d",
+            "mtime": "1455259366",
+            "name": "Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.mp3",
+            "sha1": "4fefb88619069b505b535d9e7e59266122efd774",
+            "size": "73084928",
+            "source": "original",
+            "title": "Interrupci\u00f3n",
+            "track": "1",
+            "width": "535"
+        },
+        {
+            "crc32": "4ff88c66",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1825.67",
+            "md5": "0c170c1edebebf96a918a25a16c0c842",
+            "mtime": "1455259487",
+            "name": "Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.ogg",
+            "original": "Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.mp3",
+            "sha1": "bad0a8f192963929f1edb5dc503edabd20a0e489",
+            "size": "20285214",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "d2450a69",
+            "format": "PNG",
+            "md5": "06a386583788191ae8e28b30f9905c69",
+            "mtime": "1455259528",
+            "name": "Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.png",
+            "original": "Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.mp3",
+            "sha1": "a8f9bc567492a824641d38ae3de75f8bb302ebc5",
+            "size": "9455",
+            "source": "derivative"
+        },
+        {
+            "crc32": "fb458eb6",
+            "format": "Essentia High GZ",
+            "md5": "44ea22d4e9d9290a90ef337af2fac20f",
+            "mtime": "1455259858",
+            "name": "Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin_esshigh.json.gz",
+            "original": "Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin_esslow.json.gz",
+            "sha1": "060c52fab02c140f9e0d2366e8a0c35e643c68af",
+            "size": "2016",
+            "source": "derivative"
+        },
+        {
+            "crc32": "cab32f0e",
+            "format": "Essentia Low GZ",
+            "md5": "f949913b3da5e3613da1ea159d092aa4",
+            "mtime": "1455259784",
+            "name": "Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin_esslow.json.gz",
+            "original": "Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.mp3",
+            "sha1": "bf9b3132028aba34891c92837cc78e9dab587165",
+            "size": "43113",
+            "source": "derivative"
+        },
+        {
+            "crc32": "4e48c5ba",
+            "format": "Spectrogram",
+            "md5": "dea9dcc18532db6e10189ed52af2f702",
+            "mtime": "1455259551",
+            "name": "Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin_spectrogram.png",
+            "original": "Jason_Kahn_and_Gabriel_Paiuk_-_01_-_Interrupcin.mp3",
+            "sha1": "a56ae197235761f1560713ed09c0d1c622a77fea",
+            "size": "324525",
+            "source": "derivative"
+        },
+        {
+            "crc32": "01a7b943",
+            "format": "Item Tile",
+            "md5": "eb3ec15d6a1774ab1e66f5ec229d038b",
+            "mtime": "1554156566",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "bcc63293b97dc7b6b2f177f115a4f1649d1efd6c",
+            "size": "2861",
+            "source": "original"
+        },
+        {
+            "btih": "110c8055b5e5f8690bf2d8201003f09c04b0c437",
+            "crc32": "1646d312",
+            "format": "Archive BitTorrent",
+            "md5": "10b0b2ece896a404077a29662ee08292",
+            "mtime": "1554156574",
+            "name": "homo028_archive.torrent",
+            "sha1": "4111c83342ec7fb5c37101abb2eeccdb0686a9bf",
+            "size": "6627",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "c23a973660fd6d0aae8fe0eb9ee46f55",
+            "name": "homo028_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "8bbb0532",
+            "format": "Metadata",
+            "md5": "e2ccb0805a0c13c9b710416e849aa31a",
+            "mtime": "1455259382",
+            "name": "homo028_meta.sqlite",
+            "sha1": "629f4f4d75bf4ccfe68a3596e1e4a7723c0eeb67",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "957a5d49",
+            "format": "Metadata",
+            "md5": "8be026ca6efee7b56ccbe2b3433a8a7c",
+            "mtime": "1554156571",
+            "name": "homo028_meta.xml",
+            "sha1": "26ee8d08e32448b252dc7a241b3b4452ff61e007",
+            "size": "877",
+            "source": "original"
+        }
+    ],
+    "files_count": 12,
+    "item_last_updated": 1554156574,
+    "item_size": 94002496,
+    "metadata": {
+        "addeddate": "2016-02-12 06:42:47",
+        "backup_location": "ia906100_0",
+        "collection": "opensource_audio",
+        "creator": "Jason Kahn + Gabriel Paiuk",
+        "curation": "[curator]validator@archive.org[/curator][date]20160212064312[/date][comment]checked for malware[/comment]",
+        "date": "2008-02-02",
+        "description": "Interrupci\u00f3n",
+        "external_metadata_update": "2019-04-01T22:08:47Z",
+        "identifier": "homo028",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-12 06:42:47",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": "Experimental",
+        "title": "Interrupci\u00f3n",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800207.us.archive.org",
+    "uniq": 1886554945,
+    "workable_servers": [
+        "ia800207.us.archive.org",
+        "ia600207.us.archive.org"
+    ]
+}

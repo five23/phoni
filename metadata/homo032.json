@@ -1,1 +1,184 @@
-{"created":1598535587,"d1":"ia600207.us.archive.org","d2":"ia800207.us.archive.org","dir":"/28/items/homo032","files":[{"name":"VanessaRossetto-GloriaTejana.afpk","source":"derivative","format":"Columbia Peaks","original":"VanessaRossetto-GloriaTejana.wav","mtime":"1456194375","size":"203608","md5":"a8af0eac4a1383202070c28b3f4d2f9a","crc32":"dada132d","sha1":"f064f2acd7128b8bade7470df0067ae1938a08f6"},{"name":"VanessaRossetto-GloriaTejana.flac","source":"derivative","format":"Flac","original":"VanessaRossetto-GloriaTejana.wav","mtime":"1456194197","size":"84898208","md5":"087c7e4fbb06121b80467a059fca5cbc","crc32":"db743979","sha1":"4f1a33d88ec15daaad21e680060bdeb5d9ebc16b","length":"1026.23","height":"0","width":"0"},{"name":"VanessaRossetto-GloriaTejana.mp3","source":"derivative","title":"vanessa rossetto - gloria tejana","bitrate":"169","length":"17:06","format":"VBR MP3","original":"VanessaRossetto-GloriaTejana.wav","mtime":"1456194136","size":"21680128","md5":"f90514d5eabd2e1b347c652ce47e7a5d","crc32":"2705a0e2","sha1":"b0cdc0406f6084f9529e4f2ac508d46d0903a97e","height":"0","width":"0"},{"name":"VanessaRossetto-GloriaTejana.ogg","source":"derivative","format":"Ogg Vorbis","original":"VanessaRossetto-GloriaTejana.wav","mtime":"1456194184","size":"10157498","md5":"09b98c38b1b3b4e02aec5f7f800888b4","crc32":"3b73687c","sha1":"bf7b23a8b385617ec2a590158a1229419195a18e","length":"1026.23","height":"0","width":"0"},{"name":"VanessaRossetto-GloriaTejana.png","source":"derivative","format":"PNG","original":"VanessaRossetto-GloriaTejana.wav","mtime":"1456194224","size":"7254","md5":"3fe61dae6a7a130d48bd2e6c5c3fff6f","crc32":"275ff883","sha1":"e28c98a271ce044a3a5074ed2652b4f6d0e5afcb"},{"name":"VanessaRossetto-GloriaTejana.wav","source":"original","format":"WAVE","length":"1026.23","height":"0","width":"0","title":"vanessa rossetto - gloria tejana","mtime":"1456194055","size":"181027720","md5":"500554130031af8a2bf5582e136a0a7b","crc32":"a46d31e4","sha1":"2d8f13bbbb0fb236d664a146a55ce20ef6c70d55"},{"name":"VanessaRossetto-GloriaTejana_esshigh.json.gz","source":"derivative","format":"Essentia High GZ","original":"VanessaRossetto-GloriaTejana_esslow.json.gz","mtime":"1456194417","size":"1840","md5":"f248c3fb6a383c807b99a099e3b05d5a","crc32":"aeebca53","sha1":"43741aca257640c580dd29a67de3c088eaf4228e"},{"name":"VanessaRossetto-GloriaTejana_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"VanessaRossetto-GloriaTejana.wav","mtime":"1456194343","size":"34157","md5":"c32efe864e4ec6344adcc652daee93f1","crc32":"65877054","sha1":"4f0dad1aac01a8e0aa771a7c8c6faaf32e4befea"},{"name":"VanessaRossetto-GloriaTejana_spectrogram.png","source":"derivative","format":"Spectrogram","original":"VanessaRossetto-GloriaTejana.wav","mtime":"1456194232","size":"309801","md5":"817b8ba6ae30395f277ee9ac25ffa9ee","crc32":"cd886047","sha1":"5b2c5deee594752969952202780e2a17742422c8"},{"name":"homo032_archive.torrent","source":"metadata","btih":"e729d27bdde545cc7e6aee32ddf4a2f28402f283","mtime":"1482447922","size":"14538","md5":"017033089913205e7e86ae4b13c7d46f","crc32":"d631fbd7","sha1":"05418e8d6969f9df62131344b49a88abb19242a8","format":"Archive BitTorrent"},{"name":"homo032_files.xml","source":"original","format":"Metadata","md5":"738b15956f783ede8549b72108614f05"},{"name":"homo032_meta.sqlite","source":"original","mtime":"1455257170","size":"9216","md5":"411e196b131ccf672df21ea2bc8dd134","crc32":"a4e0ef65","sha1":"99e68f4122e8dcb01ccccfe095a0d6e11a29d5cc","format":"Metadata"},{"name":"homo032_meta.xml","source":"original","mtime":"1482447918","size":"791","format":"Metadata","md5":"5064bd78343631028643a8dfba60b954","crc32":"7e1aab58","sha1":"49d2dc89db4ade33c7d6a8357934a37a67a0e4c0"}],"files_count":13,"item_last_updated":1482447922,"item_size":298344759,"metadata":{"identifier":"homo032","mediatype":"audio","collection":"opensource_audio","creator":"Vanessa Rossetto","date":"2008-02-01","description":"Gloria Tejana","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":"Experimental","title":"Gloria Tejana","publicdate":"2016-02-12 06:06:00","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-12 06:06:00","curation":"[curator]validator@archive.org[/curator][date]20160212060618[/date][comment]checked for malware[/comment]","backup_location":"ia906100_0"},"server":"ia800207.us.archive.org","uniq":2002725341,"workable_servers":["ia800207.us.archive.org","ia600207.us.archive.org"]}
+{
+    "created": 1598535587,
+    "d1": "ia600207.us.archive.org",
+    "d2": "ia800207.us.archive.org",
+    "dir": "/28/items/homo032",
+    "files": [
+        {
+            "crc32": "dada132d",
+            "format": "Columbia Peaks",
+            "md5": "a8af0eac4a1383202070c28b3f4d2f9a",
+            "mtime": "1456194375",
+            "name": "VanessaRossetto-GloriaTejana.afpk",
+            "original": "VanessaRossetto-GloriaTejana.wav",
+            "sha1": "f064f2acd7128b8bade7470df0067ae1938a08f6",
+            "size": "203608",
+            "source": "derivative"
+        },
+        {
+            "crc32": "db743979",
+            "format": "Flac",
+            "height": "0",
+            "length": "1026.23",
+            "md5": "087c7e4fbb06121b80467a059fca5cbc",
+            "mtime": "1456194197",
+            "name": "VanessaRossetto-GloriaTejana.flac",
+            "original": "VanessaRossetto-GloriaTejana.wav",
+            "sha1": "4f1a33d88ec15daaad21e680060bdeb5d9ebc16b",
+            "size": "84898208",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "bitrate": "169",
+            "crc32": "2705a0e2",
+            "format": "VBR MP3",
+            "height": "0",
+            "length": "17:06",
+            "md5": "f90514d5eabd2e1b347c652ce47e7a5d",
+            "mtime": "1456194136",
+            "name": "VanessaRossetto-GloriaTejana.mp3",
+            "original": "VanessaRossetto-GloriaTejana.wav",
+            "sha1": "b0cdc0406f6084f9529e4f2ac508d46d0903a97e",
+            "size": "21680128",
+            "source": "derivative",
+            "title": "vanessa rossetto - gloria tejana",
+            "width": "0"
+        },
+        {
+            "crc32": "3b73687c",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1026.23",
+            "md5": "09b98c38b1b3b4e02aec5f7f800888b4",
+            "mtime": "1456194184",
+            "name": "VanessaRossetto-GloriaTejana.ogg",
+            "original": "VanessaRossetto-GloriaTejana.wav",
+            "sha1": "bf7b23a8b385617ec2a590158a1229419195a18e",
+            "size": "10157498",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "275ff883",
+            "format": "PNG",
+            "md5": "3fe61dae6a7a130d48bd2e6c5c3fff6f",
+            "mtime": "1456194224",
+            "name": "VanessaRossetto-GloriaTejana.png",
+            "original": "VanessaRossetto-GloriaTejana.wav",
+            "sha1": "e28c98a271ce044a3a5074ed2652b4f6d0e5afcb",
+            "size": "7254",
+            "source": "derivative"
+        },
+        {
+            "crc32": "a46d31e4",
+            "format": "WAVE",
+            "height": "0",
+            "length": "1026.23",
+            "md5": "500554130031af8a2bf5582e136a0a7b",
+            "mtime": "1456194055",
+            "name": "VanessaRossetto-GloriaTejana.wav",
+            "sha1": "2d8f13bbbb0fb236d664a146a55ce20ef6c70d55",
+            "size": "181027720",
+            "source": "original",
+            "title": "vanessa rossetto - gloria tejana",
+            "width": "0"
+        },
+        {
+            "crc32": "aeebca53",
+            "format": "Essentia High GZ",
+            "md5": "f248c3fb6a383c807b99a099e3b05d5a",
+            "mtime": "1456194417",
+            "name": "VanessaRossetto-GloriaTejana_esshigh.json.gz",
+            "original": "VanessaRossetto-GloriaTejana_esslow.json.gz",
+            "sha1": "43741aca257640c580dd29a67de3c088eaf4228e",
+            "size": "1840",
+            "source": "derivative"
+        },
+        {
+            "crc32": "65877054",
+            "format": "Essentia Low GZ",
+            "md5": "c32efe864e4ec6344adcc652daee93f1",
+            "mtime": "1456194343",
+            "name": "VanessaRossetto-GloriaTejana_esslow.json.gz",
+            "original": "VanessaRossetto-GloriaTejana.wav",
+            "sha1": "4f0dad1aac01a8e0aa771a7c8c6faaf32e4befea",
+            "size": "34157",
+            "source": "derivative"
+        },
+        {
+            "crc32": "cd886047",
+            "format": "Spectrogram",
+            "md5": "817b8ba6ae30395f277ee9ac25ffa9ee",
+            "mtime": "1456194232",
+            "name": "VanessaRossetto-GloriaTejana_spectrogram.png",
+            "original": "VanessaRossetto-GloriaTejana.wav",
+            "sha1": "5b2c5deee594752969952202780e2a17742422c8",
+            "size": "309801",
+            "source": "derivative"
+        },
+        {
+            "btih": "e729d27bdde545cc7e6aee32ddf4a2f28402f283",
+            "crc32": "d631fbd7",
+            "format": "Archive BitTorrent",
+            "md5": "017033089913205e7e86ae4b13c7d46f",
+            "mtime": "1482447922",
+            "name": "homo032_archive.torrent",
+            "sha1": "05418e8d6969f9df62131344b49a88abb19242a8",
+            "size": "14538",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "738b15956f783ede8549b72108614f05",
+            "name": "homo032_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "a4e0ef65",
+            "format": "Metadata",
+            "md5": "411e196b131ccf672df21ea2bc8dd134",
+            "mtime": "1455257170",
+            "name": "homo032_meta.sqlite",
+            "sha1": "99e68f4122e8dcb01ccccfe095a0d6e11a29d5cc",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "7e1aab58",
+            "format": "Metadata",
+            "md5": "5064bd78343631028643a8dfba60b954",
+            "mtime": "1482447918",
+            "name": "homo032_meta.xml",
+            "sha1": "49d2dc89db4ade33c7d6a8357934a37a67a0e4c0",
+            "size": "791",
+            "source": "original"
+        }
+    ],
+    "files_count": 13,
+    "item_last_updated": 1482447922,
+    "item_size": 298344759,
+    "metadata": {
+        "addeddate": "2016-02-12 06:06:00",
+        "backup_location": "ia906100_0",
+        "collection": "opensource_audio",
+        "creator": "Vanessa Rossetto",
+        "curation": "[curator]validator@archive.org[/curator][date]20160212060618[/date][comment]checked for malware[/comment]",
+        "date": "2008-02-01",
+        "description": "Gloria Tejana",
+        "identifier": "homo032",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-12 06:06:00",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": "Experimental",
+        "title": "Gloria Tejana",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800207.us.archive.org",
+    "uniq": 2002725341,
+    "workable_servers": [
+        "ia800207.us.archive.org",
+        "ia600207.us.archive.org"
+    ]
+}

@@ -1,1 +1,151 @@
-{"created":1598535529,"d1":"ia600204.us.archive.org","d2":"ia800204.us.archive.org","dir":"/7/items/homo017","files":[{"name":"homo017_archive.torrent","source":"metadata","btih":"6569abf518e3049e3e350998ee038053ab6c05d9","mtime":"1482397797","size":"5181","md5":"85a0e47aba3d95e4be856df81466b9db","crc32":"834d81ea","sha1":"0929833de3aadfae0530b75da7a3df48774b0a4b","format":"Archive BitTorrent"},{"name":"homo017_files.xml","source":"original","format":"Metadata","md5":"c294132ecc90317621f3048cee814ea6"},{"name":"homo017_meta.sqlite","source":"original","mtime":"1455256666","size":"12288","md5":"c1128722908929c37598da608dfa6bd2","crc32":"435c63c5","sha1":"d09ea845d0a0316f56a796fc308bbe0e8f6fbf2b","format":"Metadata"},{"name":"homo017_meta.xml","source":"original","mtime":"1482397796","size":"1382","format":"Metadata","md5":"e6645a38709fad8dc1da7b3b1d718e48","crc32":"40825639","sha1":"ab249108ca27e719e11beede69b48772bbe8adfd"},{"name":"no-mind - degree absolute.afpk","source":"derivative","format":"Columbia Peaks","original":"no-mind - degree absolute.mp3","mtime":"1455257071","size":"488904","md5":"dc462a3c22980523229ffe3dc57555be","crc32":"e46e594f","sha1":"92da889e29a8f0b80d4dbbbd9efd75f58b27a055"},{"name":"no-mind - degree absolute.mp3","source":"original","mtime":"1455256652","size":"60446720","md5":"d40d70d964f4d7584cfb861e5d45fd60","crc32":"b1622d06","sha1":"d832445d984f0ca034628f65ccfd24b63104c010","format":"VBR MP3","length":"1510.11","height":"348","width":"535","genre":"Unknowable","album":"Degree Absolute [Homophoni]","title":"Degree Absolute","track":"1","artist":"no-mind"},{"name":"no-mind - degree absolute.ogg","source":"derivative","format":"Ogg Vorbis","original":"no-mind - degree absolute.mp3","mtime":"1455256754","size":"8055815","md5":"4e36266b974acf0ee1306630f049d5ed","crc32":"257dd219","sha1":"e386775f556911c5c6d2cd0c51fc314fb4653913","length":"1510.05","height":"0","width":"0"},{"name":"no-mind - degree absolute.png","source":"derivative","format":"PNG","original":"no-mind - degree absolute.mp3","mtime":"1455256825","size":"5739","md5":"4562cc9b0897f12fb58d590056f80c16","crc32":"aa69185c","sha1":"2aa1e2f83844b67bdd21eb00e62e98d8d7562a6f"},{"name":"no-mind - degree absolute_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"no-mind - degree absolute.mp3","mtime":"1455257030","size":"39681","md5":"9030cc38ef8717a74a844d44d86ff60e","crc32":"db5a1c29","sha1":"7a50e76f23697c53e81a9512d7ddc5dc3c0bc23c"},{"name":"no-mind - degree absolute_spectrogram.png","source":"derivative","format":"Spectrogram","original":"no-mind - degree absolute.mp3","mtime":"1455256844","size":"155151","md5":"a7dc30dc1f8cd6d3c0fe99eb1514685e","crc32":"66e90250","sha1":"a6dd7d078d0438669ebc7ded74704313cfce05cb"}],"files_count":10,"item_last_updated":1482397797,"item_size":69210861,"metadata":{"identifier":"homo017","mediatype":"audio","collection":"opensource_audio","creator":"No-Mind","date":"2006-10-01","description":"<table class=\"playlist\" style=\"border-collapse:collapse;border-spacing:0px;width:819px;clear:none;line-height:18px;font-family:'Helvetica Neue', Helvetica, 'Nimbus Sans', Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);\"><tbody><tr class=\"first tracklist_track track\" style=\"vertical-align:top;border-top-width:0px;\"><td class=\"track tracklist_track_title\" style=\"padding:2px;\"><span class=\"tracklist_track_title\">Degree Absolute<br /></span></td></tr></tbody></table>","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Experimental","Minimal","Ambient"],"title":"Degree Absolute","publicdate":"2016-02-12 05:57:33","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-12 05:57:33","curation":"[curator]validator@archive.org[/curator][date]20160212055756[/date][comment]checked for malware[/comment]","backup_location":"ia906100_0"},"server":"ia800204.us.archive.org","uniq":467230332,"workable_servers":["ia800204.us.archive.org","ia600204.us.archive.org"]}
+{
+    "created": 1598535529,
+    "d1": "ia600204.us.archive.org",
+    "d2": "ia800204.us.archive.org",
+    "dir": "/7/items/homo017",
+    "files": [
+        {
+            "btih": "6569abf518e3049e3e350998ee038053ab6c05d9",
+            "crc32": "834d81ea",
+            "format": "Archive BitTorrent",
+            "md5": "85a0e47aba3d95e4be856df81466b9db",
+            "mtime": "1482397797",
+            "name": "homo017_archive.torrent",
+            "sha1": "0929833de3aadfae0530b75da7a3df48774b0a4b",
+            "size": "5181",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "c294132ecc90317621f3048cee814ea6",
+            "name": "homo017_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "435c63c5",
+            "format": "Metadata",
+            "md5": "c1128722908929c37598da608dfa6bd2",
+            "mtime": "1455256666",
+            "name": "homo017_meta.sqlite",
+            "sha1": "d09ea845d0a0316f56a796fc308bbe0e8f6fbf2b",
+            "size": "12288",
+            "source": "original"
+        },
+        {
+            "crc32": "40825639",
+            "format": "Metadata",
+            "md5": "e6645a38709fad8dc1da7b3b1d718e48",
+            "mtime": "1482397796",
+            "name": "homo017_meta.xml",
+            "sha1": "ab249108ca27e719e11beede69b48772bbe8adfd",
+            "size": "1382",
+            "source": "original"
+        },
+        {
+            "crc32": "e46e594f",
+            "format": "Columbia Peaks",
+            "md5": "dc462a3c22980523229ffe3dc57555be",
+            "mtime": "1455257071",
+            "name": "no-mind - degree absolute.afpk",
+            "original": "no-mind - degree absolute.mp3",
+            "sha1": "92da889e29a8f0b80d4dbbbd9efd75f58b27a055",
+            "size": "488904",
+            "source": "derivative"
+        },
+        {
+            "album": "Degree Absolute [Homophoni]",
+            "artist": "no-mind",
+            "crc32": "b1622d06",
+            "format": "VBR MP3",
+            "genre": "Unknowable",
+            "height": "348",
+            "length": "1510.11",
+            "md5": "d40d70d964f4d7584cfb861e5d45fd60",
+            "mtime": "1455256652",
+            "name": "no-mind - degree absolute.mp3",
+            "sha1": "d832445d984f0ca034628f65ccfd24b63104c010",
+            "size": "60446720",
+            "source": "original",
+            "title": "Degree Absolute",
+            "track": "1",
+            "width": "535"
+        },
+        {
+            "crc32": "257dd219",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1510.05",
+            "md5": "4e36266b974acf0ee1306630f049d5ed",
+            "mtime": "1455256754",
+            "name": "no-mind - degree absolute.ogg",
+            "original": "no-mind - degree absolute.mp3",
+            "sha1": "e386775f556911c5c6d2cd0c51fc314fb4653913",
+            "size": "8055815",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "aa69185c",
+            "format": "PNG",
+            "md5": "4562cc9b0897f12fb58d590056f80c16",
+            "mtime": "1455256825",
+            "name": "no-mind - degree absolute.png",
+            "original": "no-mind - degree absolute.mp3",
+            "sha1": "2aa1e2f83844b67bdd21eb00e62e98d8d7562a6f",
+            "size": "5739",
+            "source": "derivative"
+        },
+        {
+            "crc32": "db5a1c29",
+            "format": "Essentia Low GZ",
+            "md5": "9030cc38ef8717a74a844d44d86ff60e",
+            "mtime": "1455257030",
+            "name": "no-mind - degree absolute_esslow.json.gz",
+            "original": "no-mind - degree absolute.mp3",
+            "sha1": "7a50e76f23697c53e81a9512d7ddc5dc3c0bc23c",
+            "size": "39681",
+            "source": "derivative"
+        },
+        {
+            "crc32": "66e90250",
+            "format": "Spectrogram",
+            "md5": "a7dc30dc1f8cd6d3c0fe99eb1514685e",
+            "mtime": "1455256844",
+            "name": "no-mind - degree absolute_spectrogram.png",
+            "original": "no-mind - degree absolute.mp3",
+            "sha1": "a6dd7d078d0438669ebc7ded74704313cfce05cb",
+            "size": "155151",
+            "source": "derivative"
+        }
+    ],
+    "files_count": 10,
+    "item_last_updated": 1482397797,
+    "item_size": 69210861,
+    "metadata": {
+        "addeddate": "2016-02-12 05:57:33",
+        "backup_location": "ia906100_0",
+        "collection": "opensource_audio",
+        "creator": "No-Mind",
+        "curation": "[curator]validator@archive.org[/curator][date]20160212055756[/date][comment]checked for malware[/comment]",
+        "date": "2006-10-01",
+        "description": "<table class=\"playlist\" style=\"border-collapse:collapse;border-spacing:0px;width:819px;clear:none;line-height:18px;font-family:'Helvetica Neue', Helvetica, 'Nimbus Sans', Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);\"><tbody><tr class=\"first tracklist_track track\" style=\"vertical-align:top;border-top-width:0px;\"><td class=\"track tracklist_track_title\" style=\"padding:2px;\"><span class=\"tracklist_track_title\">Degree Absolute<br /></span></td></tr></tbody></table>",
+        "identifier": "homo017",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-12 05:57:33",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Experimental",
+            "Minimal",
+            "Ambient"
+        ],
+        "title": "Degree Absolute",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800204.us.archive.org",
+    "uniq": 467230332,
+    "workable_servers": [
+        "ia800204.us.archive.org",
+        "ia600204.us.archive.org"
+    ]
+}

@@ -1,1 +1,150 @@
-{"created":1598535698,"d1":"ia600705.us.archive.org","d2":"ia800705.us.archive.org","dir":"/24/items/homo048","files":[{"name":"Fraufraulein - Background Behind Pattern.afpk","source":"derivative","format":"Columbia Peaks","original":"Fraufraulein - Background Behind Pattern.mp3","mtime":"1544494238","size":"514568","md5":"99334ce5e95a1ff7f0da522e0c01d784","crc32":"aaca3e85","sha1":"736c905dc0a82758a44fdb7e5ac3ca994b18e809"},{"name":"Fraufraulein - Background Behind Pattern.mp3","source":"original","mtime":"1544494040","size":"73821457","md5":"e9c348c55edb0d8d58d585670235e0da","crc32":"e2b5288e","sha1":"698fc291e89d18a0e7b1526805d34ef9fcfb33a1","format":"VBR MP3","length":"1838.24","height":"348","width":"535","title":"Background Behind Pattern","artist":"Fraufraulein","genre":"eai","album":"Background Behind Pattern","track":"1\/1","external-identifier":"urn:acoustid:991a1a1d-03d2-4d1c-a315-2b13f7554507","external-identifier-match-date":"acoustid:2019-03-13T00:02:44Z"},{"name":"Fraufraulein - Background Behind Pattern.ogg","source":"derivative","format":"Ogg Vorbis","original":"Fraufraulein - Background Behind Pattern.mp3","mtime":"1544494138","size":"18053148","md5":"271a83a5229ef755f9eca50ff6883d38","crc32":"e0d849dc","sha1":"72b39bcb1894ef8b33866bf3090f056c9c8769e8","length":"1838.17","height":"0","width":"0"},{"name":"Fraufraulein - Background Behind Pattern.png","source":"derivative","format":"PNG","original":"Fraufraulein - Background Behind Pattern.mp3","mtime":"1544494199","size":"8125","md5":"1b9e478873c5affe7a8180e9a1ae9502","crc32":"6df4cfe6","sha1":"2bcc015d83c58a95a7184a04edbb6e7eecd8c494"},{"name":"Fraufraulein - Background Behind Pattern_spectrogram.png","source":"derivative","format":"Spectrogram","original":"Fraufraulein - Background Behind Pattern.mp3","mtime":"1544494213","size":"175060","md5":"13c04d25002e9eb12866dac294fa5bcf","crc32":"08069851","sha1":"24bdbadb1cb5db7da34003b227211eab702e300b"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1544494253","size":"2573","md5":"b0ea8c4563790e0c2858810b224509e5","crc32":"01dec31f","sha1":"83f81c80778758e1c4ed902d2b09e93985ecf103","format":"Item Tile","rotation":"0"},{"name":"homo048_archive.torrent","source":"metadata","btih":"e34372ff5816cce0d539fe5f5ffd8807e6a966a2","mtime":"1590372351","size":"6101","md5":"b0d1f9cf8c95b72331cc7accf4ee7581","crc32":"db99e641","sha1":"5150fec1dd4dbcf5891f2e648385db7f7644b144","format":"Archive BitTorrent"},{"name":"homo048_files.xml","source":"original","format":"Metadata","md5":"e5937cc7d06ca980fe7406a2468578e9"},{"name":"homo048_meta.sqlite","source":"original","mtime":"1544494063","size":"11264","md5":"4d55bb2463e8e144a45be3da07be991b","crc32":"ea91f54e","sha1":"6d312c2aa8f0fa29a32715f53f58310245f230d0","format":"Metadata"},{"name":"homo048_meta.xml","source":"original","mtime":"1590372350","size":"877","format":"Metadata","md5":"fe43fe8b0520888f70b53a858a59e80e","crc32":"58c3a274","sha1":"2f62f181516a554dc33818d5006345b45f241609"}],"files_count":10,"item_last_updated":1590372351,"item_size":92593173,"metadata":{"identifier":"homo048","mediatype":"audio","collection":"opensource_audio","creator":"Fraufraulein","date":"2011","description":"Background Behind Pattern","licenseurl":"http://creativecommons.org/licenses/by/4.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":"Abstract","title":"Background Behind Pattern","publicdate":"2018-12-11 02:07:21","uploader":"davidkirby@homophoni.com","addeddate":"2018-12-11 02:07:21","curation":"[curator]validator@archive.org[/curator][date]20181211020756[/date][comment]checked for malware[/comment]","external_metadata_update":"2019-03-13T00:02:44Z","backup_location":"ia906805_8"},"server":"ia800705.us.archive.org","uniq":1528645571,"workable_servers":["ia800705.us.archive.org","ia600705.us.archive.org"]}
+{
+    "created": 1598535698,
+    "d1": "ia600705.us.archive.org",
+    "d2": "ia800705.us.archive.org",
+    "dir": "/24/items/homo048",
+    "files": [
+        {
+            "crc32": "aaca3e85",
+            "format": "Columbia Peaks",
+            "md5": "99334ce5e95a1ff7f0da522e0c01d784",
+            "mtime": "1544494238",
+            "name": "Fraufraulein - Background Behind Pattern.afpk",
+            "original": "Fraufraulein - Background Behind Pattern.mp3",
+            "sha1": "736c905dc0a82758a44fdb7e5ac3ca994b18e809",
+            "size": "514568",
+            "source": "derivative"
+        },
+        {
+            "album": "Background Behind Pattern",
+            "artist": "Fraufraulein",
+            "crc32": "e2b5288e",
+            "external-identifier": "urn:acoustid:991a1a1d-03d2-4d1c-a315-2b13f7554507",
+            "external-identifier-match-date": "acoustid:2019-03-13T00:02:44Z",
+            "format": "VBR MP3",
+            "genre": "eai",
+            "height": "348",
+            "length": "1838.24",
+            "md5": "e9c348c55edb0d8d58d585670235e0da",
+            "mtime": "1544494040",
+            "name": "Fraufraulein - Background Behind Pattern.mp3",
+            "sha1": "698fc291e89d18a0e7b1526805d34ef9fcfb33a1",
+            "size": "73821457",
+            "source": "original",
+            "title": "Background Behind Pattern",
+            "track": "1/1",
+            "width": "535"
+        },
+        {
+            "crc32": "e0d849dc",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1838.17",
+            "md5": "271a83a5229ef755f9eca50ff6883d38",
+            "mtime": "1544494138",
+            "name": "Fraufraulein - Background Behind Pattern.ogg",
+            "original": "Fraufraulein - Background Behind Pattern.mp3",
+            "sha1": "72b39bcb1894ef8b33866bf3090f056c9c8769e8",
+            "size": "18053148",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "6df4cfe6",
+            "format": "PNG",
+            "md5": "1b9e478873c5affe7a8180e9a1ae9502",
+            "mtime": "1544494199",
+            "name": "Fraufraulein - Background Behind Pattern.png",
+            "original": "Fraufraulein - Background Behind Pattern.mp3",
+            "sha1": "2bcc015d83c58a95a7184a04edbb6e7eecd8c494",
+            "size": "8125",
+            "source": "derivative"
+        },
+        {
+            "crc32": "08069851",
+            "format": "Spectrogram",
+            "md5": "13c04d25002e9eb12866dac294fa5bcf",
+            "mtime": "1544494213",
+            "name": "Fraufraulein - Background Behind Pattern_spectrogram.png",
+            "original": "Fraufraulein - Background Behind Pattern.mp3",
+            "sha1": "24bdbadb1cb5db7da34003b227211eab702e300b",
+            "size": "175060",
+            "source": "derivative"
+        },
+        {
+            "crc32": "01dec31f",
+            "format": "Item Tile",
+            "md5": "b0ea8c4563790e0c2858810b224509e5",
+            "mtime": "1544494253",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "83f81c80778758e1c4ed902d2b09e93985ecf103",
+            "size": "2573",
+            "source": "original"
+        },
+        {
+            "btih": "e34372ff5816cce0d539fe5f5ffd8807e6a966a2",
+            "crc32": "db99e641",
+            "format": "Archive BitTorrent",
+            "md5": "b0d1f9cf8c95b72331cc7accf4ee7581",
+            "mtime": "1590372351",
+            "name": "homo048_archive.torrent",
+            "sha1": "5150fec1dd4dbcf5891f2e648385db7f7644b144",
+            "size": "6101",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "e5937cc7d06ca980fe7406a2468578e9",
+            "name": "homo048_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "ea91f54e",
+            "format": "Metadata",
+            "md5": "4d55bb2463e8e144a45be3da07be991b",
+            "mtime": "1544494063",
+            "name": "homo048_meta.sqlite",
+            "sha1": "6d312c2aa8f0fa29a32715f53f58310245f230d0",
+            "size": "11264",
+            "source": "original"
+        },
+        {
+            "crc32": "58c3a274",
+            "format": "Metadata",
+            "md5": "fe43fe8b0520888f70b53a858a59e80e",
+            "mtime": "1590372350",
+            "name": "homo048_meta.xml",
+            "sha1": "2f62f181516a554dc33818d5006345b45f241609",
+            "size": "877",
+            "source": "original"
+        }
+    ],
+    "files_count": 10,
+    "item_last_updated": 1590372351,
+    "item_size": 92593173,
+    "metadata": {
+        "addeddate": "2018-12-11 02:07:21",
+        "backup_location": "ia906805_8",
+        "collection": "opensource_audio",
+        "creator": "Fraufraulein",
+        "curation": "[curator]validator@archive.org[/curator][date]20181211020756[/date][comment]checked for malware[/comment]",
+        "date": "2011",
+        "description": "Background Behind Pattern",
+        "external_metadata_update": "2019-03-13T00:02:44Z",
+        "identifier": "homo048",
+        "licenseurl": "http://creativecommons.org/licenses/by/4.0/",
+        "mediatype": "audio",
+        "publicdate": "2018-12-11 02:07:21",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": "Abstract",
+        "title": "Background Behind Pattern",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800705.us.archive.org",
+    "uniq": 1528645571,
+    "workable_servers": [
+        "ia800705.us.archive.org",
+        "ia600705.us.archive.org"
+    ]
+}

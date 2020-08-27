@@ -1,1 +1,150 @@
-{"created":1598535600,"d1":"ia600700.us.archive.org","d2":"ia800700.us.archive.org","dir":"/6/items/homo038","files":[{"name":"Boris Hauf + Adam Sonderberg - Schamlos 0202.afpk","source":"derivative","format":"Columbia Peaks","original":"Boris Hauf + Adam Sonderberg - Schamlos 0202.mp3","mtime":"1544492126","size":"214776","md5":"5f43355b36c0e3130c948604f60938e3","crc32":"e3ac837e","sha1":"87ac6ccb872f9e16b8ff2cd465328e7e3821dcb0"},{"name":"Boris Hauf + Adam Sonderberg - Schamlos 0202.mp3","source":"original","mtime":"1544491970","size":"46366720","md5":"92ed44deeb237a4272abba82c45c647a","crc32":"b0fec2da","sha1":"04b4cd9cd6fdb66cc7ae1a4ce69cfb013170c637","format":"VBR MP3","length":"1158.14","height":"348","width":"535","genre":"eai","title":"Schamlos 0202","artist":"Boris Hauf & Adam Sonderberg","album":"Schamlos 0202 (Reissue)","track":"1\/1","external-identifier":"urn:acoustid:fca6a3b7-2d44-4ab7-b9a4-1f2c09ac1b9f","external-identifier-match-date":"acoustid:2019-03-27T21:53:40Z"},{"name":"Boris Hauf + Adam Sonderberg - Schamlos 0202.ogg","source":"derivative","format":"Ogg Vorbis","original":"Boris Hauf + Adam Sonderberg - Schamlos 0202.mp3","mtime":"1544492045","size":"13159563","md5":"46ddd26f82ea453f262673f1dcdbd898","crc32":"3acbc321","sha1":"b7e6b8971638649828b8ffa88cd50ab5f2ef5655","length":"1158.09","height":"0","width":"0"},{"name":"Boris Hauf + Adam Sonderberg - Schamlos 0202.png","source":"derivative","format":"PNG","original":"Boris Hauf + Adam Sonderberg - Schamlos 0202.mp3","mtime":"1544492096","size":"9934","md5":"8ad191781bebd774450a68a2c655089f","crc32":"cb1e5fbd","sha1":"aa7013297149419f8986fa6658a7abd6946aa586"},{"name":"Boris Hauf + Adam Sonderberg - Schamlos 0202_spectrogram.png","source":"derivative","format":"Spectrogram","original":"Boris Hauf + Adam Sonderberg - Schamlos 0202.mp3","mtime":"1544492106","size":"298950","md5":"31d04711f26de258c06367fda18df4f4","crc32":"1636697d","sha1":"0d5b36eb6d7e61abb0ba55439300e115c3526a9c"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1544492129","size":"2921","md5":"6f14f0dd73606bbfc32608fe6f77d3a1","crc32":"e62d115a","sha1":"c1e727e33b36b9351d5f0b3d654e31b94fc0b976","format":"Item Tile","rotation":"0"},{"name":"homo038_archive.torrent","source":"metadata","btih":"d4d2611a37f026b910980bcd50ed83effaeea42f","mtime":"1590182180","size":"4878","md5":"ca0621301215db360ce6dd60ad6c4d16","crc32":"ff84e9f1","sha1":"12de33b088644ed85bfa770df3324620e36b9c78","format":"Archive BitTorrent"},{"name":"homo038_files.xml","source":"original","format":"Metadata","md5":"a7fae6d1814b31fcc2ee8ce8a49c5303"},{"name":"homo038_meta.sqlite","source":"original","mtime":"1544491992","size":"11264","md5":"fdbcbfbbd2065df4e458b88d1982e9ae","crc32":"7d042307","sha1":"92bda8b696d3181ed70b7aff76f3d93636104f93","format":"Metadata"},{"name":"homo038_meta.xml","source":"original","mtime":"1590182179","size":"869","format":"Metadata","md5":"e1cf79e3aec6272283fc4da2c460b9f5","crc32":"9a439702","sha1":"35d8638a75ea39a51d89fd66c0282bde7756c3a7"}],"files_count":10,"item_last_updated":1590182180,"item_size":60069875,"metadata":{"identifier":"homo038","mediatype":"audio","collection":"opensource_audio","creator":"Boris Hauf + Adam Sonderberg","date":"2010","description":"Schamlos 0202","licenseurl":"http://creativecommons.org/licenses/by/4.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":"Abstract","title":"Schamlos 0202","publicdate":"2018-12-11 01:32:51","uploader":"davidkirby@homophoni.com","addeddate":"2018-12-11 01:32:51","curation":"[curator]validator@archive.org[/curator][date]20181211013322[/date][comment]checked for malware[/comment]","external_metadata_update":"2019-03-27T21:53:40Z","backup_location":"ia906805_8"},"server":"ia600700.us.archive.org","uniq":644425360,"workable_servers":["ia600700.us.archive.org","ia800700.us.archive.org"]}
+{
+    "created": 1598535600,
+    "d1": "ia600700.us.archive.org",
+    "d2": "ia800700.us.archive.org",
+    "dir": "/6/items/homo038",
+    "files": [
+        {
+            "crc32": "e3ac837e",
+            "format": "Columbia Peaks",
+            "md5": "5f43355b36c0e3130c948604f60938e3",
+            "mtime": "1544492126",
+            "name": "Boris Hauf + Adam Sonderberg - Schamlos 0202.afpk",
+            "original": "Boris Hauf + Adam Sonderberg - Schamlos 0202.mp3",
+            "sha1": "87ac6ccb872f9e16b8ff2cd465328e7e3821dcb0",
+            "size": "214776",
+            "source": "derivative"
+        },
+        {
+            "album": "Schamlos 0202 (Reissue)",
+            "artist": "Boris Hauf & Adam Sonderberg",
+            "crc32": "b0fec2da",
+            "external-identifier": "urn:acoustid:fca6a3b7-2d44-4ab7-b9a4-1f2c09ac1b9f",
+            "external-identifier-match-date": "acoustid:2019-03-27T21:53:40Z",
+            "format": "VBR MP3",
+            "genre": "eai",
+            "height": "348",
+            "length": "1158.14",
+            "md5": "92ed44deeb237a4272abba82c45c647a",
+            "mtime": "1544491970",
+            "name": "Boris Hauf + Adam Sonderberg - Schamlos 0202.mp3",
+            "sha1": "04b4cd9cd6fdb66cc7ae1a4ce69cfb013170c637",
+            "size": "46366720",
+            "source": "original",
+            "title": "Schamlos 0202",
+            "track": "1/1",
+            "width": "535"
+        },
+        {
+            "crc32": "3acbc321",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1158.09",
+            "md5": "46ddd26f82ea453f262673f1dcdbd898",
+            "mtime": "1544492045",
+            "name": "Boris Hauf + Adam Sonderberg - Schamlos 0202.ogg",
+            "original": "Boris Hauf + Adam Sonderberg - Schamlos 0202.mp3",
+            "sha1": "b7e6b8971638649828b8ffa88cd50ab5f2ef5655",
+            "size": "13159563",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "cb1e5fbd",
+            "format": "PNG",
+            "md5": "8ad191781bebd774450a68a2c655089f",
+            "mtime": "1544492096",
+            "name": "Boris Hauf + Adam Sonderberg - Schamlos 0202.png",
+            "original": "Boris Hauf + Adam Sonderberg - Schamlos 0202.mp3",
+            "sha1": "aa7013297149419f8986fa6658a7abd6946aa586",
+            "size": "9934",
+            "source": "derivative"
+        },
+        {
+            "crc32": "1636697d",
+            "format": "Spectrogram",
+            "md5": "31d04711f26de258c06367fda18df4f4",
+            "mtime": "1544492106",
+            "name": "Boris Hauf + Adam Sonderberg - Schamlos 0202_spectrogram.png",
+            "original": "Boris Hauf + Adam Sonderberg - Schamlos 0202.mp3",
+            "sha1": "0d5b36eb6d7e61abb0ba55439300e115c3526a9c",
+            "size": "298950",
+            "source": "derivative"
+        },
+        {
+            "crc32": "e62d115a",
+            "format": "Item Tile",
+            "md5": "6f14f0dd73606bbfc32608fe6f77d3a1",
+            "mtime": "1544492129",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "c1e727e33b36b9351d5f0b3d654e31b94fc0b976",
+            "size": "2921",
+            "source": "original"
+        },
+        {
+            "btih": "d4d2611a37f026b910980bcd50ed83effaeea42f",
+            "crc32": "ff84e9f1",
+            "format": "Archive BitTorrent",
+            "md5": "ca0621301215db360ce6dd60ad6c4d16",
+            "mtime": "1590182180",
+            "name": "homo038_archive.torrent",
+            "sha1": "12de33b088644ed85bfa770df3324620e36b9c78",
+            "size": "4878",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "a7fae6d1814b31fcc2ee8ce8a49c5303",
+            "name": "homo038_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "7d042307",
+            "format": "Metadata",
+            "md5": "fdbcbfbbd2065df4e458b88d1982e9ae",
+            "mtime": "1544491992",
+            "name": "homo038_meta.sqlite",
+            "sha1": "92bda8b696d3181ed70b7aff76f3d93636104f93",
+            "size": "11264",
+            "source": "original"
+        },
+        {
+            "crc32": "9a439702",
+            "format": "Metadata",
+            "md5": "e1cf79e3aec6272283fc4da2c460b9f5",
+            "mtime": "1590182179",
+            "name": "homo038_meta.xml",
+            "sha1": "35d8638a75ea39a51d89fd66c0282bde7756c3a7",
+            "size": "869",
+            "source": "original"
+        }
+    ],
+    "files_count": 10,
+    "item_last_updated": 1590182180,
+    "item_size": 60069875,
+    "metadata": {
+        "addeddate": "2018-12-11 01:32:51",
+        "backup_location": "ia906805_8",
+        "collection": "opensource_audio",
+        "creator": "Boris Hauf + Adam Sonderberg",
+        "curation": "[curator]validator@archive.org[/curator][date]20181211013322[/date][comment]checked for malware[/comment]",
+        "date": "2010",
+        "description": "Schamlos 0202",
+        "external_metadata_update": "2019-03-27T21:53:40Z",
+        "identifier": "homo038",
+        "licenseurl": "http://creativecommons.org/licenses/by/4.0/",
+        "mediatype": "audio",
+        "publicdate": "2018-12-11 01:32:51",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": "Abstract",
+        "title": "Schamlos 0202",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia600700.us.archive.org",
+    "uniq": 644425360,
+    "workable_servers": [
+        "ia600700.us.archive.org",
+        "ia800700.us.archive.org"
+    ]
+}

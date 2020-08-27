@@ -1,1 +1,215 @@
-{"created":1598535605,"d1":"ia600705.us.archive.org","d2":"ia800705.us.archive.org","dir":"/28/items/homo040","files":[{"name":"David Kirby - Opus.afpk","source":"derivative","format":"Columbia Peaks","original":"David Kirby - Opus.mp3","mtime":"1544493246","size":"65","md5":"54d5f3336947666a99c0f54906a0cba5","crc32":"03e4b101","sha1":"042e9daed6de7b3004abb37cfa647aaaa1b964e8"},{"name":"David Kirby - Opus.mp3","source":"original","mtime":"1544490806","size":"817244160","md5":"7b10445cfc8b4c1f0ade8ba3cfc8bcc4","crc32":"dab10307","sha1":"4c2a428e5b71f94702a65217405e460895eefcb8","format":"VBR MP3","length":"20429.88","height":"348","width":"535","album":"Opus [Homophoni]","title":"Opus","track":"1","artist":"David Kirby","external-identifier":"urn:acoustid:50d5cbc6-0755-42fd-9d2d-db341cfcddb1","external-identifier-match-date":"acoustid:2019-03-23T07:48:58Z"},{"name":"David Kirby - Opus.ogg","source":"derivative","format":"Ogg Vorbis","original":"David Kirby - Opus.mp3","mtime":"1544491565","size":"237681239","md5":"324718d01deeec025acc25fa634a6eab","crc32":"b2f4cdbd","sha1":"1cf6e50f9ee92595dc91809c7eacd6f46d8076ca","length":"20447.45","height":"0","width":"0"},{"name":"David Kirby - Opus.png","source":"derivative","format":"PNG","original":"David Kirby - Opus.mp3","mtime":"1544492738","size":"11791","md5":"3983b05524449b508726041c9a9ba00a","crc32":"5d65a363","sha1":"b445ccd9e13f17d0bcd0cd5d66cba5030edc68f1"},{"name":"David Kirby - Opus_spectrogram.png","source":"derivative","format":"Spectrogram","original":"David Kirby - Opus.mp3","mtime":"1544492874","size":"335608","md5":"edf2f3a1c711e1a76daafddfae8504de","crc32":"be1aa8eb","sha1":"2df0457c75f03944acf8457bb8d7411e84964f13"},{"name":"_HOUR_00_David Kirby - Opus.afpk","source":"derivative","format":"Columbia Peaks","original":"David Kirby - Opus.mp3","mtime":"1544493000","size":"793984","md5":"2a6c3086207ac0096c0efd109a50c835","crc32":"7fe8874f","sha1":"04103b6c0f7058fb163be2b5f3948d633380ac54"},{"name":"_HOUR_01_David Kirby - Opus.afpk","source":"derivative","format":"Columbia Peaks","original":"David Kirby - Opus.mp3","mtime":"1544493051","size":"830992","md5":"3a8117442e9d928e20db2988fb66faad","crc32":"b8df5ea3","sha1":"d34340ecf0294cadbbcb5108a0b7a59fa7c71b28"},{"name":"_HOUR_02_David Kirby - Opus.afpk","source":"derivative","format":"Columbia Peaks","original":"David Kirby - Opus.mp3","mtime":"1544493103","size":"877352","md5":"cfebfa0e02d6fa231dc49eede312dc99","crc32":"f66542cf","sha1":"bce91f6f2146d28c6120a58f97b773847adba042"},{"name":"_HOUR_03_David Kirby - Opus.afpk","source":"derivative","format":"Columbia Peaks","original":"David Kirby - Opus.mp3","mtime":"1544493154","size":"805592","md5":"0267e9032c83814ba0a860d768f3f7f7","crc32":"c14ae62c","sha1":"39a579b324f25d79029a375bd551cf4781dbfe12"},{"name":"_HOUR_04_David Kirby - Opus.afpk","source":"derivative","format":"Columbia Peaks","original":"David Kirby - Opus.mp3","mtime":"1544493207","size":"951960","md5":"e02157e138e5baeae536e62183b8214e","crc32":"8f163d4b","sha1":"73c088d749ec45cecf5a50fea5c9de62a39e7aee"},{"name":"_HOUR_05_David Kirby - Opus.afpk","source":"derivative","format":"Columbia Peaks","original":"David Kirby - Opus.mp3","mtime":"1544493246","size":"637536","md5":"764591d9160bbf66fb7a967450cec6dc","crc32":"5f586cc2","sha1":"ce326b11b0ae870682eba5fc8c6794722799d153"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1544493251","size":"2948","md5":"1c5b78c886c9508ef588db14defdc271","crc32":"739f3883","sha1":"fa04eac702605e93f4383271945a709c228de774","format":"Item Tile","rotation":"0"},{"name":"homo040_archive.torrent","source":"metadata","btih":"1e104743e72cf1435d008682a5962bf0cae76dcf","mtime":"1590025842","size":"44032","md5":"3711274c1ae5fb88e67d37e0d92d2ced","crc32":"9e782021","sha1":"8691663b79502645d7419779547c30fca7e12ae1","format":"Archive BitTorrent"},{"name":"homo040_files.xml","source":"original","format":"Metadata","md5":"becc82c978bef230d5762a4438446fa8"},{"name":"homo040_meta.sqlite","source":"original","mtime":"1544490897","size":"9216","md5":"fac4d14bc1117b81d9a3a156aa698ae7","crc32":"1a94653f","sha1":"a97c5a8de6c698b1bbcd32f8e1f5e59fbf387949","format":"Metadata"},{"name":"homo040_meta.xml","source":"original","mtime":"1590025836","size":"834","format":"Metadata","md5":"0a50158f8959b3e6de5a194ca33eef5e","crc32":"b345f759","sha1":"aa135b92704a2d50c1950119408df4fe8d187057"}],"files_count":16,"item_last_updated":1590025842,"item_size":1060227309,"metadata":{"identifier":"homo040","mediatype":"audio","collection":"opensource_audio","creator":"David Kirby","date":"2010","description":"Opus","licenseurl":"http://creativecommons.org/licenses/by/4.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":"Abstract","title":"Opus","publicdate":"2018-12-11 01:13:27","uploader":"davidkirby@homophoni.com","addeddate":"2018-12-11 01:13:27","curation":"[curator]validator@archive.org[/curator][date]20181211011525[/date][comment]checked for malware[/comment]","external_metadata_update":"2019-03-23T07:48:58Z","backup_location":"ia906805_8"},"server":"ia800705.us.archive.org","uniq":613926028,"workable_servers":["ia800705.us.archive.org","ia600705.us.archive.org"]}
+{
+    "created": 1598535605,
+    "d1": "ia600705.us.archive.org",
+    "d2": "ia800705.us.archive.org",
+    "dir": "/28/items/homo040",
+    "files": [
+        {
+            "crc32": "03e4b101",
+            "format": "Columbia Peaks",
+            "md5": "54d5f3336947666a99c0f54906a0cba5",
+            "mtime": "1544493246",
+            "name": "David Kirby - Opus.afpk",
+            "original": "David Kirby - Opus.mp3",
+            "sha1": "042e9daed6de7b3004abb37cfa647aaaa1b964e8",
+            "size": "65",
+            "source": "derivative"
+        },
+        {
+            "album": "Opus [Homophoni]",
+            "artist": "David Kirby",
+            "crc32": "dab10307",
+            "external-identifier": "urn:acoustid:50d5cbc6-0755-42fd-9d2d-db341cfcddb1",
+            "external-identifier-match-date": "acoustid:2019-03-23T07:48:58Z",
+            "format": "VBR MP3",
+            "height": "348",
+            "length": "20429.88",
+            "md5": "7b10445cfc8b4c1f0ade8ba3cfc8bcc4",
+            "mtime": "1544490806",
+            "name": "David Kirby - Opus.mp3",
+            "sha1": "4c2a428e5b71f94702a65217405e460895eefcb8",
+            "size": "817244160",
+            "source": "original",
+            "title": "Opus",
+            "track": "1",
+            "width": "535"
+        },
+        {
+            "crc32": "b2f4cdbd",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "20447.45",
+            "md5": "324718d01deeec025acc25fa634a6eab",
+            "mtime": "1544491565",
+            "name": "David Kirby - Opus.ogg",
+            "original": "David Kirby - Opus.mp3",
+            "sha1": "1cf6e50f9ee92595dc91809c7eacd6f46d8076ca",
+            "size": "237681239",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "5d65a363",
+            "format": "PNG",
+            "md5": "3983b05524449b508726041c9a9ba00a",
+            "mtime": "1544492738",
+            "name": "David Kirby - Opus.png",
+            "original": "David Kirby - Opus.mp3",
+            "sha1": "b445ccd9e13f17d0bcd0cd5d66cba5030edc68f1",
+            "size": "11791",
+            "source": "derivative"
+        },
+        {
+            "crc32": "be1aa8eb",
+            "format": "Spectrogram",
+            "md5": "edf2f3a1c711e1a76daafddfae8504de",
+            "mtime": "1544492874",
+            "name": "David Kirby - Opus_spectrogram.png",
+            "original": "David Kirby - Opus.mp3",
+            "sha1": "2df0457c75f03944acf8457bb8d7411e84964f13",
+            "size": "335608",
+            "source": "derivative"
+        },
+        {
+            "crc32": "7fe8874f",
+            "format": "Columbia Peaks",
+            "md5": "2a6c3086207ac0096c0efd109a50c835",
+            "mtime": "1544493000",
+            "name": "_HOUR_00_David Kirby - Opus.afpk",
+            "original": "David Kirby - Opus.mp3",
+            "sha1": "04103b6c0f7058fb163be2b5f3948d633380ac54",
+            "size": "793984",
+            "source": "derivative"
+        },
+        {
+            "crc32": "b8df5ea3",
+            "format": "Columbia Peaks",
+            "md5": "3a8117442e9d928e20db2988fb66faad",
+            "mtime": "1544493051",
+            "name": "_HOUR_01_David Kirby - Opus.afpk",
+            "original": "David Kirby - Opus.mp3",
+            "sha1": "d34340ecf0294cadbbcb5108a0b7a59fa7c71b28",
+            "size": "830992",
+            "source": "derivative"
+        },
+        {
+            "crc32": "f66542cf",
+            "format": "Columbia Peaks",
+            "md5": "cfebfa0e02d6fa231dc49eede312dc99",
+            "mtime": "1544493103",
+            "name": "_HOUR_02_David Kirby - Opus.afpk",
+            "original": "David Kirby - Opus.mp3",
+            "sha1": "bce91f6f2146d28c6120a58f97b773847adba042",
+            "size": "877352",
+            "source": "derivative"
+        },
+        {
+            "crc32": "c14ae62c",
+            "format": "Columbia Peaks",
+            "md5": "0267e9032c83814ba0a860d768f3f7f7",
+            "mtime": "1544493154",
+            "name": "_HOUR_03_David Kirby - Opus.afpk",
+            "original": "David Kirby - Opus.mp3",
+            "sha1": "39a579b324f25d79029a375bd551cf4781dbfe12",
+            "size": "805592",
+            "source": "derivative"
+        },
+        {
+            "crc32": "8f163d4b",
+            "format": "Columbia Peaks",
+            "md5": "e02157e138e5baeae536e62183b8214e",
+            "mtime": "1544493207",
+            "name": "_HOUR_04_David Kirby - Opus.afpk",
+            "original": "David Kirby - Opus.mp3",
+            "sha1": "73c088d749ec45cecf5a50fea5c9de62a39e7aee",
+            "size": "951960",
+            "source": "derivative"
+        },
+        {
+            "crc32": "5f586cc2",
+            "format": "Columbia Peaks",
+            "md5": "764591d9160bbf66fb7a967450cec6dc",
+            "mtime": "1544493246",
+            "name": "_HOUR_05_David Kirby - Opus.afpk",
+            "original": "David Kirby - Opus.mp3",
+            "sha1": "ce326b11b0ae870682eba5fc8c6794722799d153",
+            "size": "637536",
+            "source": "derivative"
+        },
+        {
+            "crc32": "739f3883",
+            "format": "Item Tile",
+            "md5": "1c5b78c886c9508ef588db14defdc271",
+            "mtime": "1544493251",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "fa04eac702605e93f4383271945a709c228de774",
+            "size": "2948",
+            "source": "original"
+        },
+        {
+            "btih": "1e104743e72cf1435d008682a5962bf0cae76dcf",
+            "crc32": "9e782021",
+            "format": "Archive BitTorrent",
+            "md5": "3711274c1ae5fb88e67d37e0d92d2ced",
+            "mtime": "1590025842",
+            "name": "homo040_archive.torrent",
+            "sha1": "8691663b79502645d7419779547c30fca7e12ae1",
+            "size": "44032",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "becc82c978bef230d5762a4438446fa8",
+            "name": "homo040_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "1a94653f",
+            "format": "Metadata",
+            "md5": "fac4d14bc1117b81d9a3a156aa698ae7",
+            "mtime": "1544490897",
+            "name": "homo040_meta.sqlite",
+            "sha1": "a97c5a8de6c698b1bbcd32f8e1f5e59fbf387949",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "b345f759",
+            "format": "Metadata",
+            "md5": "0a50158f8959b3e6de5a194ca33eef5e",
+            "mtime": "1590025836",
+            "name": "homo040_meta.xml",
+            "sha1": "aa135b92704a2d50c1950119408df4fe8d187057",
+            "size": "834",
+            "source": "original"
+        }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1590025842,
+    "item_size": 1060227309,
+    "metadata": {
+        "addeddate": "2018-12-11 01:13:27",
+        "backup_location": "ia906805_8",
+        "collection": "opensource_audio",
+        "creator": "David Kirby",
+        "curation": "[curator]validator@archive.org[/curator][date]20181211011525[/date][comment]checked for malware[/comment]",
+        "date": "2010",
+        "description": "Opus",
+        "external_metadata_update": "2019-03-23T07:48:58Z",
+        "identifier": "homo040",
+        "licenseurl": "http://creativecommons.org/licenses/by/4.0/",
+        "mediatype": "audio",
+        "publicdate": "2018-12-11 01:13:27",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": "Abstract",
+        "title": "Opus",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800705.us.archive.org",
+    "uniq": 613926028,
+    "workable_servers": [
+        "ia800705.us.archive.org",
+        "ia600705.us.archive.org"
+    ]
+}

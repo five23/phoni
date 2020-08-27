@@ -1,1 +1,194 @@
-{"created":1598291621,"d1":"ia600708.us.archive.org","d2":"ia800708.us.archive.org","dir":"/17/items/homo053","files":[{"name":"David Kirby - Opus Aleph (For Tyler Keen).afpk","source":"derivative","format":"Columbia Peaks","original":"David Kirby - Opus Aleph (For Tyler Keen).mp3","mtime":"1544486325","size":"2473584","md5":"b9fe437935982499af4340f1a1831b12","crc32":"8915a01e","sha1":"b6df51044e9e29a3f072a53491faed891c58c5e4"},{"name":"David Kirby - Opus Aleph (For Tyler Keen).mp3","source":"original","mtime":"1544485241","size":"437974373","md5":"1a616f93afd3fbe50808ceca034a3bb3","crc32":"ef99346a","sha1":"e4ac1610c52741bffed10c4dbdd420631b0b510d","format":"VBR MP3","length":"10948.1","height":"348","width":"535","title":"Opus Aleph","artist":"David Kirby","genre":"eai","album":"Opus Aleph (for Tyler Keen)","track":"1\/1","external-identifier":"urn:acoustid:335acef2-94e7-475b-901c-7025dd589ef7","external-identifier-match-date":"acoustid:2019-04-14T13:12:31Z"},{"name":"David Kirby - Opus Aleph (For Tyler Keen).ogg","source":"derivative","format":"Ogg Vorbis","original":"David Kirby - Opus Aleph (For Tyler Keen).mp3","mtime":"1544485632","size":"123446092","md5":"cb74b725bff4dd5338d86fca1f5848f9","crc32":"b1853931","sha1":"73ff807210f1d70ced247be4086f567778b2ab52","length":"10948.1","height":"0","width":"0"},{"name":"David Kirby - Opus Aleph (For Tyler Keen).png","source":"derivative","format":"PNG","original":"David Kirby - Opus Aleph (For Tyler Keen).mp3","mtime":"1544485956","size":"11398","md5":"34bc4d9e9f78b413f3fb18db05e4e78a","crc32":"8184e092","sha1":"4609e5d99bdfb7cb2a227a5c6141f884774010c8"},{"name":"David Kirby - Opus Aleph (For Tyler Keen)_spectrogram.png","source":"derivative","format":"Spectrogram","original":"David Kirby - Opus Aleph (For Tyler Keen).mp3","mtime":"1544486037","size":"316472","md5":"7e4144ea692635222d7f2362380ae51f","crc32":"1ebff3fa","sha1":"8e5057bfea529f3fd538672b697827e6f8797457"},{"name":"_HOUR_00_David Kirby - Opus Aleph (For Tyler Keen).afpk","source":"derivative","format":"Columbia Peaks","original":"David Kirby - Opus Aleph (For Tyler Keen).mp3","mtime":"1544486126","size":"793168","md5":"82f5e7dbf59bb3abc9d3be8a0fc2f356","crc32":"946fcdc3","sha1":"1817c4204101c852377daf3f3e1456c923e8dc83"},{"name":"_HOUR_01_David Kirby - Opus Aleph (For Tyler Keen).afpk","source":"derivative","format":"Columbia Peaks","original":"David Kirby - Opus Aleph (For Tyler Keen).mp3","mtime":"1544486167","size":"923944","md5":"975842aa3ef58ac29c35289cb16c3d8c","crc32":"0066a8fe","sha1":"bdb1a6b3334a6c5020c2cb5fcc18fbeb8efbdfd6"},{"name":"_HOUR_02_David Kirby - Opus Aleph (For Tyler Keen).afpk","source":"derivative","format":"Columbia Peaks","original":"David Kirby - Opus Aleph (For Tyler Keen).mp3","mtime":"1544486208","size":"727976","md5":"30ff7c4f17635246c00a7fbbbbe4a57d","crc32":"b45be716","sha1":"4b831459ca5526d198f94a1b4d74d69802ad3ef5"},{"name":"_HOUR_03_David Kirby - Opus Aleph (For Tyler Keen).afpk","source":"derivative","format":"Columbia Peaks","original":"David Kirby - Opus Aleph (For Tyler Keen).mp3","mtime":"1544486213","size":"28608","md5":"9be0eef22ec533d0779fe09d830a5019","crc32":"a015b529","sha1":"82c9f178f3c7c3619e8a5317e8d78ef05de36325"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1544486339","size":"2863","md5":"cd33b7f7928f864b5625e9f4483a1c72","crc32":"be22044a","sha1":"6aa5f30f10517f927984423d5ad48c32e1940403","format":"Item Tile","rotation":"0"},{"name":"homo053_archive.torrent","source":"metadata","btih":"7254973e71fead81feafc9126e28a51113567ae2","mtime":"1596267409","size":"25030","md5":"fce20cff17a9e07b5065ece7877bd515","crc32":"f3c58102","sha1":"bcd64a964738bc7d5e8a250121ae4a21006df239","format":"Archive BitTorrent"},{"name":"homo053_files.xml","source":"original","format":"Metadata","md5":"480cbfa4978e344281c958ca02d0b087"},{"name":"homo053_meta.sqlite","source":"original","mtime":"1544485270","size":"11264","md5":"d004d5cfec1887956988e251597863a3","crc32":"d7bb9bc6","sha1":"14dd926d72ca3ccc3f256397096c080cfc2f753b","format":"Metadata"},{"name":"homo053_meta.xml","source":"original","mtime":"1596267403","size":"880","format":"Metadata","md5":"f08d070554058ab9793bc6e40d7b3347","crc32":"2ca9ebfc","sha1":"254451a4163e56e5bac7938f84233702a6755fab"}],"files_count":14,"item_last_updated":1596267409,"item_size":566735652,"metadata":{"identifier":"homo053","mediatype":"audio","collection":"opensource_audio","creator":"David Kirby","date":"2012","description":"Opus Aleph (For Tyler Keen)","licenseurl":"http://creativecommons.org/licenses/by/4.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":"Abstract","title":"Opus Aleph (For Tyler Keen)","publicdate":"2018-12-10 23:40:41","uploader":"davidkirby@homophoni.com","addeddate":"2018-12-10 23:40:41","curation":"[curator]validator@archive.org[/curator][date]20181210234134[/date][comment]checked for malware[/comment]","external_metadata_update":"2019-04-14T13:12:31Z","backup_location":"ia906805_7"},"server":"ia800708.us.archive.org","uniq":28031255,"workable_servers":["ia800708.us.archive.org","ia600708.us.archive.org"]}
+{
+    "created": 1598291621,
+    "d1": "ia600708.us.archive.org",
+    "d2": "ia800708.us.archive.org",
+    "dir": "/17/items/homo053",
+    "files": [
+        {
+            "crc32": "8915a01e",
+            "format": "Columbia Peaks",
+            "md5": "b9fe437935982499af4340f1a1831b12",
+            "mtime": "1544486325",
+            "name": "David Kirby - Opus Aleph (For Tyler Keen).afpk",
+            "original": "David Kirby - Opus Aleph (For Tyler Keen).mp3",
+            "sha1": "b6df51044e9e29a3f072a53491faed891c58c5e4",
+            "size": "2473584",
+            "source": "derivative"
+        },
+        {
+            "album": "Opus Aleph (for Tyler Keen)",
+            "artist": "David Kirby",
+            "crc32": "ef99346a",
+            "external-identifier": "urn:acoustid:335acef2-94e7-475b-901c-7025dd589ef7",
+            "external-identifier-match-date": "acoustid:2019-04-14T13:12:31Z",
+            "format": "VBR MP3",
+            "genre": "eai",
+            "height": "348",
+            "length": "10948.1",
+            "md5": "1a616f93afd3fbe50808ceca034a3bb3",
+            "mtime": "1544485241",
+            "name": "David Kirby - Opus Aleph (For Tyler Keen).mp3",
+            "sha1": "e4ac1610c52741bffed10c4dbdd420631b0b510d",
+            "size": "437974373",
+            "source": "original",
+            "title": "Opus Aleph",
+            "track": "1/1",
+            "width": "535"
+        },
+        {
+            "crc32": "b1853931",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "10948.1",
+            "md5": "cb74b725bff4dd5338d86fca1f5848f9",
+            "mtime": "1544485632",
+            "name": "David Kirby - Opus Aleph (For Tyler Keen).ogg",
+            "original": "David Kirby - Opus Aleph (For Tyler Keen).mp3",
+            "sha1": "73ff807210f1d70ced247be4086f567778b2ab52",
+            "size": "123446092",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "8184e092",
+            "format": "PNG",
+            "md5": "34bc4d9e9f78b413f3fb18db05e4e78a",
+            "mtime": "1544485956",
+            "name": "David Kirby - Opus Aleph (For Tyler Keen).png",
+            "original": "David Kirby - Opus Aleph (For Tyler Keen).mp3",
+            "sha1": "4609e5d99bdfb7cb2a227a5c6141f884774010c8",
+            "size": "11398",
+            "source": "derivative"
+        },
+        {
+            "crc32": "1ebff3fa",
+            "format": "Spectrogram",
+            "md5": "7e4144ea692635222d7f2362380ae51f",
+            "mtime": "1544486037",
+            "name": "David Kirby - Opus Aleph (For Tyler Keen)_spectrogram.png",
+            "original": "David Kirby - Opus Aleph (For Tyler Keen).mp3",
+            "sha1": "8e5057bfea529f3fd538672b697827e6f8797457",
+            "size": "316472",
+            "source": "derivative"
+        },
+        {
+            "crc32": "946fcdc3",
+            "format": "Columbia Peaks",
+            "md5": "82f5e7dbf59bb3abc9d3be8a0fc2f356",
+            "mtime": "1544486126",
+            "name": "_HOUR_00_David Kirby - Opus Aleph (For Tyler Keen).afpk",
+            "original": "David Kirby - Opus Aleph (For Tyler Keen).mp3",
+            "sha1": "1817c4204101c852377daf3f3e1456c923e8dc83",
+            "size": "793168",
+            "source": "derivative"
+        },
+        {
+            "crc32": "0066a8fe",
+            "format": "Columbia Peaks",
+            "md5": "975842aa3ef58ac29c35289cb16c3d8c",
+            "mtime": "1544486167",
+            "name": "_HOUR_01_David Kirby - Opus Aleph (For Tyler Keen).afpk",
+            "original": "David Kirby - Opus Aleph (For Tyler Keen).mp3",
+            "sha1": "bdb1a6b3334a6c5020c2cb5fcc18fbeb8efbdfd6",
+            "size": "923944",
+            "source": "derivative"
+        },
+        {
+            "crc32": "b45be716",
+            "format": "Columbia Peaks",
+            "md5": "30ff7c4f17635246c00a7fbbbbe4a57d",
+            "mtime": "1544486208",
+            "name": "_HOUR_02_David Kirby - Opus Aleph (For Tyler Keen).afpk",
+            "original": "David Kirby - Opus Aleph (For Tyler Keen).mp3",
+            "sha1": "4b831459ca5526d198f94a1b4d74d69802ad3ef5",
+            "size": "727976",
+            "source": "derivative"
+        },
+        {
+            "crc32": "a015b529",
+            "format": "Columbia Peaks",
+            "md5": "9be0eef22ec533d0779fe09d830a5019",
+            "mtime": "1544486213",
+            "name": "_HOUR_03_David Kirby - Opus Aleph (For Tyler Keen).afpk",
+            "original": "David Kirby - Opus Aleph (For Tyler Keen).mp3",
+            "sha1": "82c9f178f3c7c3619e8a5317e8d78ef05de36325",
+            "size": "28608",
+            "source": "derivative"
+        },
+        {
+            "crc32": "be22044a",
+            "format": "Item Tile",
+            "md5": "cd33b7f7928f864b5625e9f4483a1c72",
+            "mtime": "1544486339",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "6aa5f30f10517f927984423d5ad48c32e1940403",
+            "size": "2863",
+            "source": "original"
+        },
+        {
+            "btih": "7254973e71fead81feafc9126e28a51113567ae2",
+            "crc32": "f3c58102",
+            "format": "Archive BitTorrent",
+            "md5": "fce20cff17a9e07b5065ece7877bd515",
+            "mtime": "1596267409",
+            "name": "homo053_archive.torrent",
+            "sha1": "bcd64a964738bc7d5e8a250121ae4a21006df239",
+            "size": "25030",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "480cbfa4978e344281c958ca02d0b087",
+            "name": "homo053_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "d7bb9bc6",
+            "format": "Metadata",
+            "md5": "d004d5cfec1887956988e251597863a3",
+            "mtime": "1544485270",
+            "name": "homo053_meta.sqlite",
+            "sha1": "14dd926d72ca3ccc3f256397096c080cfc2f753b",
+            "size": "11264",
+            "source": "original"
+        },
+        {
+            "crc32": "2ca9ebfc",
+            "format": "Metadata",
+            "md5": "f08d070554058ab9793bc6e40d7b3347",
+            "mtime": "1596267403",
+            "name": "homo053_meta.xml",
+            "sha1": "254451a4163e56e5bac7938f84233702a6755fab",
+            "size": "880",
+            "source": "original"
+        }
+    ],
+    "files_count": 14,
+    "item_last_updated": 1596267409,
+    "item_size": 566735652,
+    "metadata": {
+        "addeddate": "2018-12-10 23:40:41",
+        "backup_location": "ia906805_7",
+        "collection": "opensource_audio",
+        "creator": "David Kirby",
+        "curation": "[curator]validator@archive.org[/curator][date]20181210234134[/date][comment]checked for malware[/comment]",
+        "date": "2012",
+        "description": "Opus Aleph (For Tyler Keen)",
+        "external_metadata_update": "2019-04-14T13:12:31Z",
+        "identifier": "homo053",
+        "licenseurl": "http://creativecommons.org/licenses/by/4.0/",
+        "mediatype": "audio",
+        "publicdate": "2018-12-10 23:40:41",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": "Abstract",
+        "title": "Opus Aleph (For Tyler Keen)",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800708.us.archive.org",
+    "uniq": 28031255,
+    "workable_servers": [
+        "ia800708.us.archive.org",
+        "ia600708.us.archive.org"
+    ]
+}

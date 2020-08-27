@@ -1,1 +1,180 @@
-{"created":1598535731,"d1":"ia600205.us.archive.org","d2":"ia800205.us.archive.org","dir":"/32/items/homo051","files":[{"name":"01 At Real Bad Music.afpk","source":"derivative","format":"Columbia Peaks","original":"01 At Real Bad Music.aif","mtime":"1456268024","size":"308664","md5":"1ec310ef869348f2b955ee9f1bd4273a","crc32":"3bd90109","sha1":"4b906ce8a9fe5ef49c122dffc57de5c8e3fb32b4"},{"name":"01 At Real Bad Music.aif","source":"original","mtime":"1456267676","size":"231770576","md5":"2c1a1763c786c3ad32c34ac61dbec43c","crc32":"bbe9e3ef","sha1":"f5fcfcb93b8967142cb4825aee196b6d7f90dd23","format":"AIFF","length":"1311.63","height":"348","width":"535","album":"At Real Bad Music","artist":"Matt Earle + Adam Sussmann + John Porter + Massimo Magee + Timothy Green","title":"At Real Bad Music","track":"1\/1"},{"name":"01 At Real Bad Music.mp3","source":"derivative","creator":"Matt Earle + Adam Sussmann + John Porter + Massimo Magee + Timothy Green","title":"At Real Bad Music","track":"1\/1","album":"At Real Bad Music","bitrate":"187","length":"21:51","format":"VBR MP3","original":"01 At Real Bad Music.aif","mtime":"1456267774","size":"30685696","md5":"28eca3320afd7658600ecc4e3f536dbd","crc32":"237bee31","sha1":"3dbaece9fd36bdc1befa3af8d2913a0bb075b88b","height":"0","width":"0"},{"name":"01 At Real Bad Music.ogg","source":"derivative","format":"Ogg Vorbis","original":"01 At Real Bad Music.aif","mtime":"1456267832","size":"15940068","md5":"259c10e1f1cb32ed11eb0310afd80d92","crc32":"0af4e2fe","sha1":"e9a63416ac1454b41370d063b515061112198518","length":"1311.63","height":"0","width":"0"},{"name":"01 At Real Bad Music.png","source":"derivative","format":"PNG","original":"01 At Real Bad Music.aif","mtime":"1456267859","size":"7900","md5":"47aac41809215c506e804711d5594894","crc32":"7362b4d3","sha1":"e9bd95359d974b7d3cee7072abedcbfe03ea4178"},{"name":"01 At Real Bad Music_esshigh.json.gz","source":"derivative","format":"Essentia High GZ","original":"01 At Real Bad Music_esslow.json.gz","mtime":"1456268042","size":"1976","md5":"f76c026a6cdf31c423351466f467e1cc","crc32":"c6b1cd28","sha1":"9ec52ed4db883150097a470925bbcbca4da33df9"},{"name":"01 At Real Bad Music_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"01 At Real Bad Music.aif","mtime":"1456267996","size":"37121","md5":"e692748a644205ef021ead07e6fa543a","crc32":"fa725f1b","sha1":"46a7073ae1e2a72b5430e892c63299eef149e610"},{"name":"01 At Real Bad Music_spectrogram.png","source":"derivative","format":"Spectrogram","original":"01 At Real Bad Music.aif","mtime":"1456267867","size":"304233","md5":"59a85b085762befb7e868f771b94e27b","crc32":"c30edf2c","sha1":"4f046f78a2b965d3e6855d0e14340cc46fce594d"},{"name":"homo051_archive.torrent","source":"metadata","btih":"1bae1fc855efcdfcc528450b3fe5c9040e0a91ea","mtime":"1482415841","size":"13544","md5":"fad667918c1ff61db4e7525bfbce3556","crc32":"2ac9028d","sha1":"537478b59377771f32f58c9f7102a59969a978cf","format":"Archive BitTorrent"},{"name":"homo051_files.xml","source":"original","format":"Metadata","md5":"bfea7d369e33ad0aa0b1230f0cabc340"},{"name":"homo051_meta.sqlite","source":"original","mtime":"1456267693","size":"9216","md5":"0f999afea2f9159de79dd486503d97db","crc32":"65dc9fe0","sha1":"3bdc659c74905d7c1cabffa8e826e6d75d704703","format":"Metadata"},{"name":"homo051_meta.xml","source":"original","mtime":"1482415837","size":"923","format":"Metadata","md5":"03dbb41a81fb11e1ce2ad8122b0b36e7","crc32":"fc159102","sha1":"629e8f79cc4b832dbc2bfd8c0aa1a78da9cca70c"}],"files_count":12,"item_last_updated":1482415841,"item_size":279079917,"metadata":{"identifier":"homo051","mediatype":"audio","collection":"opensource_audio","creator":"Matt Earle + Adam Sussmann + John Porter + Massimo Magee + Timothy Green","date":"2012-05-01","description":"At Real Bad Music","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Abstract","Field Recording","Experimental"],"title":"At Real Bad Music","publicdate":"2016-02-23 22:47:56","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-23 22:47:56","curation":"[curator]validator@archive.org[/curator][date]20160223224827[/date][comment]checked for malware[/comment]","backup_location":"ia906100_29"},"server":"ia600205.us.archive.org","uniq":871667913,"workable_servers":["ia600205.us.archive.org","ia800205.us.archive.org"]}
+{
+    "created": 1598535731,
+    "d1": "ia600205.us.archive.org",
+    "d2": "ia800205.us.archive.org",
+    "dir": "/32/items/homo051",
+    "files": [
+        {
+            "crc32": "3bd90109",
+            "format": "Columbia Peaks",
+            "md5": "1ec310ef869348f2b955ee9f1bd4273a",
+            "mtime": "1456268024",
+            "name": "01 At Real Bad Music.afpk",
+            "original": "01 At Real Bad Music.aif",
+            "sha1": "4b906ce8a9fe5ef49c122dffc57de5c8e3fb32b4",
+            "size": "308664",
+            "source": "derivative"
+        },
+        {
+            "album": "At Real Bad Music",
+            "artist": "Matt Earle + Adam Sussmann + John Porter + Massimo Magee + Timothy Green",
+            "crc32": "bbe9e3ef",
+            "format": "AIFF",
+            "height": "348",
+            "length": "1311.63",
+            "md5": "2c1a1763c786c3ad32c34ac61dbec43c",
+            "mtime": "1456267676",
+            "name": "01 At Real Bad Music.aif",
+            "sha1": "f5fcfcb93b8967142cb4825aee196b6d7f90dd23",
+            "size": "231770576",
+            "source": "original",
+            "title": "At Real Bad Music",
+            "track": "1/1",
+            "width": "535"
+        },
+        {
+            "album": "At Real Bad Music",
+            "bitrate": "187",
+            "crc32": "237bee31",
+            "creator": "Matt Earle + Adam Sussmann + John Porter + Massimo Magee + Timothy Green",
+            "format": "VBR MP3",
+            "height": "0",
+            "length": "21:51",
+            "md5": "28eca3320afd7658600ecc4e3f536dbd",
+            "mtime": "1456267774",
+            "name": "01 At Real Bad Music.mp3",
+            "original": "01 At Real Bad Music.aif",
+            "sha1": "3dbaece9fd36bdc1befa3af8d2913a0bb075b88b",
+            "size": "30685696",
+            "source": "derivative",
+            "title": "At Real Bad Music",
+            "track": "1/1",
+            "width": "0"
+        },
+        {
+            "crc32": "0af4e2fe",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1311.63",
+            "md5": "259c10e1f1cb32ed11eb0310afd80d92",
+            "mtime": "1456267832",
+            "name": "01 At Real Bad Music.ogg",
+            "original": "01 At Real Bad Music.aif",
+            "sha1": "e9a63416ac1454b41370d063b515061112198518",
+            "size": "15940068",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "7362b4d3",
+            "format": "PNG",
+            "md5": "47aac41809215c506e804711d5594894",
+            "mtime": "1456267859",
+            "name": "01 At Real Bad Music.png",
+            "original": "01 At Real Bad Music.aif",
+            "sha1": "e9bd95359d974b7d3cee7072abedcbfe03ea4178",
+            "size": "7900",
+            "source": "derivative"
+        },
+        {
+            "crc32": "c6b1cd28",
+            "format": "Essentia High GZ",
+            "md5": "f76c026a6cdf31c423351466f467e1cc",
+            "mtime": "1456268042",
+            "name": "01 At Real Bad Music_esshigh.json.gz",
+            "original": "01 At Real Bad Music_esslow.json.gz",
+            "sha1": "9ec52ed4db883150097a470925bbcbca4da33df9",
+            "size": "1976",
+            "source": "derivative"
+        },
+        {
+            "crc32": "fa725f1b",
+            "format": "Essentia Low GZ",
+            "md5": "e692748a644205ef021ead07e6fa543a",
+            "mtime": "1456267996",
+            "name": "01 At Real Bad Music_esslow.json.gz",
+            "original": "01 At Real Bad Music.aif",
+            "sha1": "46a7073ae1e2a72b5430e892c63299eef149e610",
+            "size": "37121",
+            "source": "derivative"
+        },
+        {
+            "crc32": "c30edf2c",
+            "format": "Spectrogram",
+            "md5": "59a85b085762befb7e868f771b94e27b",
+            "mtime": "1456267867",
+            "name": "01 At Real Bad Music_spectrogram.png",
+            "original": "01 At Real Bad Music.aif",
+            "sha1": "4f046f78a2b965d3e6855d0e14340cc46fce594d",
+            "size": "304233",
+            "source": "derivative"
+        },
+        {
+            "btih": "1bae1fc855efcdfcc528450b3fe5c9040e0a91ea",
+            "crc32": "2ac9028d",
+            "format": "Archive BitTorrent",
+            "md5": "fad667918c1ff61db4e7525bfbce3556",
+            "mtime": "1482415841",
+            "name": "homo051_archive.torrent",
+            "sha1": "537478b59377771f32f58c9f7102a59969a978cf",
+            "size": "13544",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "bfea7d369e33ad0aa0b1230f0cabc340",
+            "name": "homo051_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "65dc9fe0",
+            "format": "Metadata",
+            "md5": "0f999afea2f9159de79dd486503d97db",
+            "mtime": "1456267693",
+            "name": "homo051_meta.sqlite",
+            "sha1": "3bdc659c74905d7c1cabffa8e826e6d75d704703",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "fc159102",
+            "format": "Metadata",
+            "md5": "03dbb41a81fb11e1ce2ad8122b0b36e7",
+            "mtime": "1482415837",
+            "name": "homo051_meta.xml",
+            "sha1": "629e8f79cc4b832dbc2bfd8c0aa1a78da9cca70c",
+            "size": "923",
+            "source": "original"
+        }
+    ],
+    "files_count": 12,
+    "item_last_updated": 1482415841,
+    "item_size": 279079917,
+    "metadata": {
+        "addeddate": "2016-02-23 22:47:56",
+        "backup_location": "ia906100_29",
+        "collection": "opensource_audio",
+        "creator": "Matt Earle + Adam Sussmann + John Porter + Massimo Magee + Timothy Green",
+        "curation": "[curator]validator@archive.org[/curator][date]20160223224827[/date][comment]checked for malware[/comment]",
+        "date": "2012-05-01",
+        "description": "At Real Bad Music",
+        "identifier": "homo051",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-23 22:47:56",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Abstract",
+            "Field Recording",
+            "Experimental"
+        ],
+        "title": "At Real Bad Music",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia600205.us.archive.org",
+    "uniq": 871667913,
+    "workable_servers": [
+        "ia600205.us.archive.org",
+        "ia800205.us.archive.org"
+    ]
+}

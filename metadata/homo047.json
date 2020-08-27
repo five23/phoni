@@ -1,1 +1,150 @@
-{"created":1598535697,"d1":"ia600707.us.archive.org","d2":"ia800707.us.archive.org","dir":"/7/items/homo047","files":[{"name":"Fraufraulein - Without Being Heard, Heading Forward.afpk","source":"derivative","format":"Columbia Peaks","original":"Fraufraulein - Without Being Heard, Heading Forward.mp3","mtime":"1544494091","size":"202464","md5":"32a502cf477dc5549df3642d5d08b0fb","crc32":"d30a0716","sha1":"239067772727dcf00f9dafb54cb9ddea06d83e28"},{"name":"Fraufraulein - Without Being Heard, Heading Forward.mp3","source":"original","mtime":"1544493961","size":"43171089","md5":"4de4cb561b582d8ba6e6936cdb9081e3","crc32":"7eedbb81","sha1":"951ce4976f90134d642432a6a7521f96d2a189b0","format":"VBR MP3","length":"1075.36","height":"348","width":"535","title":"Without Being Heard, Heading Forward","album":"Without Being Heard, Heading Forward","track":"1\/1","genre":"eai","artist":"Fraufraulein","external-identifier-match-date":"acoustid:2019-04-01T22:05:16Z","external-identifier":"urn:acoustid:7999e597-df26-413c-9d95-12f269acd045"},{"name":"Fraufraulein - Without Being Heard, Heading Forward.ogg","source":"derivative","format":"Ogg Vorbis","original":"Fraufraulein - Without Being Heard, Heading Forward.mp3","mtime":"1544494031","size":"11012348","md5":"30347a8171fcf6749573cb408331652a","crc32":"282ecc88","sha1":"fbb8062ce640f6aa3da6200f08ddf3c0a1d47410","length":"1075.31","height":"0","width":"0"},{"name":"Fraufraulein - Without Being Heard, Heading Forward.png","source":"derivative","format":"PNG","original":"Fraufraulein - Without Being Heard, Heading Forward.mp3","mtime":"1544494068","size":"8363","md5":"5fd0cb4baaefacf2d4915866997546f7","crc32":"07ada103","sha1":"550c1531910a93aec36ed2ee4e6f95bb3ac04430"},{"name":"Fraufraulein - Without Being Heard, Heading Forward_spectrogram.png","source":"derivative","format":"Spectrogram","original":"Fraufraulein - Without Being Heard, Heading Forward.mp3","mtime":"1544494076","size":"264700","md5":"defd54bb40096a4c8154a5798eed1b7a","crc32":"f2b3525b","sha1":"77fce3fcec73c5149af54de1d9cf074119adf62c"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1544494095","size":"2530","md5":"619e8c5ff5778ad1d6ec41f0758e6494","crc32":"7d0d7b94","sha1":"824500d78039feb62837e4af9dd7fe23688deaad","format":"Item Tile","rotation":"0"},{"name":"homo047_archive.torrent","source":"metadata","btih":"5140b8f830b21e9df7c53fbf68ddbf2f33ae553b","mtime":"1590363940","size":"4713","md5":"d71cb2df6941198b1ac5bb344d1926b8","crc32":"2fdda38b","sha1":"331af882e6714a13801727d67d7815ab50c765a0","format":"Archive BitTorrent"},{"name":"homo047_files.xml","source":"original","format":"Metadata","md5":"ba1a1d8b36d2d5ddc9d1bcfa7d0d62cc"},{"name":"homo047_meta.sqlite","source":"original","mtime":"1544493985","size":"11264","md5":"0059fc36e13713d1e5c063c177608722","crc32":"7459c57a","sha1":"c44f3b7f2040017397c572817d04d317a083aec3","format":"Metadata"},{"name":"homo047_meta.xml","source":"original","mtime":"1590363940","size":"899","format":"Metadata","md5":"8cc7ca8d4951085d10dfdf8a02393c5f","crc32":"da230a5b","sha1":"e189c25c39479e9b51eaeada2a0c9e5395fe0077"}],"files_count":10,"item_last_updated":1590363940,"item_size":54678370,"metadata":{"identifier":"homo047","mediatype":"audio","collection":"opensource_audio","creator":"Fraufraulein","date":"2011","description":"Without Being Heard, Heading Forward","licenseurl":"http://creativecommons.org/licenses/by/4.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":"Abstract","title":"Without Being Heard, Heading Forward","publicdate":"2018-12-11 02:06:01","uploader":"davidkirby@homophoni.com","addeddate":"2018-12-11 02:06:01","curation":"[curator]validator@archive.org[/curator][date]20181211020635[/date][comment]checked for malware[/comment]","external_metadata_update":"2019-04-01T22:05:16Z","backup_location":"ia906805_8"},"server":"ia800707.us.archive.org","uniq":1839626969,"workable_servers":["ia800707.us.archive.org","ia600707.us.archive.org"]}
+{
+    "created": 1598535697,
+    "d1": "ia600707.us.archive.org",
+    "d2": "ia800707.us.archive.org",
+    "dir": "/7/items/homo047",
+    "files": [
+        {
+            "crc32": "d30a0716",
+            "format": "Columbia Peaks",
+            "md5": "32a502cf477dc5549df3642d5d08b0fb",
+            "mtime": "1544494091",
+            "name": "Fraufraulein - Without Being Heard, Heading Forward.afpk",
+            "original": "Fraufraulein - Without Being Heard, Heading Forward.mp3",
+            "sha1": "239067772727dcf00f9dafb54cb9ddea06d83e28",
+            "size": "202464",
+            "source": "derivative"
+        },
+        {
+            "album": "Without Being Heard, Heading Forward",
+            "artist": "Fraufraulein",
+            "crc32": "7eedbb81",
+            "external-identifier": "urn:acoustid:7999e597-df26-413c-9d95-12f269acd045",
+            "external-identifier-match-date": "acoustid:2019-04-01T22:05:16Z",
+            "format": "VBR MP3",
+            "genre": "eai",
+            "height": "348",
+            "length": "1075.36",
+            "md5": "4de4cb561b582d8ba6e6936cdb9081e3",
+            "mtime": "1544493961",
+            "name": "Fraufraulein - Without Being Heard, Heading Forward.mp3",
+            "sha1": "951ce4976f90134d642432a6a7521f96d2a189b0",
+            "size": "43171089",
+            "source": "original",
+            "title": "Without Being Heard, Heading Forward",
+            "track": "1/1",
+            "width": "535"
+        },
+        {
+            "crc32": "282ecc88",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1075.31",
+            "md5": "30347a8171fcf6749573cb408331652a",
+            "mtime": "1544494031",
+            "name": "Fraufraulein - Without Being Heard, Heading Forward.ogg",
+            "original": "Fraufraulein - Without Being Heard, Heading Forward.mp3",
+            "sha1": "fbb8062ce640f6aa3da6200f08ddf3c0a1d47410",
+            "size": "11012348",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "07ada103",
+            "format": "PNG",
+            "md5": "5fd0cb4baaefacf2d4915866997546f7",
+            "mtime": "1544494068",
+            "name": "Fraufraulein - Without Being Heard, Heading Forward.png",
+            "original": "Fraufraulein - Without Being Heard, Heading Forward.mp3",
+            "sha1": "550c1531910a93aec36ed2ee4e6f95bb3ac04430",
+            "size": "8363",
+            "source": "derivative"
+        },
+        {
+            "crc32": "f2b3525b",
+            "format": "Spectrogram",
+            "md5": "defd54bb40096a4c8154a5798eed1b7a",
+            "mtime": "1544494076",
+            "name": "Fraufraulein - Without Being Heard, Heading Forward_spectrogram.png",
+            "original": "Fraufraulein - Without Being Heard, Heading Forward.mp3",
+            "sha1": "77fce3fcec73c5149af54de1d9cf074119adf62c",
+            "size": "264700",
+            "source": "derivative"
+        },
+        {
+            "crc32": "7d0d7b94",
+            "format": "Item Tile",
+            "md5": "619e8c5ff5778ad1d6ec41f0758e6494",
+            "mtime": "1544494095",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "824500d78039feb62837e4af9dd7fe23688deaad",
+            "size": "2530",
+            "source": "original"
+        },
+        {
+            "btih": "5140b8f830b21e9df7c53fbf68ddbf2f33ae553b",
+            "crc32": "2fdda38b",
+            "format": "Archive BitTorrent",
+            "md5": "d71cb2df6941198b1ac5bb344d1926b8",
+            "mtime": "1590363940",
+            "name": "homo047_archive.torrent",
+            "sha1": "331af882e6714a13801727d67d7815ab50c765a0",
+            "size": "4713",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "ba1a1d8b36d2d5ddc9d1bcfa7d0d62cc",
+            "name": "homo047_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "7459c57a",
+            "format": "Metadata",
+            "md5": "0059fc36e13713d1e5c063c177608722",
+            "mtime": "1544493985",
+            "name": "homo047_meta.sqlite",
+            "sha1": "c44f3b7f2040017397c572817d04d317a083aec3",
+            "size": "11264",
+            "source": "original"
+        },
+        {
+            "crc32": "da230a5b",
+            "format": "Metadata",
+            "md5": "8cc7ca8d4951085d10dfdf8a02393c5f",
+            "mtime": "1590363940",
+            "name": "homo047_meta.xml",
+            "sha1": "e189c25c39479e9b51eaeada2a0c9e5395fe0077",
+            "size": "899",
+            "source": "original"
+        }
+    ],
+    "files_count": 10,
+    "item_last_updated": 1590363940,
+    "item_size": 54678370,
+    "metadata": {
+        "addeddate": "2018-12-11 02:06:01",
+        "backup_location": "ia906805_8",
+        "collection": "opensource_audio",
+        "creator": "Fraufraulein",
+        "curation": "[curator]validator@archive.org[/curator][date]20181211020635[/date][comment]checked for malware[/comment]",
+        "date": "2011",
+        "description": "Without Being Heard, Heading Forward",
+        "external_metadata_update": "2019-04-01T22:05:16Z",
+        "identifier": "homo047",
+        "licenseurl": "http://creativecommons.org/licenses/by/4.0/",
+        "mediatype": "audio",
+        "publicdate": "2018-12-11 02:06:01",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": "Abstract",
+        "title": "Without Being Heard, Heading Forward",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800707.us.archive.org",
+    "uniq": 1839626969,
+    "workable_servers": [
+        "ia800707.us.archive.org",
+        "ia600707.us.archive.org"
+    ]
+}

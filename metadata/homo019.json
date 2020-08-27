@@ -1,1 +1,165 @@
-{"created":1598535531,"d1":"ia600201.us.archive.org","d2":"ia800201.us.archive.org","dir":"/26/items/homo019","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1553853727","size":"2300","md5":"44bcccd42abb44402683119d09e80b43","crc32":"75c92981","sha1":"5192945faa809f910b6b9eac38fe02d16a8f22a9","format":"Item Tile","rotation":"0"},{"name":"homo019_archive.torrent","source":"metadata","btih":"849b49e6f5f22de9e2f28854b8bda8efaa708c2b","mtime":"1553853735","size":"5537","md5":"bdcb214f678b25bb3dddfd9a1367c803","crc32":"b539e668","sha1":"219908541206a82ed86dfc919a4be709fc84bd38","format":"Archive BitTorrent"},{"name":"homo019_files.xml","source":"original","format":"Metadata","md5":"b07785873829e1e6cbddede78812edea"},{"name":"homo019_meta.sqlite","source":"original","mtime":"1455256780","size":"9216","md5":"b110d5c041e6437134c4e961a1869bc6","crc32":"fc7883b5","sha1":"9b11b5351219b759a4e8b11dc190a6a2f39327d4","format":"Metadata"},{"name":"homo019_meta.xml","source":"original","mtime":"1553853733","size":"927","format":"Metadata","md5":"4ffbf04bf985d180a371d7f550c4f4f9","crc32":"698c4916","sha1":"4f397c06336ee7141093c6f59cd35bff96d437bb"},{"name":"steven flato - 48v.afpk","source":"derivative","format":"Columbia Peaks","original":"steven flato - 48v.mp3","mtime":"1455257146","size":"620584","md5":"43b845ef168f083c28365769f5883395","crc32":"71109cac","sha1":"eb3461de89c7c051f93cfd0dd5b011adb70c35be"},{"name":"steven flato - 48v.mp3","source":"original","mtime":"1455256766","size":"59347072","md5":"f9bb09cefa6e70b4ba57ae3c5a80af80","crc32":"c1b2ec7d","sha1":"b137438edc56042e5dfcc7f74cee5d901d002974","format":"VBR MP3","length":"1482.34","height":"348","width":"535","album":"48v [Homophoni]","title":"48v","track":"1","artist":"Steven Flato","external-identifier-match-date":"acoustid:2019-03-29T10:01:57Z","external-identifier":"urn:acoustid:ed79da95-dc55-4c53-8382-6ae8de82df84"},{"name":"steven flato - 48v.ogg","source":"derivative","format":"Ogg Vorbis","original":"steven flato - 48v.mp3","mtime":"1455256873","size":"15685179","md5":"b0d1df935abf8a978ee9cb1331303a60","crc32":"f5e776cb","sha1":"70313334b5251cb441f779eb4e2d73be64716313","length":"1482.3","height":"0","width":"0"},{"name":"steven flato - 48v.png","source":"derivative","format":"PNG","original":"steven flato - 48v.mp3","mtime":"1455256909","size":"8596","md5":"ba2a38e42c2c193f7b88db40c4342848","crc32":"c8b72922","sha1":"f31669b6171ca8e0013bef70f9cd6da1abb0c309"},{"name":"steven flato - 48v_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"steven flato - 48v.mp3","mtime":"1455257107","size":"38404","md5":"52ea2671a4a3ae8032964f80448df975","crc32":"beba95dc","sha1":"3e86073e40d002da2bdb1529cc0d993d4eb03c8a"},{"name":"steven flato - 48v_spectrogram.png","source":"derivative","format":"Spectrogram","original":"steven flato - 48v.mp3","mtime":"1455256927","size":"186384","md5":"7cacb843ba6bf91b53dbcc3ca35023bd","crc32":"b12f34a5","sha1":"9c8041cbfd86e931caa19110f7a716d279ffce55"}],"files_count":11,"item_last_updated":1553853735,"item_size":75904199,"metadata":{"identifier":"homo019","mediatype":"audio","collection":"opensource_audio","creator":"Steven Flato","date":"2007-04-01","description":"48v","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Abstract","Drone","Noise","Experimental"],"title":"48v","publicdate":"2016-02-12 05:59:26","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-12 05:59:26","curation":"[curator]validator@archive.org[/curator][date]20160212055950[/date][comment]checked for malware[/comment]","backup_location":"ia906100_0","external_metadata_update":"2019-03-29T10:01:57Z"},"server":"ia800201.us.archive.org","uniq":1736292428,"workable_servers":["ia800201.us.archive.org","ia600201.us.archive.org"]}
+{
+    "created": 1598535531,
+    "d1": "ia600201.us.archive.org",
+    "d2": "ia800201.us.archive.org",
+    "dir": "/26/items/homo019",
+    "files": [
+        {
+            "crc32": "75c92981",
+            "format": "Item Tile",
+            "md5": "44bcccd42abb44402683119d09e80b43",
+            "mtime": "1553853727",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "5192945faa809f910b6b9eac38fe02d16a8f22a9",
+            "size": "2300",
+            "source": "original"
+        },
+        {
+            "btih": "849b49e6f5f22de9e2f28854b8bda8efaa708c2b",
+            "crc32": "b539e668",
+            "format": "Archive BitTorrent",
+            "md5": "bdcb214f678b25bb3dddfd9a1367c803",
+            "mtime": "1553853735",
+            "name": "homo019_archive.torrent",
+            "sha1": "219908541206a82ed86dfc919a4be709fc84bd38",
+            "size": "5537",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "b07785873829e1e6cbddede78812edea",
+            "name": "homo019_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "fc7883b5",
+            "format": "Metadata",
+            "md5": "b110d5c041e6437134c4e961a1869bc6",
+            "mtime": "1455256780",
+            "name": "homo019_meta.sqlite",
+            "sha1": "9b11b5351219b759a4e8b11dc190a6a2f39327d4",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "698c4916",
+            "format": "Metadata",
+            "md5": "4ffbf04bf985d180a371d7f550c4f4f9",
+            "mtime": "1553853733",
+            "name": "homo019_meta.xml",
+            "sha1": "4f397c06336ee7141093c6f59cd35bff96d437bb",
+            "size": "927",
+            "source": "original"
+        },
+        {
+            "crc32": "71109cac",
+            "format": "Columbia Peaks",
+            "md5": "43b845ef168f083c28365769f5883395",
+            "mtime": "1455257146",
+            "name": "steven flato - 48v.afpk",
+            "original": "steven flato - 48v.mp3",
+            "sha1": "eb3461de89c7c051f93cfd0dd5b011adb70c35be",
+            "size": "620584",
+            "source": "derivative"
+        },
+        {
+            "album": "48v [Homophoni]",
+            "artist": "Steven Flato",
+            "crc32": "c1b2ec7d",
+            "external-identifier": "urn:acoustid:ed79da95-dc55-4c53-8382-6ae8de82df84",
+            "external-identifier-match-date": "acoustid:2019-03-29T10:01:57Z",
+            "format": "VBR MP3",
+            "height": "348",
+            "length": "1482.34",
+            "md5": "f9bb09cefa6e70b4ba57ae3c5a80af80",
+            "mtime": "1455256766",
+            "name": "steven flato - 48v.mp3",
+            "sha1": "b137438edc56042e5dfcc7f74cee5d901d002974",
+            "size": "59347072",
+            "source": "original",
+            "title": "48v",
+            "track": "1",
+            "width": "535"
+        },
+        {
+            "crc32": "f5e776cb",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1482.3",
+            "md5": "b0d1df935abf8a978ee9cb1331303a60",
+            "mtime": "1455256873",
+            "name": "steven flato - 48v.ogg",
+            "original": "steven flato - 48v.mp3",
+            "sha1": "70313334b5251cb441f779eb4e2d73be64716313",
+            "size": "15685179",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "c8b72922",
+            "format": "PNG",
+            "md5": "ba2a38e42c2c193f7b88db40c4342848",
+            "mtime": "1455256909",
+            "name": "steven flato - 48v.png",
+            "original": "steven flato - 48v.mp3",
+            "sha1": "f31669b6171ca8e0013bef70f9cd6da1abb0c309",
+            "size": "8596",
+            "source": "derivative"
+        },
+        {
+            "crc32": "beba95dc",
+            "format": "Essentia Low GZ",
+            "md5": "52ea2671a4a3ae8032964f80448df975",
+            "mtime": "1455257107",
+            "name": "steven flato - 48v_esslow.json.gz",
+            "original": "steven flato - 48v.mp3",
+            "sha1": "3e86073e40d002da2bdb1529cc0d993d4eb03c8a",
+            "size": "38404",
+            "source": "derivative"
+        },
+        {
+            "crc32": "b12f34a5",
+            "format": "Spectrogram",
+            "md5": "7cacb843ba6bf91b53dbcc3ca35023bd",
+            "mtime": "1455256927",
+            "name": "steven flato - 48v_spectrogram.png",
+            "original": "steven flato - 48v.mp3",
+            "sha1": "9c8041cbfd86e931caa19110f7a716d279ffce55",
+            "size": "186384",
+            "source": "derivative"
+        }
+    ],
+    "files_count": 11,
+    "item_last_updated": 1553853735,
+    "item_size": 75904199,
+    "metadata": {
+        "addeddate": "2016-02-12 05:59:26",
+        "backup_location": "ia906100_0",
+        "collection": "opensource_audio",
+        "creator": "Steven Flato",
+        "curation": "[curator]validator@archive.org[/curator][date]20160212055950[/date][comment]checked for malware[/comment]",
+        "date": "2007-04-01",
+        "description": "48v",
+        "external_metadata_update": "2019-03-29T10:01:57Z",
+        "identifier": "homo019",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-12 05:59:26",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Abstract",
+            "Drone",
+            "Noise",
+            "Experimental"
+        ],
+        "title": "48v",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800201.us.archive.org",
+    "uniq": 1736292428,
+    "workable_servers": [
+        "ia800201.us.archive.org",
+        "ia600201.us.archive.org"
+    ]
+}

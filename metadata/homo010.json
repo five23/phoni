@@ -1,1 +1,166 @@
-{"created":1598535395,"d1":"ia600204.us.archive.org","d2":"ia800204.us.archive.org","dir":"/23/items/homo010","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1553841651","size":"2572","md5":"9c50d624f57d78bd8e0f399c1e5db377","crc32":"e9af12c5","sha1":"01998729aa55955c19ef7e89730119ae63f9a44b","format":"Item Tile","rotation":"0"},{"name":"david kirby - coronary.afpk","source":"derivative","format":"Columbia Peaks","original":"david kirby - coronary.mp3","mtime":"1455256368","size":"197440","md5":"e34be4d23c7ca6cdf9e81d37d8dc7122","crc32":"e9821fb7","sha1":"ba618e4163f72cfc75eb1d65173e4cf758c830c1"},{"name":"david kirby - coronary.mp3","source":"original","mtime":"1455256184","size":"15642752","md5":"f425b18885b6c340a8ff59b6581382e3","crc32":"475d79b8","sha1":"fbf5f12e97afc78ae239742a5d8a678398e62c95","format":"VBR MP3","length":"581.93","height":"348","width":"535","artist":"David Kirby","track":"1","album":"Coronary [Homophoni]","title":"Coronary","genre":"Drone","external-identifier-match-date":"acoustid:2019-03-29T06:40:44Z","external-identifier":"urn:acoustid:a6d1c5c0-a38a-4595-9f6a-9d7777f445c2"},{"name":"david kirby - coronary.ogg","source":"derivative","format":"Ogg Vorbis","original":"david kirby - coronary.mp3","mtime":"1455256240","size":"7531850","md5":"12ab87b9e348713e90f5bc5b6fe76b06","crc32":"819800c2","sha1":"90555ed100ed108fe8ff39a84a8809cbe5464f1f","length":"581.89","height":"0","width":"0"},{"name":"david kirby - coronary.png","source":"derivative","format":"PNG","original":"david kirby - coronary.mp3","mtime":"1455256257","size":"9745","md5":"e10b43f0775fefb2fcb6844b867df689","crc32":"f1377c11","sha1":"bc2aaa43008dde539e3cb67b16f05fd5c6937482"},{"name":"david kirby - coronary_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"david kirby - coronary.mp3","mtime":"1455256342","size":"28981","md5":"df586068931b074aeaf0a0a921a394b8","crc32":"b6b9e0cf","sha1":"8c58c206da4cdfe3b9b738ccc4a9ab4d696ec6a9"},{"name":"david kirby - coronary_spectrogram.png","source":"derivative","format":"Spectrogram","original":"david kirby - coronary.mp3","mtime":"1455256264","size":"260907","md5":"bfb124a3cd3bea3102c7328fa364e544","crc32":"cc83df57","sha1":"2776415bc99dc306680b91ea3c1dbaa5c47b8d1d"},{"name":"homo010_archive.torrent","source":"metadata","btih":"d0899297fb873f086fafe43daf2e826f565e1b1c","mtime":"1553841659","size":"3579","md5":"0fab2185cfd26f8c4c6286bfb5479c34","crc32":"ebc6e592","sha1":"99f745a22dbbe6f8beb958591e7510fe1c67828b","format":"Archive BitTorrent"},{"name":"homo010_files.xml","source":"original","format":"Metadata","md5":"22b044a5b7318938f7c69e24ae22000b"},{"name":"homo010_meta.sqlite","source":"original","mtime":"1455256198","size":"9216","md5":"ef33de4672ef41362e896535a7ffa4d8","crc32":"3fb2c398","sha1":"f271c1d9c7ce6272d5c8a00cc5eb5a10236288a7","format":"Metadata"},{"name":"homo010_meta.xml","source":"original","mtime":"1553841657","size":"944","format":"Metadata","md5":"3baea6a973bd75cd605fe4a4061d9ff5","crc32":"3e584a73","sha1":"41dc85687b6812b9f47535959c8b3087a667965a"}],"files_count":11,"item_last_updated":1553841659,"item_size":23687986,"metadata":{"identifier":"homo010","mediatype":"audio","collection":"opensource_audio","creator":"David Kirby","date":"2006-02-01","description":"Overprocessing","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Abstract","Noise","Experimental","Minimal"],"title":"Coronary","publicdate":"2016-02-12 05:49:45","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-12 05:49:45","curation":"[curator]validator@archive.org[/curator][date]20160212055005[/date][comment]checked for malware[/comment]","backup_location":"ia906100_0","external_metadata_update":"2019-03-29T06:40:44Z"},"server":"ia800204.us.archive.org","uniq":60079623,"workable_servers":["ia800204.us.archive.org","ia600204.us.archive.org"]}
+{
+    "created": 1598535395,
+    "d1": "ia600204.us.archive.org",
+    "d2": "ia800204.us.archive.org",
+    "dir": "/23/items/homo010",
+    "files": [
+        {
+            "crc32": "e9af12c5",
+            "format": "Item Tile",
+            "md5": "9c50d624f57d78bd8e0f399c1e5db377",
+            "mtime": "1553841651",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "01998729aa55955c19ef7e89730119ae63f9a44b",
+            "size": "2572",
+            "source": "original"
+        },
+        {
+            "crc32": "e9821fb7",
+            "format": "Columbia Peaks",
+            "md5": "e34be4d23c7ca6cdf9e81d37d8dc7122",
+            "mtime": "1455256368",
+            "name": "david kirby - coronary.afpk",
+            "original": "david kirby - coronary.mp3",
+            "sha1": "ba618e4163f72cfc75eb1d65173e4cf758c830c1",
+            "size": "197440",
+            "source": "derivative"
+        },
+        {
+            "album": "Coronary [Homophoni]",
+            "artist": "David Kirby",
+            "crc32": "475d79b8",
+            "external-identifier": "urn:acoustid:a6d1c5c0-a38a-4595-9f6a-9d7777f445c2",
+            "external-identifier-match-date": "acoustid:2019-03-29T06:40:44Z",
+            "format": "VBR MP3",
+            "genre": "Drone",
+            "height": "348",
+            "length": "581.93",
+            "md5": "f425b18885b6c340a8ff59b6581382e3",
+            "mtime": "1455256184",
+            "name": "david kirby - coronary.mp3",
+            "sha1": "fbf5f12e97afc78ae239742a5d8a678398e62c95",
+            "size": "15642752",
+            "source": "original",
+            "title": "Coronary",
+            "track": "1",
+            "width": "535"
+        },
+        {
+            "crc32": "819800c2",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "581.89",
+            "md5": "12ab87b9e348713e90f5bc5b6fe76b06",
+            "mtime": "1455256240",
+            "name": "david kirby - coronary.ogg",
+            "original": "david kirby - coronary.mp3",
+            "sha1": "90555ed100ed108fe8ff39a84a8809cbe5464f1f",
+            "size": "7531850",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "f1377c11",
+            "format": "PNG",
+            "md5": "e10b43f0775fefb2fcb6844b867df689",
+            "mtime": "1455256257",
+            "name": "david kirby - coronary.png",
+            "original": "david kirby - coronary.mp3",
+            "sha1": "bc2aaa43008dde539e3cb67b16f05fd5c6937482",
+            "size": "9745",
+            "source": "derivative"
+        },
+        {
+            "crc32": "b6b9e0cf",
+            "format": "Essentia Low GZ",
+            "md5": "df586068931b074aeaf0a0a921a394b8",
+            "mtime": "1455256342",
+            "name": "david kirby - coronary_esslow.json.gz",
+            "original": "david kirby - coronary.mp3",
+            "sha1": "8c58c206da4cdfe3b9b738ccc4a9ab4d696ec6a9",
+            "size": "28981",
+            "source": "derivative"
+        },
+        {
+            "crc32": "cc83df57",
+            "format": "Spectrogram",
+            "md5": "bfb124a3cd3bea3102c7328fa364e544",
+            "mtime": "1455256264",
+            "name": "david kirby - coronary_spectrogram.png",
+            "original": "david kirby - coronary.mp3",
+            "sha1": "2776415bc99dc306680b91ea3c1dbaa5c47b8d1d",
+            "size": "260907",
+            "source": "derivative"
+        },
+        {
+            "btih": "d0899297fb873f086fafe43daf2e826f565e1b1c",
+            "crc32": "ebc6e592",
+            "format": "Archive BitTorrent",
+            "md5": "0fab2185cfd26f8c4c6286bfb5479c34",
+            "mtime": "1553841659",
+            "name": "homo010_archive.torrent",
+            "sha1": "99f745a22dbbe6f8beb958591e7510fe1c67828b",
+            "size": "3579",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "22b044a5b7318938f7c69e24ae22000b",
+            "name": "homo010_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "3fb2c398",
+            "format": "Metadata",
+            "md5": "ef33de4672ef41362e896535a7ffa4d8",
+            "mtime": "1455256198",
+            "name": "homo010_meta.sqlite",
+            "sha1": "f271c1d9c7ce6272d5c8a00cc5eb5a10236288a7",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "3e584a73",
+            "format": "Metadata",
+            "md5": "3baea6a973bd75cd605fe4a4061d9ff5",
+            "mtime": "1553841657",
+            "name": "homo010_meta.xml",
+            "sha1": "41dc85687b6812b9f47535959c8b3087a667965a",
+            "size": "944",
+            "source": "original"
+        }
+    ],
+    "files_count": 11,
+    "item_last_updated": 1553841659,
+    "item_size": 23687986,
+    "metadata": {
+        "addeddate": "2016-02-12 05:49:45",
+        "backup_location": "ia906100_0",
+        "collection": "opensource_audio",
+        "creator": "David Kirby",
+        "curation": "[curator]validator@archive.org[/curator][date]20160212055005[/date][comment]checked for malware[/comment]",
+        "date": "2006-02-01",
+        "description": "Overprocessing",
+        "external_metadata_update": "2019-03-29T06:40:44Z",
+        "identifier": "homo010",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-12 05:49:45",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Abstract",
+            "Noise",
+            "Experimental",
+            "Minimal"
+        ],
+        "title": "Coronary",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800204.us.archive.org",
+    "uniq": 60079623,
+    "workable_servers": [
+        "ia800204.us.archive.org",
+        "ia600204.us.archive.org"
+    ]
+}

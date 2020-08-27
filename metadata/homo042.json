@@ -1,1 +1,150 @@
-{"created":1598535688,"d1":"ia600704.us.archive.org","d2":"ia800704.us.archive.org","dir":"/10/items/homo042","files":[{"name":"Dan Warburton - A Walk Chez J.afpk","source":"derivative","format":"Columbia Peaks","original":"Dan Warburton - A Walk Chez J.mp3","mtime":"1544492516","size":"191216","md5":"df515e3805d3b30a6224f894d974d293","crc32":"fcedd230","sha1":"e834f3b27698e68288ee99877ffe07c6b33d4ebd"},{"name":"Dan Warburton - A Walk Chez J.mp3","source":"original","mtime":"1544492333","size":"46870656","md5":"70ce82dddfda0cdf7a2b1bd59ecfd17c","crc32":"e9347d9f","sha1":"8ae2ded2e63f30534d3b0cba21681b5f76b1f60f","format":"VBR MP3","length":"1170.05","height":"348","width":"535","genre":"Contemporary Composition","title":"A Walk Chez J","artist":"Dan Warburton","album":"A Walk Chez J","track":"1\/1","external-identifier-match-date":"acoustid:2019-03-28T22:49:12Z","external-identifier":"urn:acoustid:22a92e7c-882f-44ce-a894-c02b68145188"},{"name":"Dan Warburton - A Walk Chez J.ogg","source":"derivative","format":"Ogg Vorbis","original":"Dan Warburton - A Walk Chez J.mp3","mtime":"1544492419","size":"11288681","md5":"9ea5be48de1df2b9f9f6186d05564586","crc32":"0e5f8df8","sha1":"2fa50e0a48d9a0026561a1e8eaf8d1cfbcb6f705","length":"1170","height":"0","width":"0"},{"name":"Dan Warburton - A Walk Chez J.png","source":"derivative","format":"PNG","original":"Dan Warburton - A Walk Chez J.mp3","mtime":"1544492481","size":"7939","md5":"4ef5928133be63ffa2d8fa808a2683d0","crc32":"3020c4a9","sha1":"0de0cf649c3f4df72d4c86351e0e6ea9653b44d7"},{"name":"Dan Warburton - A Walk Chez J_spectrogram.png","source":"derivative","format":"Spectrogram","original":"Dan Warburton - A Walk Chez J.mp3","mtime":"1544492492","size":"277292","md5":"07eca4b06dfa155ea8bb24f437c899d1","crc32":"ad03ae04","sha1":"5ce82838cf71eb9a853bd44814fea4a46cc5262f"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1544492520","size":"2786","md5":"c8a58cae6cdb7fdff996b26549cf5c2b","crc32":"c1986a9a","sha1":"22e39d1c5b9362dd35ec5e2abe8b5ea17e112503","format":"Item Tile","rotation":"0"},{"name":"homo042_archive.torrent","source":"metadata","btih":"be35a4871e143c8313bf4d0b8ed8d836d8b2d9e2","mtime":"1590213480","size":"4746","md5":"64424a2fd62ebde06a4382aede5aa249","crc32":"1476a16c","sha1":"cf7cb4e4d4963aca77b4d4f61c0d66e0fae33553","format":"Archive BitTorrent"},{"name":"homo042_files.xml","source":"original","format":"Metadata","md5":"6435b6191cc65aa1b819ac028e5e73c2"},{"name":"homo042_meta.sqlite","source":"original","mtime":"1544492359","size":"11264","md5":"eb1141dd643913791bf49ff8bf6f0424","crc32":"e9fdb69f","sha1":"400c7c5f2f3ae23eb4ae6daad0cb51ee0ed28ef3","format":"Metadata"},{"name":"homo042_meta.xml","source":"original","mtime":"1590213479","size":"854","format":"Metadata","md5":"d53a6ababa2e391ecebefd56d2f8916c","crc32":"3d06ace1","sha1":"00eb343d89e1f31e948881c6e30fbc76325c3841"}],"files_count":10,"item_last_updated":1590213480,"item_size":58655434,"metadata":{"identifier":"homo042","mediatype":"audio","collection":"opensource_audio","creator":"Dan Warburton","date":"2010","description":"A Walk Chez J","licenseurl":"http://creativecommons.org/licenses/by/4.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":"Abstract","title":"A Walk Chez J","publicdate":"2018-12-11 01:38:54","uploader":"davidkirby@homophoni.com","addeddate":"2018-12-11 01:38:54","curation":"[curator]validator@archive.org[/curator][date]20181211013931[/date][comment]checked for malware[/comment]","external_metadata_update":"2019-03-28T22:49:12Z","backup_location":"ia906805_8"},"server":"ia800704.us.archive.org","uniq":740836318,"workable_servers":["ia800704.us.archive.org","ia600704.us.archive.org"]}
+{
+    "created": 1598535688,
+    "d1": "ia600704.us.archive.org",
+    "d2": "ia800704.us.archive.org",
+    "dir": "/10/items/homo042",
+    "files": [
+        {
+            "crc32": "fcedd230",
+            "format": "Columbia Peaks",
+            "md5": "df515e3805d3b30a6224f894d974d293",
+            "mtime": "1544492516",
+            "name": "Dan Warburton - A Walk Chez J.afpk",
+            "original": "Dan Warburton - A Walk Chez J.mp3",
+            "sha1": "e834f3b27698e68288ee99877ffe07c6b33d4ebd",
+            "size": "191216",
+            "source": "derivative"
+        },
+        {
+            "album": "A Walk Chez J",
+            "artist": "Dan Warburton",
+            "crc32": "e9347d9f",
+            "external-identifier": "urn:acoustid:22a92e7c-882f-44ce-a894-c02b68145188",
+            "external-identifier-match-date": "acoustid:2019-03-28T22:49:12Z",
+            "format": "VBR MP3",
+            "genre": "Contemporary Composition",
+            "height": "348",
+            "length": "1170.05",
+            "md5": "70ce82dddfda0cdf7a2b1bd59ecfd17c",
+            "mtime": "1544492333",
+            "name": "Dan Warburton - A Walk Chez J.mp3",
+            "sha1": "8ae2ded2e63f30534d3b0cba21681b5f76b1f60f",
+            "size": "46870656",
+            "source": "original",
+            "title": "A Walk Chez J",
+            "track": "1/1",
+            "width": "535"
+        },
+        {
+            "crc32": "0e5f8df8",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1170",
+            "md5": "9ea5be48de1df2b9f9f6186d05564586",
+            "mtime": "1544492419",
+            "name": "Dan Warburton - A Walk Chez J.ogg",
+            "original": "Dan Warburton - A Walk Chez J.mp3",
+            "sha1": "2fa50e0a48d9a0026561a1e8eaf8d1cfbcb6f705",
+            "size": "11288681",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "3020c4a9",
+            "format": "PNG",
+            "md5": "4ef5928133be63ffa2d8fa808a2683d0",
+            "mtime": "1544492481",
+            "name": "Dan Warburton - A Walk Chez J.png",
+            "original": "Dan Warburton - A Walk Chez J.mp3",
+            "sha1": "0de0cf649c3f4df72d4c86351e0e6ea9653b44d7",
+            "size": "7939",
+            "source": "derivative"
+        },
+        {
+            "crc32": "ad03ae04",
+            "format": "Spectrogram",
+            "md5": "07eca4b06dfa155ea8bb24f437c899d1",
+            "mtime": "1544492492",
+            "name": "Dan Warburton - A Walk Chez J_spectrogram.png",
+            "original": "Dan Warburton - A Walk Chez J.mp3",
+            "sha1": "5ce82838cf71eb9a853bd44814fea4a46cc5262f",
+            "size": "277292",
+            "source": "derivative"
+        },
+        {
+            "crc32": "c1986a9a",
+            "format": "Item Tile",
+            "md5": "c8a58cae6cdb7fdff996b26549cf5c2b",
+            "mtime": "1544492520",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "22e39d1c5b9362dd35ec5e2abe8b5ea17e112503",
+            "size": "2786",
+            "source": "original"
+        },
+        {
+            "btih": "be35a4871e143c8313bf4d0b8ed8d836d8b2d9e2",
+            "crc32": "1476a16c",
+            "format": "Archive BitTorrent",
+            "md5": "64424a2fd62ebde06a4382aede5aa249",
+            "mtime": "1590213480",
+            "name": "homo042_archive.torrent",
+            "sha1": "cf7cb4e4d4963aca77b4d4f61c0d66e0fae33553",
+            "size": "4746",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "6435b6191cc65aa1b819ac028e5e73c2",
+            "name": "homo042_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "e9fdb69f",
+            "format": "Metadata",
+            "md5": "eb1141dd643913791bf49ff8bf6f0424",
+            "mtime": "1544492359",
+            "name": "homo042_meta.sqlite",
+            "sha1": "400c7c5f2f3ae23eb4ae6daad0cb51ee0ed28ef3",
+            "size": "11264",
+            "source": "original"
+        },
+        {
+            "crc32": "3d06ace1",
+            "format": "Metadata",
+            "md5": "d53a6ababa2e391ecebefd56d2f8916c",
+            "mtime": "1590213479",
+            "name": "homo042_meta.xml",
+            "sha1": "00eb343d89e1f31e948881c6e30fbc76325c3841",
+            "size": "854",
+            "source": "original"
+        }
+    ],
+    "files_count": 10,
+    "item_last_updated": 1590213480,
+    "item_size": 58655434,
+    "metadata": {
+        "addeddate": "2018-12-11 01:38:54",
+        "backup_location": "ia906805_8",
+        "collection": "opensource_audio",
+        "creator": "Dan Warburton",
+        "curation": "[curator]validator@archive.org[/curator][date]20181211013931[/date][comment]checked for malware[/comment]",
+        "date": "2010",
+        "description": "A Walk Chez J",
+        "external_metadata_update": "2019-03-28T22:49:12Z",
+        "identifier": "homo042",
+        "licenseurl": "http://creativecommons.org/licenses/by/4.0/",
+        "mediatype": "audio",
+        "publicdate": "2018-12-11 01:38:54",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": "Abstract",
+        "title": "A Walk Chez J",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800704.us.archive.org",
+    "uniq": 740836318,
+    "workable_servers": [
+        "ia800704.us.archive.org",
+        "ia600704.us.archive.org"
+    ]
+}

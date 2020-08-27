@@ -1,1 +1,177 @@
-{"created":1598535595,"d1":"ia600206.us.archive.org","d2":"ia800206.us.archive.org","dir":"/18/items/homo036","files":[{"name":"01 second day, third set.afpk","source":"derivative","format":"Columbia Peaks","original":"01 second day, third set.mp3","mtime":"1455311685","size":"403392","md5":"b3907a28a82b8892f646923edd9b5972","crc32":"541b17c7","sha1":"d77d030add74a9ba6414cb9750b02dd2f4a1fe7e"},{"name":"01 second day, third set.mp3","source":"original","mtime":"1455310834","size":"69075582","md5":"93ae0879d594d606525c908210fb0018","crc32":"f7851f0a","sha1":"f6657c8af62d88f0d4b04ac9afd9a661c40397af","format":"VBR MP3","length":"1726.04","height":"348","width":"535","album":"Second Day, Third Set","artist":"Tim Barnes","genre":"Free Improvisation","title":"Second Day, Third Set","track":"01","external-identifier-match-date":"acoustid:2019-04-11T05:25:19Z","external-identifier":"urn:acoustid:93b71b7c-b9bd-47c4-9574-49c27c3a999c"},{"name":"01 second day, third set.ogg","source":"derivative","format":"Ogg Vorbis","original":"01 second day, third set.mp3","mtime":"1455310961","size":"19885354","md5":"a2a2d7df49cd57b05a6bfc1ad9cd4040","crc32":"324cfe68","sha1":"0efd5e348f43c6b7ac0a9555341ca63509a84b12","length":"1726","height":"0","width":"0"},{"name":"01 second day, third set.png","source":"derivative","format":"PNG","original":"01 second day, third set.mp3","mtime":"1455311111","size":"7053","md5":"38eb18ceed5e7ba240a1f7df17ceea50","crc32":"2224c061","sha1":"958934146d41c97bee9e7d4cf5da861a50a6750a"},{"name":"01 second day, third set_esshigh.json.gz","source":"derivative","format":"Essentia High GZ","original":"01 second day, third set_esslow.json.gz","mtime":"1455311728","size":"2083","md5":"428b8a438724f9b492bdffb6a12b2d85","crc32":"add94ff8","sha1":"4ea4aa4266dd5b2af17dedd69669ecd1f60aa04c"},{"name":"01 second day, third set_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"01 second day, third set.mp3","mtime":"1455311336","size":"42125","md5":"027d4bc04bbc0d3099b25b99735fcd29","crc32":"f0f8304d","sha1":"6b58663aa6e11a1e6ef90d23be9dbb99fc24267e"},{"name":"01 second day, third set_spectrogram.png","source":"derivative","format":"Spectrogram","original":"01 second day, third set.mp3","mtime":"1455311140","size":"305799","md5":"f64d006b5b01dee1c98c1a1accfc6c69","crc32":"c45ab1e2","sha1":"bfb09a30ad6b5b1dd07aa4dd8cc70f6bac61f08b"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1554960338","size":"2252","md5":"63c49326f0a7ef317b4d3ba274ecc089","crc32":"5653af84","sha1":"3ea2e2d6ead99a1ae6006f56e5698de6b848f4af","format":"Item Tile","rotation":"0"},{"name":"homo036_archive.torrent","source":"metadata","btih":"179dc8fc895b003653ce118f496e27a4c06f4018","mtime":"1554960344","size":"6307","md5":"0e1883fdc94030c887744edff2c4c3b9","crc32":"31e84784","sha1":"9c0b4e48560f791856417fe8317a1c00e2e8343e","format":"Archive BitTorrent"},{"name":"homo036_files.xml","source":"original","format":"Metadata","md5":"1a9b6bc409ff401ed0a3122d472dbada"},{"name":"homo036_meta.sqlite","source":"original","mtime":"1455310849","size":"9216","md5":"efccecb749a5edc52cb90283e0c15c3e","crc32":"c11a587e","sha1":"3955bb5ebdec2d2cca53c2991d07737bd99be71e","format":"Metadata"},{"name":"homo036_meta.xml","source":"original","mtime":"1554960342","size":"1001","format":"Metadata","md5":"9cf8d99238b095be407bca263297a429","crc32":"dc29e1b2","sha1":"5333cf5e1938cc05c3124f43ec34804fbb487e67"}],"files_count":12,"item_last_updated":1554960344,"item_size":89740164,"metadata":{"identifier":"homo036","mediatype":"audio","collection":"opensource_audio","creator":"Tim Barnes + Tomas Korber","date":"2009-03-01","description":"Second Day, Third Set","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Abstract","Musique Concr\u00e8te","Free Improvisation","Experimental"],"title":"Second Day, Third Set","publicdate":"2016-02-12 21:00:35","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-12 21:00:35","curation":"[curator]validator@archive.org[/curator][date]20160212210104[/date][comment]checked for malware[/comment]","backup_location":"ia906100_1","external_metadata_update":"2019-04-11T05:25:19Z"},"server":"ia800206.us.archive.org","uniq":1724801760,"workable_servers":["ia800206.us.archive.org","ia600206.us.archive.org"]}
+{
+    "created": 1598535595,
+    "d1": "ia600206.us.archive.org",
+    "d2": "ia800206.us.archive.org",
+    "dir": "/18/items/homo036",
+    "files": [
+        {
+            "crc32": "541b17c7",
+            "format": "Columbia Peaks",
+            "md5": "b3907a28a82b8892f646923edd9b5972",
+            "mtime": "1455311685",
+            "name": "01 second day, third set.afpk",
+            "original": "01 second day, third set.mp3",
+            "sha1": "d77d030add74a9ba6414cb9750b02dd2f4a1fe7e",
+            "size": "403392",
+            "source": "derivative"
+        },
+        {
+            "album": "Second Day, Third Set",
+            "artist": "Tim Barnes",
+            "crc32": "f7851f0a",
+            "external-identifier": "urn:acoustid:93b71b7c-b9bd-47c4-9574-49c27c3a999c",
+            "external-identifier-match-date": "acoustid:2019-04-11T05:25:19Z",
+            "format": "VBR MP3",
+            "genre": "Free Improvisation",
+            "height": "348",
+            "length": "1726.04",
+            "md5": "93ae0879d594d606525c908210fb0018",
+            "mtime": "1455310834",
+            "name": "01 second day, third set.mp3",
+            "sha1": "f6657c8af62d88f0d4b04ac9afd9a661c40397af",
+            "size": "69075582",
+            "source": "original",
+            "title": "Second Day, Third Set",
+            "track": "01",
+            "width": "535"
+        },
+        {
+            "crc32": "324cfe68",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1726",
+            "md5": "a2a2d7df49cd57b05a6bfc1ad9cd4040",
+            "mtime": "1455310961",
+            "name": "01 second day, third set.ogg",
+            "original": "01 second day, third set.mp3",
+            "sha1": "0efd5e348f43c6b7ac0a9555341ca63509a84b12",
+            "size": "19885354",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "2224c061",
+            "format": "PNG",
+            "md5": "38eb18ceed5e7ba240a1f7df17ceea50",
+            "mtime": "1455311111",
+            "name": "01 second day, third set.png",
+            "original": "01 second day, third set.mp3",
+            "sha1": "958934146d41c97bee9e7d4cf5da861a50a6750a",
+            "size": "7053",
+            "source": "derivative"
+        },
+        {
+            "crc32": "add94ff8",
+            "format": "Essentia High GZ",
+            "md5": "428b8a438724f9b492bdffb6a12b2d85",
+            "mtime": "1455311728",
+            "name": "01 second day, third set_esshigh.json.gz",
+            "original": "01 second day, third set_esslow.json.gz",
+            "sha1": "4ea4aa4266dd5b2af17dedd69669ecd1f60aa04c",
+            "size": "2083",
+            "source": "derivative"
+        },
+        {
+            "crc32": "f0f8304d",
+            "format": "Essentia Low GZ",
+            "md5": "027d4bc04bbc0d3099b25b99735fcd29",
+            "mtime": "1455311336",
+            "name": "01 second day, third set_esslow.json.gz",
+            "original": "01 second day, third set.mp3",
+            "sha1": "6b58663aa6e11a1e6ef90d23be9dbb99fc24267e",
+            "size": "42125",
+            "source": "derivative"
+        },
+        {
+            "crc32": "c45ab1e2",
+            "format": "Spectrogram",
+            "md5": "f64d006b5b01dee1c98c1a1accfc6c69",
+            "mtime": "1455311140",
+            "name": "01 second day, third set_spectrogram.png",
+            "original": "01 second day, third set.mp3",
+            "sha1": "bfb09a30ad6b5b1dd07aa4dd8cc70f6bac61f08b",
+            "size": "305799",
+            "source": "derivative"
+        },
+        {
+            "crc32": "5653af84",
+            "format": "Item Tile",
+            "md5": "63c49326f0a7ef317b4d3ba274ecc089",
+            "mtime": "1554960338",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "3ea2e2d6ead99a1ae6006f56e5698de6b848f4af",
+            "size": "2252",
+            "source": "original"
+        },
+        {
+            "btih": "179dc8fc895b003653ce118f496e27a4c06f4018",
+            "crc32": "31e84784",
+            "format": "Archive BitTorrent",
+            "md5": "0e1883fdc94030c887744edff2c4c3b9",
+            "mtime": "1554960344",
+            "name": "homo036_archive.torrent",
+            "sha1": "9c0b4e48560f791856417fe8317a1c00e2e8343e",
+            "size": "6307",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "1a9b6bc409ff401ed0a3122d472dbada",
+            "name": "homo036_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "c11a587e",
+            "format": "Metadata",
+            "md5": "efccecb749a5edc52cb90283e0c15c3e",
+            "mtime": "1455310849",
+            "name": "homo036_meta.sqlite",
+            "sha1": "3955bb5ebdec2d2cca53c2991d07737bd99be71e",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "dc29e1b2",
+            "format": "Metadata",
+            "md5": "9cf8d99238b095be407bca263297a429",
+            "mtime": "1554960342",
+            "name": "homo036_meta.xml",
+            "sha1": "5333cf5e1938cc05c3124f43ec34804fbb487e67",
+            "size": "1001",
+            "source": "original"
+        }
+    ],
+    "files_count": 12,
+    "item_last_updated": 1554960344,
+    "item_size": 89740164,
+    "metadata": {
+        "addeddate": "2016-02-12 21:00:35",
+        "backup_location": "ia906100_1",
+        "collection": "opensource_audio",
+        "creator": "Tim Barnes + Tomas Korber",
+        "curation": "[curator]validator@archive.org[/curator][date]20160212210104[/date][comment]checked for malware[/comment]",
+        "date": "2009-03-01",
+        "description": "Second Day, Third Set",
+        "external_metadata_update": "2019-04-11T05:25:19Z",
+        "identifier": "homo036",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-12 21:00:35",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Abstract",
+            "Musique Concr\u00e8te",
+            "Free Improvisation",
+            "Experimental"
+        ],
+        "title": "Second Day, Third Set",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800206.us.archive.org",
+    "uniq": 1724801760,
+    "workable_servers": [
+        "ia800206.us.archive.org",
+        "ia600206.us.archive.org"
+    ]
+}

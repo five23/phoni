@@ -1,1 +1,150 @@
-{"created":1598535748,"d1":"ia600704.us.archive.org","d2":"ia800704.us.archive.org","dir":"/29/items/homo056","files":[{"name":"Miguel A. Garcia - One Perjury (For Murayama).afpk","source":"derivative","format":"Columbia Peaks","original":"Miguel A. Garcia - One Perjury (For Murayama).mp3","mtime":"1544482035","size":"159096","md5":"e75de8fcf0152ad1f055d9ebeb733b9d","crc32":"a404f7d0","sha1":"212d652fe68656397a3684073e451f99090efce3"},{"name":"Miguel A. Garcia - One Perjury (For Murayama).mp3","source":"original","mtime":"1544481935","size":"28133628","md5":"c903d4689e0ee9b4f5d319c47c38db5b","crc32":"e554a627","sha1":"31635e6628c75da8a0be236df15a1a2193e1ba0d","format":"VBR MP3","length":"701.57","height":"348","width":"535","title":"One Perjury (For Murayama)","artist":"Miguel A. Garc\u00eda","genre":"eai","album":"One Perjury","track":"1\/2","external-identifier":"urn:acoustid:b78527cd-04b1-4ce1-bdf6-b8242bfa80d9","external-identifier-match-date":"acoustid:2019-04-02T08:17:41Z"},{"name":"Miguel A. Garcia - One Perjury (For Murayama).ogg","source":"derivative","format":"Ogg Vorbis","original":"Miguel A. Garcia - One Perjury (For Murayama).mp3","mtime":"1544481994","size":"10043383","md5":"988065f38e8bc7329c9c8ee94118187c","crc32":"b9cdeb78","sha1":"0692f44c40751efe6e8405a611bbb5193c91fc3a","length":"701.52","height":"0","width":"0"},{"name":"Miguel A. Garcia - One Perjury (For Murayama).png","source":"derivative","format":"PNG","original":"Miguel A. Garcia - One Perjury (For Murayama).mp3","mtime":"1544482017","size":"8836","md5":"a22a6469e645edeb8301b29419d66a97","crc32":"0bd3a58a","sha1":"a643bf5806dfc1430136ab097973eeb32cc23dab"},{"name":"Miguel A. Garcia - One Perjury (For Murayama)_spectrogram.png","source":"derivative","format":"Spectrogram","original":"Miguel A. Garcia - One Perjury (For Murayama).mp3","mtime":"1544482023","size":"247131","md5":"ea9adc5f21837d342ccd55d2a9a67222","crc32":"629f9e00","sha1":"f12b596e9fdfe88ec7061e338815a087f85ff916"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1544482039","size":"2619","md5":"6882efe965b2b43b7c70f440f606a314","crc32":"1094be44","sha1":"f7fac488b9a756ea60d63020a03e162c6ce7ccdc","format":"Item Tile","rotation":"0"},{"name":"homo056_archive.torrent","source":"metadata","btih":"fc32f0ac3d1cdee6a8562c17ef706bc69d225ac3","mtime":"1595990469","size":"4066","md5":"b8818e13dbf214d2aa032a85c70c9d24","crc32":"b2bc3ac3","sha1":"4f6983a051eca8532ed643f8d95dafb8dcc7c3e8","format":"Archive BitTorrent"},{"name":"homo056_files.xml","source":"original","format":"Metadata","md5":"152e2fb7bba1b11e0a1a3032a8fe6f87"},{"name":"homo056_meta.sqlite","source":"original","mtime":"1544481956","size":"11264","md5":"3bf83351230e9067dff0df3f2faf4d47","crc32":"89a26e11","sha1":"c33b6060409513a04c273bad0828c34b621bd800","format":"Metadata"},{"name":"homo056_meta.xml","source":"original","mtime":"1595990468","size":"884","format":"Metadata","md5":"70934e3e381c8139ad1a22bf58d6b65f","crc32":"fc8c5ab2","sha1":"d7a21b1f9f00211f41aa9a59804f973f00a9a8bc"}],"files_count":10,"item_last_updated":1595990469,"item_size":38610907,"metadata":{"identifier":"homo056","mediatype":"audio","collection":"opensource_audio","creator":"Miguel A. Garc\u00eda","date":"2013","description":"One Perjury (For Murayama)","licenseurl":"http://creativecommons.org/licenses/by/4.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":"Abstract","title":"One Perjury (For Murayama)","publicdate":"2018-12-10 22:45:35","uploader":"davidkirby@homophoni.com","addeddate":"2018-12-10 22:45:35","curation":"[curator]validator@archive.org[/curator][date]20181210224606[/date][comment]checked for malware[/comment]","external_metadata_update":"2019-04-02T08:17:41Z","backup_location":"ia906805_7"},"server":"ia800704.us.archive.org","uniq":805156731,"workable_servers":["ia800704.us.archive.org","ia600704.us.archive.org"]}
+{
+    "created": 1598535748,
+    "d1": "ia600704.us.archive.org",
+    "d2": "ia800704.us.archive.org",
+    "dir": "/29/items/homo056",
+    "files": [
+        {
+            "crc32": "a404f7d0",
+            "format": "Columbia Peaks",
+            "md5": "e75de8fcf0152ad1f055d9ebeb733b9d",
+            "mtime": "1544482035",
+            "name": "Miguel A. Garcia - One Perjury (For Murayama).afpk",
+            "original": "Miguel A. Garcia - One Perjury (For Murayama).mp3",
+            "sha1": "212d652fe68656397a3684073e451f99090efce3",
+            "size": "159096",
+            "source": "derivative"
+        },
+        {
+            "album": "One Perjury",
+            "artist": "Miguel A. Garc\u00eda",
+            "crc32": "e554a627",
+            "external-identifier": "urn:acoustid:b78527cd-04b1-4ce1-bdf6-b8242bfa80d9",
+            "external-identifier-match-date": "acoustid:2019-04-02T08:17:41Z",
+            "format": "VBR MP3",
+            "genre": "eai",
+            "height": "348",
+            "length": "701.57",
+            "md5": "c903d4689e0ee9b4f5d319c47c38db5b",
+            "mtime": "1544481935",
+            "name": "Miguel A. Garcia - One Perjury (For Murayama).mp3",
+            "sha1": "31635e6628c75da8a0be236df15a1a2193e1ba0d",
+            "size": "28133628",
+            "source": "original",
+            "title": "One Perjury (For Murayama)",
+            "track": "1/2",
+            "width": "535"
+        },
+        {
+            "crc32": "b9cdeb78",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "701.52",
+            "md5": "988065f38e8bc7329c9c8ee94118187c",
+            "mtime": "1544481994",
+            "name": "Miguel A. Garcia - One Perjury (For Murayama).ogg",
+            "original": "Miguel A. Garcia - One Perjury (For Murayama).mp3",
+            "sha1": "0692f44c40751efe6e8405a611bbb5193c91fc3a",
+            "size": "10043383",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "0bd3a58a",
+            "format": "PNG",
+            "md5": "a22a6469e645edeb8301b29419d66a97",
+            "mtime": "1544482017",
+            "name": "Miguel A. Garcia - One Perjury (For Murayama).png",
+            "original": "Miguel A. Garcia - One Perjury (For Murayama).mp3",
+            "sha1": "a643bf5806dfc1430136ab097973eeb32cc23dab",
+            "size": "8836",
+            "source": "derivative"
+        },
+        {
+            "crc32": "629f9e00",
+            "format": "Spectrogram",
+            "md5": "ea9adc5f21837d342ccd55d2a9a67222",
+            "mtime": "1544482023",
+            "name": "Miguel A. Garcia - One Perjury (For Murayama)_spectrogram.png",
+            "original": "Miguel A. Garcia - One Perjury (For Murayama).mp3",
+            "sha1": "f12b596e9fdfe88ec7061e338815a087f85ff916",
+            "size": "247131",
+            "source": "derivative"
+        },
+        {
+            "crc32": "1094be44",
+            "format": "Item Tile",
+            "md5": "6882efe965b2b43b7c70f440f606a314",
+            "mtime": "1544482039",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "f7fac488b9a756ea60d63020a03e162c6ce7ccdc",
+            "size": "2619",
+            "source": "original"
+        },
+        {
+            "btih": "fc32f0ac3d1cdee6a8562c17ef706bc69d225ac3",
+            "crc32": "b2bc3ac3",
+            "format": "Archive BitTorrent",
+            "md5": "b8818e13dbf214d2aa032a85c70c9d24",
+            "mtime": "1595990469",
+            "name": "homo056_archive.torrent",
+            "sha1": "4f6983a051eca8532ed643f8d95dafb8dcc7c3e8",
+            "size": "4066",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "152e2fb7bba1b11e0a1a3032a8fe6f87",
+            "name": "homo056_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "89a26e11",
+            "format": "Metadata",
+            "md5": "3bf83351230e9067dff0df3f2faf4d47",
+            "mtime": "1544481956",
+            "name": "homo056_meta.sqlite",
+            "sha1": "c33b6060409513a04c273bad0828c34b621bd800",
+            "size": "11264",
+            "source": "original"
+        },
+        {
+            "crc32": "fc8c5ab2",
+            "format": "Metadata",
+            "md5": "70934e3e381c8139ad1a22bf58d6b65f",
+            "mtime": "1595990468",
+            "name": "homo056_meta.xml",
+            "sha1": "d7a21b1f9f00211f41aa9a59804f973f00a9a8bc",
+            "size": "884",
+            "source": "original"
+        }
+    ],
+    "files_count": 10,
+    "item_last_updated": 1595990469,
+    "item_size": 38610907,
+    "metadata": {
+        "addeddate": "2018-12-10 22:45:35",
+        "backup_location": "ia906805_7",
+        "collection": "opensource_audio",
+        "creator": "Miguel A. Garc\u00eda",
+        "curation": "[curator]validator@archive.org[/curator][date]20181210224606[/date][comment]checked for malware[/comment]",
+        "date": "2013",
+        "description": "One Perjury (For Murayama)",
+        "external_metadata_update": "2019-04-02T08:17:41Z",
+        "identifier": "homo056",
+        "licenseurl": "http://creativecommons.org/licenses/by/4.0/",
+        "mediatype": "audio",
+        "publicdate": "2018-12-10 22:45:35",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": "Abstract",
+        "title": "One Perjury (For Murayama)",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800704.us.archive.org",
+    "uniq": 805156731,
+    "workable_servers": [
+        "ia800704.us.archive.org",
+        "ia600704.us.archive.org"
+    ]
+}

@@ -1,1 +1,197 @@
-{"created":1598535533,"d1":"ia600209.us.archive.org","d2":"ia800209.us.archive.org","dir":"/18/items/homo020","files":[{"name":"DavidKirby-FourPieces.afpk","source":"derivative","format":"Columbia Peaks","original":"DavidKirby-FourPieces.flac","mtime":"1456195364","size":"345296","md5":"78f4d51bafce00dd188a8170180698e5","crc32":"e0ec9962","sha1":"8d70d9aeb4896968eda72d65d939751c8382e66d"},{"name":"DavidKirby-FourPieces.flac","source":"original","format":"Flac","length":"1622.62","height":"348","width":"535","title":"david kirby - four pieces","mtime":"1456194661","size":"182963036","md5":"52df4a25273b4b5499f5f279a56449e1","crc32":"048d610d","sha1":"ccb948db1d53ab3e07c62a023e7957c37c165fc9","album":"Four Pieces [Homophoni]","artist":"David Kirby","comment":"www.homophoni.com","genre":"Appropriation","track":"1","external-identifier":"urn:acoustid:97889739-ac6d-4faa-84e5-f908e5be64b7","external-identifier-match-date":"acoustid:2019-03-26T16:50:23Z"},{"name":"DavidKirby-FourPieces.mp3","source":"derivative","creator":"David Kirby","title":"david kirby - four pieces","track":"1","album":"Four Pieces [Homophoni]","genre":"Appropriation","bitrate":"180","length":"27:02","format":"VBR MP3","original":"DavidKirby-FourPieces.flac","mtime":"1456194970","size":"36542464","md5":"5b88daf3812558c8cede2b6077629bee","crc32":"6d5b0710","sha1":"c4e89b3a0115673f571dd17fee0e243c71d19f3e","height":"0","width":"0"},{"name":"DavidKirby-FourPieces.ogg","source":"derivative","format":"Ogg Vorbis","original":"DavidKirby-FourPieces.flac","mtime":"1456195046","size":"17967732","md5":"c4e86178d2a70c8ce3f7277743c4da5a","crc32":"a75a13ee","sha1":"2bbd55fc6b5567d7aa4bb1b7ab7f4989d32ac664","length":"1622.62","height":"0","width":"0"},{"name":"DavidKirby-FourPieces.png","source":"derivative","format":"PNG","original":"DavidKirby-FourPieces.flac","mtime":"1456195120","size":"9337","md5":"4da61ab8f1ca052dd2b052cce215937d","crc32":"bc3396df","sha1":"f66a2542ce0582d8b432d64f942172dc0160f056"},{"name":"DavidKirby-FourPieces_esshigh.json.gz","source":"derivative","format":"Essentia High GZ","original":"DavidKirby-FourPieces_esslow.json.gz","mtime":"1456195438","size":"1891","md5":"0af59848b14c75cb87bd2b0aef879159","crc32":"01cd6ab8","sha1":"13decaa452444b20067e37e9fd8e22ce27981d27"},{"name":"DavidKirby-FourPieces_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"DavidKirby-FourPieces.flac","mtime":"1456195309","size":"40304","md5":"0a4e675df9005d697952469988a580b9","crc32":"c58f757e","sha1":"0db989185c4ab7357a38dc6b4a1f2fa773562aed"},{"name":"DavidKirby-FourPieces_spectrogram.png","source":"derivative","format":"Spectrogram","original":"DavidKirby-FourPieces.flac","mtime":"1456195135","size":"298769","md5":"4bc0c96d6af0eb83d30c9e57fd8a833f","crc32":"3154436e","sha1":"aa21995005ec6809a1e8c828868ff31eb46d4711"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1553619041","size":"2550","md5":"ef32968b159dd1c48490a84db1713c41","crc32":"6a76017c","sha1":"43886ffacbca6444b41cb0c0b7a1bd31d897bf92","format":"Item Tile","rotation":"0"},{"name":"homo020_archive.torrent","source":"metadata","btih":"d0a869ce2c33cb7bd47d15be2ca5e4d23136c280","mtime":"1553619061","size":"12129","md5":"4cb64979ac00a85ada2db227e757d894","crc32":"c11256a3","sha1":"d56d2d10b7696ae5a8a140dab99344c42689f21c","format":"Archive BitTorrent"},{"name":"homo020_files.xml","source":"original","format":"Metadata","md5":"dc0a6401e06e187982cb1c00dfbac7c2"},{"name":"homo020_meta.sqlite","source":"original","mtime":"1455256880","size":"9216","md5":"11cb0c39d55284c78d2acb7ec6d4188b","crc32":"bc0b277d","sha1":"bda1651296e4eb95aa353f2eaef3aa8e0ff9f226","format":"Metadata"},{"name":"homo020_meta.xml","source":"original","mtime":"1553619053","size":"927","format":"Metadata","md5":"05635a2fff9dd1f588837dda8336701f","crc32":"9ae754d0","sha1":"1d109850b8059d4b37cbd4fbca104dd3b0ee55bc"}],"files_count":13,"item_last_updated":1553619061,"item_size":238193651,"metadata":{"identifier":"homo020","mediatype":"audio","collection":"opensource_audio","creator":"David Kirby","date":"2007-05-01","description":"Four Pieces","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Abstract","Musique Concr\u00e8te","Experimental"],"title":"Four Pieces","publicdate":"2016-02-12 06:01:06","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-12 06:01:06","curation":"[curator]validator@archive.org[/curator][date]20160212060128[/date][comment]checked for malware[/comment]","backup_location":"ia906100_0","external_metadata_update":"2019-03-26T16:50:23Z"},"server":"ia800209.us.archive.org","uniq":1982700222,"workable_servers":["ia800209.us.archive.org","ia600209.us.archive.org"]}
+{
+    "created": 1598535533,
+    "d1": "ia600209.us.archive.org",
+    "d2": "ia800209.us.archive.org",
+    "dir": "/18/items/homo020",
+    "files": [
+        {
+            "crc32": "e0ec9962",
+            "format": "Columbia Peaks",
+            "md5": "78f4d51bafce00dd188a8170180698e5",
+            "mtime": "1456195364",
+            "name": "DavidKirby-FourPieces.afpk",
+            "original": "DavidKirby-FourPieces.flac",
+            "sha1": "8d70d9aeb4896968eda72d65d939751c8382e66d",
+            "size": "345296",
+            "source": "derivative"
+        },
+        {
+            "album": "Four Pieces [Homophoni]",
+            "artist": "David Kirby",
+            "comment": "www.homophoni.com",
+            "crc32": "048d610d",
+            "external-identifier": "urn:acoustid:97889739-ac6d-4faa-84e5-f908e5be64b7",
+            "external-identifier-match-date": "acoustid:2019-03-26T16:50:23Z",
+            "format": "Flac",
+            "genre": "Appropriation",
+            "height": "348",
+            "length": "1622.62",
+            "md5": "52df4a25273b4b5499f5f279a56449e1",
+            "mtime": "1456194661",
+            "name": "DavidKirby-FourPieces.flac",
+            "sha1": "ccb948db1d53ab3e07c62a023e7957c37c165fc9",
+            "size": "182963036",
+            "source": "original",
+            "title": "david kirby - four pieces",
+            "track": "1",
+            "width": "535"
+        },
+        {
+            "album": "Four Pieces [Homophoni]",
+            "bitrate": "180",
+            "crc32": "6d5b0710",
+            "creator": "David Kirby",
+            "format": "VBR MP3",
+            "genre": "Appropriation",
+            "height": "0",
+            "length": "27:02",
+            "md5": "5b88daf3812558c8cede2b6077629bee",
+            "mtime": "1456194970",
+            "name": "DavidKirby-FourPieces.mp3",
+            "original": "DavidKirby-FourPieces.flac",
+            "sha1": "c4e89b3a0115673f571dd17fee0e243c71d19f3e",
+            "size": "36542464",
+            "source": "derivative",
+            "title": "david kirby - four pieces",
+            "track": "1",
+            "width": "0"
+        },
+        {
+            "crc32": "a75a13ee",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1622.62",
+            "md5": "c4e86178d2a70c8ce3f7277743c4da5a",
+            "mtime": "1456195046",
+            "name": "DavidKirby-FourPieces.ogg",
+            "original": "DavidKirby-FourPieces.flac",
+            "sha1": "2bbd55fc6b5567d7aa4bb1b7ab7f4989d32ac664",
+            "size": "17967732",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "bc3396df",
+            "format": "PNG",
+            "md5": "4da61ab8f1ca052dd2b052cce215937d",
+            "mtime": "1456195120",
+            "name": "DavidKirby-FourPieces.png",
+            "original": "DavidKirby-FourPieces.flac",
+            "sha1": "f66a2542ce0582d8b432d64f942172dc0160f056",
+            "size": "9337",
+            "source": "derivative"
+        },
+        {
+            "crc32": "01cd6ab8",
+            "format": "Essentia High GZ",
+            "md5": "0af59848b14c75cb87bd2b0aef879159",
+            "mtime": "1456195438",
+            "name": "DavidKirby-FourPieces_esshigh.json.gz",
+            "original": "DavidKirby-FourPieces_esslow.json.gz",
+            "sha1": "13decaa452444b20067e37e9fd8e22ce27981d27",
+            "size": "1891",
+            "source": "derivative"
+        },
+        {
+            "crc32": "c58f757e",
+            "format": "Essentia Low GZ",
+            "md5": "0a4e675df9005d697952469988a580b9",
+            "mtime": "1456195309",
+            "name": "DavidKirby-FourPieces_esslow.json.gz",
+            "original": "DavidKirby-FourPieces.flac",
+            "sha1": "0db989185c4ab7357a38dc6b4a1f2fa773562aed",
+            "size": "40304",
+            "source": "derivative"
+        },
+        {
+            "crc32": "3154436e",
+            "format": "Spectrogram",
+            "md5": "4bc0c96d6af0eb83d30c9e57fd8a833f",
+            "mtime": "1456195135",
+            "name": "DavidKirby-FourPieces_spectrogram.png",
+            "original": "DavidKirby-FourPieces.flac",
+            "sha1": "aa21995005ec6809a1e8c828868ff31eb46d4711",
+            "size": "298769",
+            "source": "derivative"
+        },
+        {
+            "crc32": "6a76017c",
+            "format": "Item Tile",
+            "md5": "ef32968b159dd1c48490a84db1713c41",
+            "mtime": "1553619041",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "43886ffacbca6444b41cb0c0b7a1bd31d897bf92",
+            "size": "2550",
+            "source": "original"
+        },
+        {
+            "btih": "d0a869ce2c33cb7bd47d15be2ca5e4d23136c280",
+            "crc32": "c11256a3",
+            "format": "Archive BitTorrent",
+            "md5": "4cb64979ac00a85ada2db227e757d894",
+            "mtime": "1553619061",
+            "name": "homo020_archive.torrent",
+            "sha1": "d56d2d10b7696ae5a8a140dab99344c42689f21c",
+            "size": "12129",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "dc0a6401e06e187982cb1c00dfbac7c2",
+            "name": "homo020_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "bc0b277d",
+            "format": "Metadata",
+            "md5": "11cb0c39d55284c78d2acb7ec6d4188b",
+            "mtime": "1455256880",
+            "name": "homo020_meta.sqlite",
+            "sha1": "bda1651296e4eb95aa353f2eaef3aa8e0ff9f226",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "9ae754d0",
+            "format": "Metadata",
+            "md5": "05635a2fff9dd1f588837dda8336701f",
+            "mtime": "1553619053",
+            "name": "homo020_meta.xml",
+            "sha1": "1d109850b8059d4b37cbd4fbca104dd3b0ee55bc",
+            "size": "927",
+            "source": "original"
+        }
+    ],
+    "files_count": 13,
+    "item_last_updated": 1553619061,
+    "item_size": 238193651,
+    "metadata": {
+        "addeddate": "2016-02-12 06:01:06",
+        "backup_location": "ia906100_0",
+        "collection": "opensource_audio",
+        "creator": "David Kirby",
+        "curation": "[curator]validator@archive.org[/curator][date]20160212060128[/date][comment]checked for malware[/comment]",
+        "date": "2007-05-01",
+        "description": "Four Pieces",
+        "external_metadata_update": "2019-03-26T16:50:23Z",
+        "identifier": "homo020",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-12 06:01:06",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Abstract",
+            "Musique Concr\u00e8te",
+            "Experimental"
+        ],
+        "title": "Four Pieces",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800209.us.archive.org",
+    "uniq": 1982700222,
+    "workable_servers": [
+        "ia800209.us.archive.org",
+        "ia600209.us.archive.org"
+    ]
+}

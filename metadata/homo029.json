@@ -1,1 +1,151 @@
-{"created":1598535582,"d1":"ia600708.us.archive.org","d2":"ia800708.us.archive.org","dir":"/14/items/homo029","files":[{"name":"Cheapmachines - Arc.afpk","source":"derivative","format":"Columbia Peaks","original":"Cheapmachines - Arc.mp3","mtime":"1544383777","size":"319272","md5":"120b6c48e16470743903cdaa434d231f","crc32":"3ef04ca4","sha1":"167fa9150e38695b4856dff1632e4563ed51c069"},{"name":"Cheapmachines - Arc.mp3","source":"original","mtime":"1544383594","size":"42897408","md5":"8de77061f5c2aacf25247336b532f517","crc32":"f27dc047","sha1":"781424b8f3f4e01012b7c83d5f5356447c36593b","format":"VBR MP3","length":"1070.26","height":"348","width":"545","genre":"Electronic","title":"Arc","artist":"Cheapmachines","album":"Arc","track":"1\/1","external-identifier":"urn:acoustid:291648e4-25e0-4fe1-978a-0bccf8613610","external-identifier-match-date":"acoustid:2019-03-29T12:43:21Z"},{"name":"Cheapmachines - Arc.ogg","source":"derivative","format":"Ogg Vorbis","original":"Cheapmachines - Arc.mp3","mtime":"1544383670","size":"12421819","md5":"8bab8b3871c4476bd13e8ac2744a0080","crc32":"3fd399fa","sha1":"692b43a4755370838917c3ee8c414a6ddf507f74","length":"1070.2","height":"0","width":"0"},{"name":"Cheapmachines - Arc.png","source":"derivative","format":"PNG","original":"Cheapmachines - Arc.mp3","mtime":"1544383745","size":"6114","md5":"4da100d93b653f728063e34f9bc0f589","crc32":"0196193b","sha1":"5d8f7b5121093a53e2c70b7098858203510fae3b"},{"name":"Cheapmachines - Arc_spectrogram.png","source":"derivative","format":"Spectrogram","original":"Cheapmachines - Arc.mp3","mtime":"1544383754","size":"243377","md5":"83f7778590fe8c1b71e60c14a194804a","crc32":"71081bca","sha1":"bdd443049d2376bfc5b147a71f3467d3b1115b98"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1544383781","size":"2052","md5":"37907ae2b79c4d6d3dfbc11884a387fe","crc32":"22c26e2d","sha1":"20554fbd89fcc3e6b70d5207a8257e510613063b","format":"Item Tile","rotation":"0"},{"name":"homo029_archive.torrent","source":"metadata","btih":"335293547448fe20366b043b300938f9b317634d","mtime":"1591822292","size":"4595","md5":"08ebe8a518f0bd82cd9a2f7ccc16228f","crc32":"80966321","sha1":"4d6d8cedb5ac68a9729059774f593043bd1373da","format":"Archive BitTorrent"},{"name":"homo029_files.xml","source":"original","format":"Metadata","md5":"af5debb2220feac808391b7cb9fe5714"},{"name":"homo029_meta.sqlite","source":"original","mtime":"1544383617","size":"9216","md5":"1fe6fa46b61d4891f0c5cd8eb61982be","crc32":"efdc62f5","sha1":"45882ca983f579e8466ad2cd73b20213d0b3796d","format":"Metadata"},{"name":"homo029_meta.xml","source":"original","mtime":"1591822291","size":"886","format":"Metadata","md5":"d42806bfec7a6d2dfc93e3414a700a83","crc32":"2bf1e7ba","sha1":"514ec3bcdca97a8a6094cc646a08a84c629635ba"}],"files_count":10,"item_last_updated":1591822292,"item_size":55904739,"metadata":{"identifier":"homo029","mediatype":"audio","collection":"opensource_audio","creator":"Cheapmachines","date":"2008","description":"Arc<span></span>","language":"eng","licenseurl":"http://creativecommons.org/licenses/by/4.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":"Abstract","title":"Arc","publicdate":"2018-12-09 19:26:35","uploader":"davidkirby@homophoni.com","addeddate":"2018-12-09 19:26:35","curation":"[curator]validator@archive.org[/curator][date]20181209192707[/date][comment]checked for malware[/comment]","external_metadata_update":"2019-03-29T12:43:21Z","backup_location":"ia906805_6"},"server":"ia600708.us.archive.org","uniq":563767075,"workable_servers":["ia600708.us.archive.org","ia800708.us.archive.org"]}
+{
+    "created": 1598535582,
+    "d1": "ia600708.us.archive.org",
+    "d2": "ia800708.us.archive.org",
+    "dir": "/14/items/homo029",
+    "files": [
+        {
+            "crc32": "3ef04ca4",
+            "format": "Columbia Peaks",
+            "md5": "120b6c48e16470743903cdaa434d231f",
+            "mtime": "1544383777",
+            "name": "Cheapmachines - Arc.afpk",
+            "original": "Cheapmachines - Arc.mp3",
+            "sha1": "167fa9150e38695b4856dff1632e4563ed51c069",
+            "size": "319272",
+            "source": "derivative"
+        },
+        {
+            "album": "Arc",
+            "artist": "Cheapmachines",
+            "crc32": "f27dc047",
+            "external-identifier": "urn:acoustid:291648e4-25e0-4fe1-978a-0bccf8613610",
+            "external-identifier-match-date": "acoustid:2019-03-29T12:43:21Z",
+            "format": "VBR MP3",
+            "genre": "Electronic",
+            "height": "348",
+            "length": "1070.26",
+            "md5": "8de77061f5c2aacf25247336b532f517",
+            "mtime": "1544383594",
+            "name": "Cheapmachines - Arc.mp3",
+            "sha1": "781424b8f3f4e01012b7c83d5f5356447c36593b",
+            "size": "42897408",
+            "source": "original",
+            "title": "Arc",
+            "track": "1/1",
+            "width": "545"
+        },
+        {
+            "crc32": "3fd399fa",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1070.2",
+            "md5": "8bab8b3871c4476bd13e8ac2744a0080",
+            "mtime": "1544383670",
+            "name": "Cheapmachines - Arc.ogg",
+            "original": "Cheapmachines - Arc.mp3",
+            "sha1": "692b43a4755370838917c3ee8c414a6ddf507f74",
+            "size": "12421819",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "0196193b",
+            "format": "PNG",
+            "md5": "4da100d93b653f728063e34f9bc0f589",
+            "mtime": "1544383745",
+            "name": "Cheapmachines - Arc.png",
+            "original": "Cheapmachines - Arc.mp3",
+            "sha1": "5d8f7b5121093a53e2c70b7098858203510fae3b",
+            "size": "6114",
+            "source": "derivative"
+        },
+        {
+            "crc32": "71081bca",
+            "format": "Spectrogram",
+            "md5": "83f7778590fe8c1b71e60c14a194804a",
+            "mtime": "1544383754",
+            "name": "Cheapmachines - Arc_spectrogram.png",
+            "original": "Cheapmachines - Arc.mp3",
+            "sha1": "bdd443049d2376bfc5b147a71f3467d3b1115b98",
+            "size": "243377",
+            "source": "derivative"
+        },
+        {
+            "crc32": "22c26e2d",
+            "format": "Item Tile",
+            "md5": "37907ae2b79c4d6d3dfbc11884a387fe",
+            "mtime": "1544383781",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "20554fbd89fcc3e6b70d5207a8257e510613063b",
+            "size": "2052",
+            "source": "original"
+        },
+        {
+            "btih": "335293547448fe20366b043b300938f9b317634d",
+            "crc32": "80966321",
+            "format": "Archive BitTorrent",
+            "md5": "08ebe8a518f0bd82cd9a2f7ccc16228f",
+            "mtime": "1591822292",
+            "name": "homo029_archive.torrent",
+            "sha1": "4d6d8cedb5ac68a9729059774f593043bd1373da",
+            "size": "4595",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "af5debb2220feac808391b7cb9fe5714",
+            "name": "homo029_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "efdc62f5",
+            "format": "Metadata",
+            "md5": "1fe6fa46b61d4891f0c5cd8eb61982be",
+            "mtime": "1544383617",
+            "name": "homo029_meta.sqlite",
+            "sha1": "45882ca983f579e8466ad2cd73b20213d0b3796d",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "2bf1e7ba",
+            "format": "Metadata",
+            "md5": "d42806bfec7a6d2dfc93e3414a700a83",
+            "mtime": "1591822291",
+            "name": "homo029_meta.xml",
+            "sha1": "514ec3bcdca97a8a6094cc646a08a84c629635ba",
+            "size": "886",
+            "source": "original"
+        }
+    ],
+    "files_count": 10,
+    "item_last_updated": 1591822292,
+    "item_size": 55904739,
+    "metadata": {
+        "addeddate": "2018-12-09 19:26:35",
+        "backup_location": "ia906805_6",
+        "collection": "opensource_audio",
+        "creator": "Cheapmachines",
+        "curation": "[curator]validator@archive.org[/curator][date]20181209192707[/date][comment]checked for malware[/comment]",
+        "date": "2008",
+        "description": "Arc<span></span>",
+        "external_metadata_update": "2019-03-29T12:43:21Z",
+        "identifier": "homo029",
+        "language": "eng",
+        "licenseurl": "http://creativecommons.org/licenses/by/4.0/",
+        "mediatype": "audio",
+        "publicdate": "2018-12-09 19:26:35",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": "Abstract",
+        "title": "Arc",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia600708.us.archive.org",
+    "uniq": 563767075,
+    "workable_servers": [
+        "ia600708.us.archive.org",
+        "ia800708.us.archive.org"
+    ]
+}

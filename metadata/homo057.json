@@ -1,1 +1,150 @@
-{"created":1598535752,"d1":"ia600707.us.archive.org","d2":"ia800707.us.archive.org","dir":"/21/items/homo057","files":[{"name":"Miguel A. Garcia - One Perjury (Coccyx).afpk","source":"derivative","format":"Columbia Peaks","original":"Miguel A. Garcia - One Perjury (Coccyx).mp3","mtime":"1544482522","size":"153040","md5":"39646d0b150e4d0df7ecc14a02477519","crc32":"07670e9a","sha1":"a9b4de3630c5b84095769640fc864da3923e077a"},{"name":"Miguel A. Garcia - One Perjury (Coccyx).mp3","source":"original","mtime":"1544482431","size":"18588402","md5":"29d392172e8d106196c19c2bc4ae901f","crc32":"229c5d6f","sha1":"95eec4254f895aae52e1181665f4310de50fffcb","format":"VBR MP3","length":"462.84","height":"348","width":"535","title":"One Perjury (Coccyx)","artist":"Miguel A. Garc\u00eda","genre":"eai","album":"One Perjury","track":"2\/2","external-identifier":"urn:acoustid:6a1fdd77-609c-42a4-af0c-d4e301d0a724","external-identifier-match-date":"acoustid:2019-03-28T03:32:28Z"},{"name":"Miguel A. Garcia - One Perjury (Coccyx).ogg","source":"derivative","format":"Ogg Vorbis","original":"Miguel A. Garcia - One Perjury (Coccyx).mp3","mtime":"1544482489","size":"5351129","md5":"a11b954bed07e7a2c4ee3939a750f2d2","crc32":"d382b5aa","sha1":"988e9298d42e79b4420e700fd3b5af8537dbb25a","length":"462.79","height":"0","width":"0"},{"name":"Miguel A. Garcia - One Perjury (Coccyx).png","source":"derivative","format":"PNG","original":"Miguel A. Garcia - One Perjury (Coccyx).mp3","mtime":"1544482507","size":"7846","md5":"5f9ef690e1e71d80e8e55f47b0541200","crc32":"5d34d6be","sha1":"60a3b254637bafa0b5cb34a2d8ff8b8d15ea2179"},{"name":"Miguel A. Garcia - One Perjury (Coccyx)_spectrogram.png","source":"derivative","format":"Spectrogram","original":"Miguel A. Garcia - One Perjury (Coccyx).mp3","mtime":"1544482513","size":"207183","md5":"7c2c38a6208e7a1003529cf716a7b2f3","crc32":"c28509a2","sha1":"e12d26e08de4b7d86ca8c932654058404a129399"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1544482526","size":"1940","md5":"790df6135b56e4093aff70efe9082acb","crc32":"7d021526","sha1":"588848a163dd2ccaeed63a79d095d9943c8bbff8","format":"Item Tile","rotation":"0"},{"name":"homo057_archive.torrent","source":"metadata","btih":"7b72e60022e216f559f7afa87e65583cebaa086c","mtime":"1596032392","size":"3494","md5":"66f54d9bf590674164e7efb0a554708d","crc32":"27b1b554","sha1":"bb191e458f074492eed002addf2d60cbf03a61a5","format":"Archive BitTorrent"},{"name":"homo057_files.xml","source":"original","format":"Metadata","md5":"92f5494f1f56ee7c6a810eb2b6d093e5"},{"name":"homo057_meta.sqlite","source":"original","mtime":"1544482458","size":"11264","md5":"562b316cb34cf4e5381e5ceace0271fa","crc32":"b840443c","sha1":"4a92ba04674e7494dc4140ea54f9b7799e804452","format":"Metadata"},{"name":"homo057_meta.xml","source":"original","mtime":"1596032387","size":"872","format":"Metadata","md5":"433a68c3b95316358a83eefe323d3ba7","crc32":"09bb3db1","sha1":"26e3983d342b48d4d90f4fb35b48c7113ca20173"}],"files_count":10,"item_last_updated":1596032392,"item_size":24325170,"metadata":{"identifier":"homo057","mediatype":"audio","collection":"opensource_audio","creator":"Miguel A. Garc\u00eda","date":"2013","description":"One Perjury (Coccyx)","licenseurl":"http://creativecommons.org/licenses/by/4.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":"Abstract","title":"One Perjury (Coccyx)","publicdate":"2018-12-10 22:53:52","uploader":"davidkirby@homophoni.com","addeddate":"2018-12-10 22:53:52","curation":"[curator]validator@archive.org[/curator][date]20181210225429[/date][comment]checked for malware[/comment]","external_metadata_update":"2019-03-28T03:32:28Z","backup_location":"ia906805_7"},"server":"ia800707.us.archive.org","uniq":861385762,"workable_servers":["ia800707.us.archive.org","ia600707.us.archive.org"]}
+{
+    "created": 1598535752,
+    "d1": "ia600707.us.archive.org",
+    "d2": "ia800707.us.archive.org",
+    "dir": "/21/items/homo057",
+    "files": [
+        {
+            "crc32": "07670e9a",
+            "format": "Columbia Peaks",
+            "md5": "39646d0b150e4d0df7ecc14a02477519",
+            "mtime": "1544482522",
+            "name": "Miguel A. Garcia - One Perjury (Coccyx).afpk",
+            "original": "Miguel A. Garcia - One Perjury (Coccyx).mp3",
+            "sha1": "a9b4de3630c5b84095769640fc864da3923e077a",
+            "size": "153040",
+            "source": "derivative"
+        },
+        {
+            "album": "One Perjury",
+            "artist": "Miguel A. Garc\u00eda",
+            "crc32": "229c5d6f",
+            "external-identifier": "urn:acoustid:6a1fdd77-609c-42a4-af0c-d4e301d0a724",
+            "external-identifier-match-date": "acoustid:2019-03-28T03:32:28Z",
+            "format": "VBR MP3",
+            "genre": "eai",
+            "height": "348",
+            "length": "462.84",
+            "md5": "29d392172e8d106196c19c2bc4ae901f",
+            "mtime": "1544482431",
+            "name": "Miguel A. Garcia - One Perjury (Coccyx).mp3",
+            "sha1": "95eec4254f895aae52e1181665f4310de50fffcb",
+            "size": "18588402",
+            "source": "original",
+            "title": "One Perjury (Coccyx)",
+            "track": "2/2",
+            "width": "535"
+        },
+        {
+            "crc32": "d382b5aa",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "462.79",
+            "md5": "a11b954bed07e7a2c4ee3939a750f2d2",
+            "mtime": "1544482489",
+            "name": "Miguel A. Garcia - One Perjury (Coccyx).ogg",
+            "original": "Miguel A. Garcia - One Perjury (Coccyx).mp3",
+            "sha1": "988e9298d42e79b4420e700fd3b5af8537dbb25a",
+            "size": "5351129",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "5d34d6be",
+            "format": "PNG",
+            "md5": "5f9ef690e1e71d80e8e55f47b0541200",
+            "mtime": "1544482507",
+            "name": "Miguel A. Garcia - One Perjury (Coccyx).png",
+            "original": "Miguel A. Garcia - One Perjury (Coccyx).mp3",
+            "sha1": "60a3b254637bafa0b5cb34a2d8ff8b8d15ea2179",
+            "size": "7846",
+            "source": "derivative"
+        },
+        {
+            "crc32": "c28509a2",
+            "format": "Spectrogram",
+            "md5": "7c2c38a6208e7a1003529cf716a7b2f3",
+            "mtime": "1544482513",
+            "name": "Miguel A. Garcia - One Perjury (Coccyx)_spectrogram.png",
+            "original": "Miguel A. Garcia - One Perjury (Coccyx).mp3",
+            "sha1": "e12d26e08de4b7d86ca8c932654058404a129399",
+            "size": "207183",
+            "source": "derivative"
+        },
+        {
+            "crc32": "7d021526",
+            "format": "Item Tile",
+            "md5": "790df6135b56e4093aff70efe9082acb",
+            "mtime": "1544482526",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "588848a163dd2ccaeed63a79d095d9943c8bbff8",
+            "size": "1940",
+            "source": "original"
+        },
+        {
+            "btih": "7b72e60022e216f559f7afa87e65583cebaa086c",
+            "crc32": "27b1b554",
+            "format": "Archive BitTorrent",
+            "md5": "66f54d9bf590674164e7efb0a554708d",
+            "mtime": "1596032392",
+            "name": "homo057_archive.torrent",
+            "sha1": "bb191e458f074492eed002addf2d60cbf03a61a5",
+            "size": "3494",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "92f5494f1f56ee7c6a810eb2b6d093e5",
+            "name": "homo057_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "b840443c",
+            "format": "Metadata",
+            "md5": "562b316cb34cf4e5381e5ceace0271fa",
+            "mtime": "1544482458",
+            "name": "homo057_meta.sqlite",
+            "sha1": "4a92ba04674e7494dc4140ea54f9b7799e804452",
+            "size": "11264",
+            "source": "original"
+        },
+        {
+            "crc32": "09bb3db1",
+            "format": "Metadata",
+            "md5": "433a68c3b95316358a83eefe323d3ba7",
+            "mtime": "1596032387",
+            "name": "homo057_meta.xml",
+            "sha1": "26e3983d342b48d4d90f4fb35b48c7113ca20173",
+            "size": "872",
+            "source": "original"
+        }
+    ],
+    "files_count": 10,
+    "item_last_updated": 1596032392,
+    "item_size": 24325170,
+    "metadata": {
+        "addeddate": "2018-12-10 22:53:52",
+        "backup_location": "ia906805_7",
+        "collection": "opensource_audio",
+        "creator": "Miguel A. Garc\u00eda",
+        "curation": "[curator]validator@archive.org[/curator][date]20181210225429[/date][comment]checked for malware[/comment]",
+        "date": "2013",
+        "description": "One Perjury (Coccyx)",
+        "external_metadata_update": "2019-03-28T03:32:28Z",
+        "identifier": "homo057",
+        "licenseurl": "http://creativecommons.org/licenses/by/4.0/",
+        "mediatype": "audio",
+        "publicdate": "2018-12-10 22:53:52",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": "Abstract",
+        "title": "One Perjury (Coccyx)",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800707.us.archive.org",
+    "uniq": 861385762,
+    "workable_servers": [
+        "ia800707.us.archive.org",
+        "ia600707.us.archive.org"
+    ]
+}

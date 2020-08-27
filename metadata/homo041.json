@@ -1,1 +1,168 @@
-{"created":1598535685,"d1":"ia600203.us.archive.org","d2":"ia800203.us.archive.org","dir":"/21/items/homo041","files":[{"name":"01 Getting love from all the wrong places.afpk","source":"derivative","format":"Columbia Peaks","original":"01 Getting love from all the wrong places.aif","mtime":"1456193365","size":"146744","md5":"6bbee616a2e66a997efbd38b5947a4a0","crc32":"9f2ae42c","sha1":"cbe662bc25a213a6bff5ce018471183db31d4165"},{"name":"01 Getting love from all the wrong places.aif","source":"original","mtime":"1456193140","size":"128103072","md5":"ea6800340b2315fc2986351fdb8ca763","crc32":"6fc2bc3c","sha1":"86174346917bd9924c3f954bc1ab50a0da36b427","format":"AIFF","length":"726.2","height":"0","width":"0"},{"name":"01 Getting love from all the wrong places.mp3","source":"derivative","bitrate":"218","length":"12:06","format":"VBR MP3","original":"01 Getting love from all the wrong places.aif","mtime":"1456193209","size":"19795968","md5":"227ab35738c92b0c6b9c0101526a1ebc","crc32":"697e886b","sha1":"09cd0fe5be8d5250537d5a6fcabfeb33b01d5155","height":"0","width":"0"},{"name":"01 Getting love from all the wrong places.ogg","source":"derivative","format":"Ogg Vorbis","original":"01 Getting love from all the wrong places.aif","mtime":"1456193245","size":"9009537","md5":"0ffa2a409d17f77435a30d9d8d6e302f","crc32":"3a31ae2a","sha1":"9043ba7fa536f1ad71930ff231c1995ee9c198ba","length":"726.2","height":"0","width":"0"},{"name":"01 Getting love from all the wrong places.png","source":"derivative","format":"PNG","original":"01 Getting love from all the wrong places.aif","mtime":"1456193259","size":"9181","md5":"ca3631b6c0ffc7a0283fd8b8c97f7821","crc32":"f11aba03","sha1":"de1b77f2fc41999bf6c00f68b362dcb187021b0c"},{"name":"01 Getting love from all the wrong places_esshigh.json.gz","source":"derivative","format":"Essentia High GZ","original":"01 Getting love from all the wrong places_esslow.json.gz","mtime":"1456193382","size":"1841","md5":"7173c12ccbdebdf0e95b6ca0e346ec32","crc32":"2912deb0","sha1":"5d775bb8496d1af240f45fe27e40b1c67ee6353b"},{"name":"01 Getting love from all the wrong places_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"01 Getting love from all the wrong places.aif","mtime":"1456193345","size":"29975","md5":"5a7669785a69425857fd5cec16eadbc3","crc32":"fe15b933","sha1":"72e1de47daceb9ec862bcf4aa9aa8133694cebf9"},{"name":"01 Getting love from all the wrong places_spectrogram.png","source":"derivative","format":"Spectrogram","original":"01 Getting love from all the wrong places.aif","mtime":"1456193263","size":"291424","md5":"6a6de1dc7d5510843774480766f237d9","crc32":"c370f63f","sha1":"1313a3f3de3146822bdb503d5de8ac97d72d0da3"},{"name":"homo041_archive.torrent","source":"metadata","btih":"58b8f81ed155c542e0e7ca9a4d600fdfd2b7741f","mtime":"1482209003","size":"9070","md5":"255fbf8aaffc0f93f84fbf872cb1e1c8","crc32":"8585384a","sha1":"1a4c7993ee70d29156277f4e7499aa6dec530820","format":"Archive BitTorrent"},{"name":"homo041_files.xml","source":"original","format":"Metadata","md5":"c68af93c244847ba46d98aa8f50eb9ff"},{"name":"homo041_meta.sqlite","source":"original","mtime":"1456193155","size":"9216","md5":"100e28a7348868ec3d4f291c4a61c386","crc32":"5d6fa5c6","sha1":"13b94c8022095896031064bdeb61f5bfa521c3b9","format":"Metadata"},{"name":"homo041_meta.xml","source":"original","mtime":"1482209001","size":"850","format":"Metadata","md5":"927d30049fd65839067876b737fb2781","crc32":"4ce77745","sha1":"650db04c41cedc47c67ffa05880c8664496b99e6"}],"files_count":12,"item_last_updated":1482209003,"item_size":157406878,"metadata":{"identifier":"homo041","mediatype":"audio","collection":"opensource_audio","creator":"Jesse Kudler + Ian M. Fraser","date":"2010-02-02","description":"Getting Love From All The Wrong Places","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":"Abstract","title":"Getting Love From All The Wrong Places","publicdate":"2016-02-23 02:05:41","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-23 02:05:41","curation":"[curator]validator@archive.org[/curator][date]20160223020607[/date][comment]checked for malware[/comment]","backup_location":"ia906100_27"},"server":"ia600203.us.archive.org","uniq":473085748,"workable_servers":["ia600203.us.archive.org","ia800203.us.archive.org"]}
+{
+    "created": 1598535685,
+    "d1": "ia600203.us.archive.org",
+    "d2": "ia800203.us.archive.org",
+    "dir": "/21/items/homo041",
+    "files": [
+        {
+            "crc32": "9f2ae42c",
+            "format": "Columbia Peaks",
+            "md5": "6bbee616a2e66a997efbd38b5947a4a0",
+            "mtime": "1456193365",
+            "name": "01 Getting love from all the wrong places.afpk",
+            "original": "01 Getting love from all the wrong places.aif",
+            "sha1": "cbe662bc25a213a6bff5ce018471183db31d4165",
+            "size": "146744",
+            "source": "derivative"
+        },
+        {
+            "crc32": "6fc2bc3c",
+            "format": "AIFF",
+            "height": "0",
+            "length": "726.2",
+            "md5": "ea6800340b2315fc2986351fdb8ca763",
+            "mtime": "1456193140",
+            "name": "01 Getting love from all the wrong places.aif",
+            "sha1": "86174346917bd9924c3f954bc1ab50a0da36b427",
+            "size": "128103072",
+            "source": "original",
+            "width": "0"
+        },
+        {
+            "bitrate": "218",
+            "crc32": "697e886b",
+            "format": "VBR MP3",
+            "height": "0",
+            "length": "12:06",
+            "md5": "227ab35738c92b0c6b9c0101526a1ebc",
+            "mtime": "1456193209",
+            "name": "01 Getting love from all the wrong places.mp3",
+            "original": "01 Getting love from all the wrong places.aif",
+            "sha1": "09cd0fe5be8d5250537d5a6fcabfeb33b01d5155",
+            "size": "19795968",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "3a31ae2a",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "726.2",
+            "md5": "0ffa2a409d17f77435a30d9d8d6e302f",
+            "mtime": "1456193245",
+            "name": "01 Getting love from all the wrong places.ogg",
+            "original": "01 Getting love from all the wrong places.aif",
+            "sha1": "9043ba7fa536f1ad71930ff231c1995ee9c198ba",
+            "size": "9009537",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "f11aba03",
+            "format": "PNG",
+            "md5": "ca3631b6c0ffc7a0283fd8b8c97f7821",
+            "mtime": "1456193259",
+            "name": "01 Getting love from all the wrong places.png",
+            "original": "01 Getting love from all the wrong places.aif",
+            "sha1": "de1b77f2fc41999bf6c00f68b362dcb187021b0c",
+            "size": "9181",
+            "source": "derivative"
+        },
+        {
+            "crc32": "2912deb0",
+            "format": "Essentia High GZ",
+            "md5": "7173c12ccbdebdf0e95b6ca0e346ec32",
+            "mtime": "1456193382",
+            "name": "01 Getting love from all the wrong places_esshigh.json.gz",
+            "original": "01 Getting love from all the wrong places_esslow.json.gz",
+            "sha1": "5d775bb8496d1af240f45fe27e40b1c67ee6353b",
+            "size": "1841",
+            "source": "derivative"
+        },
+        {
+            "crc32": "fe15b933",
+            "format": "Essentia Low GZ",
+            "md5": "5a7669785a69425857fd5cec16eadbc3",
+            "mtime": "1456193345",
+            "name": "01 Getting love from all the wrong places_esslow.json.gz",
+            "original": "01 Getting love from all the wrong places.aif",
+            "sha1": "72e1de47daceb9ec862bcf4aa9aa8133694cebf9",
+            "size": "29975",
+            "source": "derivative"
+        },
+        {
+            "crc32": "c370f63f",
+            "format": "Spectrogram",
+            "md5": "6a6de1dc7d5510843774480766f237d9",
+            "mtime": "1456193263",
+            "name": "01 Getting love from all the wrong places_spectrogram.png",
+            "original": "01 Getting love from all the wrong places.aif",
+            "sha1": "1313a3f3de3146822bdb503d5de8ac97d72d0da3",
+            "size": "291424",
+            "source": "derivative"
+        },
+        {
+            "btih": "58b8f81ed155c542e0e7ca9a4d600fdfd2b7741f",
+            "crc32": "8585384a",
+            "format": "Archive BitTorrent",
+            "md5": "255fbf8aaffc0f93f84fbf872cb1e1c8",
+            "mtime": "1482209003",
+            "name": "homo041_archive.torrent",
+            "sha1": "1a4c7993ee70d29156277f4e7499aa6dec530820",
+            "size": "9070",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "c68af93c244847ba46d98aa8f50eb9ff",
+            "name": "homo041_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "5d6fa5c6",
+            "format": "Metadata",
+            "md5": "100e28a7348868ec3d4f291c4a61c386",
+            "mtime": "1456193155",
+            "name": "homo041_meta.sqlite",
+            "sha1": "13b94c8022095896031064bdeb61f5bfa521c3b9",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "4ce77745",
+            "format": "Metadata",
+            "md5": "927d30049fd65839067876b737fb2781",
+            "mtime": "1482209001",
+            "name": "homo041_meta.xml",
+            "sha1": "650db04c41cedc47c67ffa05880c8664496b99e6",
+            "size": "850",
+            "source": "original"
+        }
+    ],
+    "files_count": 12,
+    "item_last_updated": 1482209003,
+    "item_size": 157406878,
+    "metadata": {
+        "addeddate": "2016-02-23 02:05:41",
+        "backup_location": "ia906100_27",
+        "collection": "opensource_audio",
+        "creator": "Jesse Kudler + Ian M. Fraser",
+        "curation": "[curator]validator@archive.org[/curator][date]20160223020607[/date][comment]checked for malware[/comment]",
+        "date": "2010-02-02",
+        "description": "Getting Love From All The Wrong Places",
+        "identifier": "homo041",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-23 02:05:41",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": "Abstract",
+        "title": "Getting Love From All The Wrong Places",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia600203.us.archive.org",
+    "uniq": 473085748,
+    "workable_servers": [
+        "ia600203.us.archive.org",
+        "ia800203.us.archive.org"
+    ]
+}

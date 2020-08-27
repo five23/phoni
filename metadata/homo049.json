@@ -1,1 +1,154 @@
-{"created":1598535700,"d1":"ia600202.us.archive.org","d2":"ia800202.us.archive.org","dir":"/10/items/homo049","files":[{"name":"TimFeeneyVicRawlings-FairchildChapel.afpk","source":"derivative","format":"Columbia Peaks","original":"TimFeeneyVicRawlings-FairchildChapel.mp3","mtime":"1544492938","size":"438904","md5":"b6442dfe932ed84ac58a2c26add4f806","crc32":"79936c97","sha1":"eed4525766f010bbba3d677a152ae35f191e120b"},{"name":"TimFeeneyVicRawlings-FairchildChapel.mp3","source":"original","format":"VBR MP3","length":"1722.49","height":"348","width":"535","title":"Tim Feeney + Vic Rawlings - Fairchild Chapel","mtime":"1544491793","size":"68952902","md5":"ab2ca2aadf92c54815370fb709ee9d7d","crc32":"43994e19","sha1":"7d81053277a1b4b26f40957f763403788ccda7e2","genre":"eai","artist":"Tim Feeney & Vic Rawlings","album":"Fairchild Chapel","track":"1\/1","external-identifier":"urn:acoustid:bc277607-5a04-4c80-8fbf-9816a295ba3b","external-identifier-match-date":"acoustid:2019-04-11T00:50:55Z"},{"name":"TimFeeneyVicRawlings-FairchildChapel.ogg","source":"derivative","format":"Ogg Vorbis","original":"TimFeeneyVicRawlings-FairchildChapel.mp3","mtime":"1544492808","size":"15433804","md5":"36dfc1c4d6f44ff6aa59d03670ecae04","crc32":"f5e07529","sha1":"ff1f95d2b5298e89aa0d2b6bc002008a1d255edd","length":"1722.49","height":"0","width":"0"},{"name":"TimFeeneyVicRawlings-FairchildChapel.png","source":"derivative","format":"PNG","original":"TimFeeneyVicRawlings-FairchildChapel.mp3","mtime":"1544492881","size":"6720","md5":"69f47580af89204500c21cf81ef6ab3d","crc32":"2991c8ea","sha1":"0aa04f096563ce0884221f2ffe159b121cbb5645"},{"name":"TimFeeneyVicRawlings-FairchildChapel_spectrogram.png","source":"derivative","format":"Spectrogram","original":"TimFeeneyVicRawlings-FairchildChapel.mp3","mtime":"1544492896","size":"277927","md5":"4843e12d743528e8aaa357d166f45b05","crc32":"bf71bc0f","sha1":"6077e96990e9376c666818f32b5746fa075f07cd"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1544492943","size":"2153","md5":"eea930f43c14275d3885dcdb139daff5","crc32":"6c2376ef","sha1":"e299a744eed5a85ed1399c72446bec545cd7b0ff","format":"Item Tile","rotation":"0"},{"name":"homo049_archive.torrent","source":"metadata","btih":"a511475268e11627d541655b9fd647bd1a4adab9","mtime":"1554943869","size":"5800","md5":"00a2a08c96e1f8598536a32b394724ea","crc32":"25eb09c6","sha1":"5459d754e101be5fef63d4435cce43f988895eec","format":"Archive BitTorrent"},{"name":"homo049_files.xml","source":"original","format":"Metadata","md5":"32280780de058b823cdbbcdf09a552a4"},{"name":"homo049_meta.sqlite","source":"original","mtime":"1456267817","size":"9216","md5":"28c472fc1b7f5b3bc2c9638e1beaaf98","crc32":"5156eefa","sha1":"edce4c08619e46821adf3c77f756eb5d7656df28","format":"Metadata"},{"name":"homo049_meta.xml","source":"original","mtime":"1554943868","size":"989","format":"Metadata","md5":"2e776a01703c30f4c2c74f3f299e96ec","crc32":"8f005752","sha1":"5011d1bd553212097845917158ddc0c0f7492d31"}],"files_count":10,"item_last_updated":1554943869,"item_size":85128415,"metadata":{"identifier":"homo049","mediatype":"audio","collection":"opensource_audio","creator":" Tim Feeney + Vic Rawlings","date":"2011-02-01","description":"Fairchild Chapel<span class=\"Apple-tab-span\"></span>","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Abstract","Drone","Experimental"],"title":"Fairchild Chapel","publicdate":"2016-02-23 22:50:01","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-23 22:50:01","curation":"[curator]validator@archive.org[/curator][date]20160223225033[/date][comment]checked for malware[/comment]","backup_location":"ia906100_29","external_metadata_update":"2019-04-11T00:50:55Z"},"server":"ia800202.us.archive.org","uniq":2073310469,"workable_servers":["ia800202.us.archive.org","ia600202.us.archive.org"]}
+{
+    "created": 1598535700,
+    "d1": "ia600202.us.archive.org",
+    "d2": "ia800202.us.archive.org",
+    "dir": "/10/items/homo049",
+    "files": [
+        {
+            "crc32": "79936c97",
+            "format": "Columbia Peaks",
+            "md5": "b6442dfe932ed84ac58a2c26add4f806",
+            "mtime": "1544492938",
+            "name": "TimFeeneyVicRawlings-FairchildChapel.afpk",
+            "original": "TimFeeneyVicRawlings-FairchildChapel.mp3",
+            "sha1": "eed4525766f010bbba3d677a152ae35f191e120b",
+            "size": "438904",
+            "source": "derivative"
+        },
+        {
+            "album": "Fairchild Chapel",
+            "artist": "Tim Feeney & Vic Rawlings",
+            "crc32": "43994e19",
+            "external-identifier": "urn:acoustid:bc277607-5a04-4c80-8fbf-9816a295ba3b",
+            "external-identifier-match-date": "acoustid:2019-04-11T00:50:55Z",
+            "format": "VBR MP3",
+            "genre": "eai",
+            "height": "348",
+            "length": "1722.49",
+            "md5": "ab2ca2aadf92c54815370fb709ee9d7d",
+            "mtime": "1544491793",
+            "name": "TimFeeneyVicRawlings-FairchildChapel.mp3",
+            "sha1": "7d81053277a1b4b26f40957f763403788ccda7e2",
+            "size": "68952902",
+            "source": "original",
+            "title": "Tim Feeney + Vic Rawlings - Fairchild Chapel",
+            "track": "1/1",
+            "width": "535"
+        },
+        {
+            "crc32": "f5e07529",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1722.49",
+            "md5": "36dfc1c4d6f44ff6aa59d03670ecae04",
+            "mtime": "1544492808",
+            "name": "TimFeeneyVicRawlings-FairchildChapel.ogg",
+            "original": "TimFeeneyVicRawlings-FairchildChapel.mp3",
+            "sha1": "ff1f95d2b5298e89aa0d2b6bc002008a1d255edd",
+            "size": "15433804",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "2991c8ea",
+            "format": "PNG",
+            "md5": "69f47580af89204500c21cf81ef6ab3d",
+            "mtime": "1544492881",
+            "name": "TimFeeneyVicRawlings-FairchildChapel.png",
+            "original": "TimFeeneyVicRawlings-FairchildChapel.mp3",
+            "sha1": "0aa04f096563ce0884221f2ffe159b121cbb5645",
+            "size": "6720",
+            "source": "derivative"
+        },
+        {
+            "crc32": "bf71bc0f",
+            "format": "Spectrogram",
+            "md5": "4843e12d743528e8aaa357d166f45b05",
+            "mtime": "1544492896",
+            "name": "TimFeeneyVicRawlings-FairchildChapel_spectrogram.png",
+            "original": "TimFeeneyVicRawlings-FairchildChapel.mp3",
+            "sha1": "6077e96990e9376c666818f32b5746fa075f07cd",
+            "size": "277927",
+            "source": "derivative"
+        },
+        {
+            "crc32": "6c2376ef",
+            "format": "Item Tile",
+            "md5": "eea930f43c14275d3885dcdb139daff5",
+            "mtime": "1544492943",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "e299a744eed5a85ed1399c72446bec545cd7b0ff",
+            "size": "2153",
+            "source": "original"
+        },
+        {
+            "btih": "a511475268e11627d541655b9fd647bd1a4adab9",
+            "crc32": "25eb09c6",
+            "format": "Archive BitTorrent",
+            "md5": "00a2a08c96e1f8598536a32b394724ea",
+            "mtime": "1554943869",
+            "name": "homo049_archive.torrent",
+            "sha1": "5459d754e101be5fef63d4435cce43f988895eec",
+            "size": "5800",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "32280780de058b823cdbbcdf09a552a4",
+            "name": "homo049_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "5156eefa",
+            "format": "Metadata",
+            "md5": "28c472fc1b7f5b3bc2c9638e1beaaf98",
+            "mtime": "1456267817",
+            "name": "homo049_meta.sqlite",
+            "sha1": "edce4c08619e46821adf3c77f756eb5d7656df28",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "8f005752",
+            "format": "Metadata",
+            "md5": "2e776a01703c30f4c2c74f3f299e96ec",
+            "mtime": "1554943868",
+            "name": "homo049_meta.xml",
+            "sha1": "5011d1bd553212097845917158ddc0c0f7492d31",
+            "size": "989",
+            "source": "original"
+        }
+    ],
+    "files_count": 10,
+    "item_last_updated": 1554943869,
+    "item_size": 85128415,
+    "metadata": {
+        "addeddate": "2016-02-23 22:50:01",
+        "backup_location": "ia906100_29",
+        "collection": "opensource_audio",
+        "creator": " Tim Feeney + Vic Rawlings",
+        "curation": "[curator]validator@archive.org[/curator][date]20160223225033[/date][comment]checked for malware[/comment]",
+        "date": "2011-02-01",
+        "description": "Fairchild Chapel<span class=\"Apple-tab-span\"></span>",
+        "external_metadata_update": "2019-04-11T00:50:55Z",
+        "identifier": "homo049",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-23 22:50:01",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Abstract",
+            "Drone",
+            "Experimental"
+        ],
+        "title": "Fairchild Chapel",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800202.us.archive.org",
+    "uniq": 2073310469,
+    "workable_servers": [
+        "ia800202.us.archive.org",
+        "ia600202.us.archive.org"
+    ]
+}

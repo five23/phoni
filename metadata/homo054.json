@@ -1,1 +1,141 @@
-{"created":1598535742,"d1":"ia600202.us.archive.org","d2":"ia800202.us.archive.org","dir":"/23/items/homo054","files":[{"name":"homo054_archive.torrent","source":"metadata","btih":"c1b4fb181c675993b85b6d732e22ee650b39814c","mtime":"1484211733","size":"17007","md5":"bc6955a13cd7c00a6cffc87e1015d233","crc32":"ffdd9be1","sha1":"6d99298938492ae80f1963441ad4fb6c1f053f13","format":"Archive BitTorrent"},{"name":"homo054_files.xml","source":"original","format":"Metadata","md5":"42efab3ee3a0b614031d05b5b58060af"},{"name":"homo054_meta.sqlite","source":"original","mtime":"1455396752","size":"9216","md5":"802021cace55f2de9be762fcd8029f6e","crc32":"f889f587","sha1":"eace4e1e8fca46289230b0b7961a748cd1c57128","format":"Metadata"},{"name":"homo054_meta.xml","source":"original","mtime":"1484211728","size":"858","format":"Metadata","md5":"5385d8ac5ad17f745ec1b397aef1fd24","crc32":"bdcb9ae6","sha1":"9c0b80febcb50b4ff282817b8d4789e39541d627"},{"name":"owenbirchett-session.aiff","source":"original","mtime":"1455396720","size":"319610381","md5":"af0b95b57933f5affab6ac076664f31c","crc32":"3abfb362","sha1":"411be07114722ae7c9a990d4c2ee4007ea46a20e","format":"AIFF","length":"1891.29","height":"0","width":"0","title":"110218 session","comment":"110218 session brooklyn"},{"name":"owenbirchett-session.mp3","source":"derivative","title":"110218 session","bitrate":"191","length":"30:11","format":"VBR MP3","original":"owenbirchett-session.aiff","mtime":"1455396872","size":"43348480","md5":"775831aaad5f6836719ced6224dd4252","crc32":"c93d32a5","sha1":"5ffe35ad11a1fa703701a76f315140f2a0ee5a5f","height":"0","width":"0"},{"name":"owenbirchett-session.ogg","source":"derivative","format":"Ogg Vorbis","original":"owenbirchett-session.aiff","mtime":"1455396963","size":"21252161","md5":"ac95329b7a9ac149b54ee115717c8319","crc32":"17f344a3","sha1":"b37402d11180c15b2f2ef4c56ecc8d5c0909fe47","length":"1811.85","height":"0","width":"0"},{"name":"owenbirchett-session.png","source":"derivative","format":"PNG","original":"owenbirchett-session.aiff","mtime":"1455396993","size":"5262","md5":"2c7a8d18035702f4c8fbd96889163e9c","crc32":"fd2ea687","sha1":"6aee86b22c7b14914e2aa0d56643b5c569e50b4b"},{"name":"owenbirchett-session_spectrogram.png","source":"derivative","format":"Spectrogram","original":"owenbirchett-session.aiff","mtime":"1455397003","size":"244139","md5":"59696281dd1d69da664dd9d085b7c694","crc32":"46a0b5ec","sha1":"b9cde271b386acdff8be811e65309a370f277536"}],"files_count":9,"item_last_updated":1484211733,"item_size":384487504,"metadata":{"identifier":"homo054","mediatype":"audio","collection":"opensource_audio","creator":"Tommy Birchett + Ben Owen","date":"2013-01-01","description":"Untitled Improvisation","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Experimental","Free Improvisation"],"title":"Untitled Improvisation","publicdate":"2016-02-13 20:52:01","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-13 20:52:01","curation":"[curator]validator@archive.org[/curator][date]20160213205248[/date][comment]checked for malware[/comment]","backup_location":"ia906100_3"},"server":"ia800202.us.archive.org","uniq":398152852,"workable_servers":["ia800202.us.archive.org","ia600202.us.archive.org"]}
+{
+    "created": 1598535742,
+    "d1": "ia600202.us.archive.org",
+    "d2": "ia800202.us.archive.org",
+    "dir": "/23/items/homo054",
+    "files": [
+        {
+            "btih": "c1b4fb181c675993b85b6d732e22ee650b39814c",
+            "crc32": "ffdd9be1",
+            "format": "Archive BitTorrent",
+            "md5": "bc6955a13cd7c00a6cffc87e1015d233",
+            "mtime": "1484211733",
+            "name": "homo054_archive.torrent",
+            "sha1": "6d99298938492ae80f1963441ad4fb6c1f053f13",
+            "size": "17007",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "42efab3ee3a0b614031d05b5b58060af",
+            "name": "homo054_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "f889f587",
+            "format": "Metadata",
+            "md5": "802021cace55f2de9be762fcd8029f6e",
+            "mtime": "1455396752",
+            "name": "homo054_meta.sqlite",
+            "sha1": "eace4e1e8fca46289230b0b7961a748cd1c57128",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "bdcb9ae6",
+            "format": "Metadata",
+            "md5": "5385d8ac5ad17f745ec1b397aef1fd24",
+            "mtime": "1484211728",
+            "name": "homo054_meta.xml",
+            "sha1": "9c0b80febcb50b4ff282817b8d4789e39541d627",
+            "size": "858",
+            "source": "original"
+        },
+        {
+            "comment": "110218 session brooklyn",
+            "crc32": "3abfb362",
+            "format": "AIFF",
+            "height": "0",
+            "length": "1891.29",
+            "md5": "af0b95b57933f5affab6ac076664f31c",
+            "mtime": "1455396720",
+            "name": "owenbirchett-session.aiff",
+            "sha1": "411be07114722ae7c9a990d4c2ee4007ea46a20e",
+            "size": "319610381",
+            "source": "original",
+            "title": "110218 session",
+            "width": "0"
+        },
+        {
+            "bitrate": "191",
+            "crc32": "c93d32a5",
+            "format": "VBR MP3",
+            "height": "0",
+            "length": "30:11",
+            "md5": "775831aaad5f6836719ced6224dd4252",
+            "mtime": "1455396872",
+            "name": "owenbirchett-session.mp3",
+            "original": "owenbirchett-session.aiff",
+            "sha1": "5ffe35ad11a1fa703701a76f315140f2a0ee5a5f",
+            "size": "43348480",
+            "source": "derivative",
+            "title": "110218 session",
+            "width": "0"
+        },
+        {
+            "crc32": "17f344a3",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1811.85",
+            "md5": "ac95329b7a9ac149b54ee115717c8319",
+            "mtime": "1455396963",
+            "name": "owenbirchett-session.ogg",
+            "original": "owenbirchett-session.aiff",
+            "sha1": "b37402d11180c15b2f2ef4c56ecc8d5c0909fe47",
+            "size": "21252161",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "fd2ea687",
+            "format": "PNG",
+            "md5": "2c7a8d18035702f4c8fbd96889163e9c",
+            "mtime": "1455396993",
+            "name": "owenbirchett-session.png",
+            "original": "owenbirchett-session.aiff",
+            "sha1": "6aee86b22c7b14914e2aa0d56643b5c569e50b4b",
+            "size": "5262",
+            "source": "derivative"
+        },
+        {
+            "crc32": "46a0b5ec",
+            "format": "Spectrogram",
+            "md5": "59696281dd1d69da664dd9d085b7c694",
+            "mtime": "1455397003",
+            "name": "owenbirchett-session_spectrogram.png",
+            "original": "owenbirchett-session.aiff",
+            "sha1": "b9cde271b386acdff8be811e65309a370f277536",
+            "size": "244139",
+            "source": "derivative"
+        }
+    ],
+    "files_count": 9,
+    "item_last_updated": 1484211733,
+    "item_size": 384487504,
+    "metadata": {
+        "addeddate": "2016-02-13 20:52:01",
+        "backup_location": "ia906100_3",
+        "collection": "opensource_audio",
+        "creator": "Tommy Birchett + Ben Owen",
+        "curation": "[curator]validator@archive.org[/curator][date]20160213205248[/date][comment]checked for malware[/comment]",
+        "date": "2013-01-01",
+        "description": "Untitled Improvisation",
+        "identifier": "homo054",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-13 20:52:01",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Experimental",
+            "Free Improvisation"
+        ],
+        "title": "Untitled Improvisation",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800202.us.archive.org",
+    "uniq": 398152852,
+    "workable_servers": [
+        "ia800202.us.archive.org",
+        "ia600202.us.archive.org"
+    ]
+}

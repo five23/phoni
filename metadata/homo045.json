@@ -1,1 +1,177 @@
-{"created":1598535692,"d1":"ia600206.us.archive.org","d2":"ia800206.us.archive.org","dir":"/14/items/homo045","files":[{"name":"01 Confessions of a Middle School Guidance Counselor.afpk","source":"derivative","format":"Columbia Peaks","original":"01 Confessions of a Middle School Guidance Counselor.mp3","mtime":"1455311403","size":"628536","md5":"f9758d7d30fb1781464ab7846f82560a","crc32":"9f2b7546","sha1":"c5a6dfb1e42c4bb41ae6ac142e5880c273abd38e"},{"name":"01 Confessions of a Middle School Guidance Counselor.mp3","source":"original","mtime":"1455310727","size":"109763398","md5":"4d2ee96723f7aaf1987008c3090f5751","crc32":"090694fd","sha1":"b9ddcad8e100798e05d0bc5f95a7c6bb4db6d86a","format":"VBR MP3","length":"2740.09","height":"348","width":"535","album":"Confessions of a Middle School Guidance Counselor","artist":"Kevin Parks","genre":"EAI","title":"Confessions of a Middle School Guidance Counselor","track":"1","external-identifier-match-date":"acoustid:2019-04-12T04:32:22Z","external-identifier":"urn:acoustid:0a3aaffa-0427-43e3-bf60-7b6ba9853dc6"},{"name":"01 Confessions of a Middle School Guidance Counselor.ogg","source":"derivative","format":"Ogg Vorbis","original":"01 Confessions of a Middle School Guidance Counselor.mp3","mtime":"1455310959","size":"31695561","md5":"38dc9b425e0163b9bdc54798c38604c4","crc32":"9b29023f","sha1":"4b12033182866c8ab55c628cd1cce6fc726d2bc7","length":"2740.09","height":"0","width":"0"},{"name":"01 Confessions of a Middle School Guidance Counselor.png","source":"derivative","format":"PNG","original":"01 Confessions of a Middle School Guidance Counselor.mp3","mtime":"1455311010","size":"6748","md5":"493eac4af782b919efa5384d019fe949","crc32":"c5a95a77","sha1":"c853b516fd144dfb00d8b7b40009f6535e8e8b2e"},{"name":"01 Confessions of a Middle School Guidance Counselor_esshigh.json.gz","source":"derivative","format":"Essentia High GZ","original":"01 Confessions of a Middle School Guidance Counselor_esslow.json.gz","mtime":"1455311419","size":"1861","md5":"8dcdd63c91e6f3690b0dcc6214ebea5b","crc32":"36bf0862","sha1":"af312247cb35433b9fd4ade24a427fc30569be68"},{"name":"01 Confessions of a Middle School Guidance Counselor_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"01 Confessions of a Middle School Guidance Counselor.mp3","mtime":"1455311331","size":"52642","md5":"ad486637b6d79195a17072b8ab68f802","crc32":"26bd145b","sha1":"e49dc21acde9ff0d029c67a30eaf973763045715"},{"name":"01 Confessions of a Middle School Guidance Counselor_spectrogram.png","source":"derivative","format":"Spectrogram","original":"01 Confessions of a Middle School Guidance Counselor.mp3","mtime":"1455311038","size":"278608","md5":"30e3d0e53fa03d3720aef53f8c6da504","crc32":"3ccb0426","sha1":"5642793cef85cd5bcb59fc5cfc70cfda99aacc28"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1555043554","size":"2195","md5":"967a028add1924b86a619d8b24c4c666","crc32":"a9856f61","sha1":"d50f7bc22761bf0631b08a8096606bbd55dda620","format":"Item Tile","rotation":"0"},{"name":"homo045_archive.torrent","source":"metadata","btih":"d6a60e96a8cf685a59af061dbd955e5b91d4c2f1","mtime":"1555043558","size":"8505","md5":"ad65f4addbf266c74c6a6ae6353f9ce4","crc32":"c8e3274e","sha1":"56899d110cd01680192e67698277d111286132cd","format":"Archive BitTorrent"},{"name":"homo045_files.xml","source":"original","format":"Metadata","md5":"1669effc8fb7a2e3e1d41873f9242e55"},{"name":"homo045_meta.sqlite","source":"original","mtime":"1455310744","size":"11264","md5":"1ddc0fd1f27e9252238e5398dace94d4","crc32":"b4763719","sha1":"ba79fa7aac20f02f41d157c391d98aa95af2ea4f","format":"Metadata"},{"name":"homo045_meta.xml","source":"original","mtime":"1555043557","size":"1042","format":"Metadata","md5":"aa35b218306a069b57a1adae5ca2a7f1","crc32":"549fd147","sha1":"99d62a523b557b0e0f453e7567e0e3db05060870"}],"files_count":12,"item_last_updated":1555043558,"item_size":142450360,"metadata":{"identifier":"homo045","mediatype":"audio","collection":"opensource_audio","creator":"Kevin Parks + Alice Hui-Sheng Chang","date":"2011-03-01","description":"Confessions Of A Middle School Guidance Counselor","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Abstract","Noise","Drone","Experimental"],"title":"Confessions Of A Middle School Guidance Counselor","publicdate":"2016-02-12 20:58:50","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-12 20:58:50","curation":"[curator]validator@archive.org[/curator][date]20160212210024[/date][comment]checked for malware[/comment]","backup_location":"ia906100_1","external_metadata_update":"2019-04-12T04:32:22Z"},"server":"ia800206.us.archive.org","uniq":976498335,"workable_servers":["ia800206.us.archive.org","ia600206.us.archive.org"]}
+{
+    "created": 1598535692,
+    "d1": "ia600206.us.archive.org",
+    "d2": "ia800206.us.archive.org",
+    "dir": "/14/items/homo045",
+    "files": [
+        {
+            "crc32": "9f2b7546",
+            "format": "Columbia Peaks",
+            "md5": "f9758d7d30fb1781464ab7846f82560a",
+            "mtime": "1455311403",
+            "name": "01 Confessions of a Middle School Guidance Counselor.afpk",
+            "original": "01 Confessions of a Middle School Guidance Counselor.mp3",
+            "sha1": "c5a6dfb1e42c4bb41ae6ac142e5880c273abd38e",
+            "size": "628536",
+            "source": "derivative"
+        },
+        {
+            "album": "Confessions of a Middle School Guidance Counselor",
+            "artist": "Kevin Parks",
+            "crc32": "090694fd",
+            "external-identifier": "urn:acoustid:0a3aaffa-0427-43e3-bf60-7b6ba9853dc6",
+            "external-identifier-match-date": "acoustid:2019-04-12T04:32:22Z",
+            "format": "VBR MP3",
+            "genre": "EAI",
+            "height": "348",
+            "length": "2740.09",
+            "md5": "4d2ee96723f7aaf1987008c3090f5751",
+            "mtime": "1455310727",
+            "name": "01 Confessions of a Middle School Guidance Counselor.mp3",
+            "sha1": "b9ddcad8e100798e05d0bc5f95a7c6bb4db6d86a",
+            "size": "109763398",
+            "source": "original",
+            "title": "Confessions of a Middle School Guidance Counselor",
+            "track": "1",
+            "width": "535"
+        },
+        {
+            "crc32": "9b29023f",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "2740.09",
+            "md5": "38dc9b425e0163b9bdc54798c38604c4",
+            "mtime": "1455310959",
+            "name": "01 Confessions of a Middle School Guidance Counselor.ogg",
+            "original": "01 Confessions of a Middle School Guidance Counselor.mp3",
+            "sha1": "4b12033182866c8ab55c628cd1cce6fc726d2bc7",
+            "size": "31695561",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "c5a95a77",
+            "format": "PNG",
+            "md5": "493eac4af782b919efa5384d019fe949",
+            "mtime": "1455311010",
+            "name": "01 Confessions of a Middle School Guidance Counselor.png",
+            "original": "01 Confessions of a Middle School Guidance Counselor.mp3",
+            "sha1": "c853b516fd144dfb00d8b7b40009f6535e8e8b2e",
+            "size": "6748",
+            "source": "derivative"
+        },
+        {
+            "crc32": "36bf0862",
+            "format": "Essentia High GZ",
+            "md5": "8dcdd63c91e6f3690b0dcc6214ebea5b",
+            "mtime": "1455311419",
+            "name": "01 Confessions of a Middle School Guidance Counselor_esshigh.json.gz",
+            "original": "01 Confessions of a Middle School Guidance Counselor_esslow.json.gz",
+            "sha1": "af312247cb35433b9fd4ade24a427fc30569be68",
+            "size": "1861",
+            "source": "derivative"
+        },
+        {
+            "crc32": "26bd145b",
+            "format": "Essentia Low GZ",
+            "md5": "ad486637b6d79195a17072b8ab68f802",
+            "mtime": "1455311331",
+            "name": "01 Confessions of a Middle School Guidance Counselor_esslow.json.gz",
+            "original": "01 Confessions of a Middle School Guidance Counselor.mp3",
+            "sha1": "e49dc21acde9ff0d029c67a30eaf973763045715",
+            "size": "52642",
+            "source": "derivative"
+        },
+        {
+            "crc32": "3ccb0426",
+            "format": "Spectrogram",
+            "md5": "30e3d0e53fa03d3720aef53f8c6da504",
+            "mtime": "1455311038",
+            "name": "01 Confessions of a Middle School Guidance Counselor_spectrogram.png",
+            "original": "01 Confessions of a Middle School Guidance Counselor.mp3",
+            "sha1": "5642793cef85cd5bcb59fc5cfc70cfda99aacc28",
+            "size": "278608",
+            "source": "derivative"
+        },
+        {
+            "crc32": "a9856f61",
+            "format": "Item Tile",
+            "md5": "967a028add1924b86a619d8b24c4c666",
+            "mtime": "1555043554",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "d50f7bc22761bf0631b08a8096606bbd55dda620",
+            "size": "2195",
+            "source": "original"
+        },
+        {
+            "btih": "d6a60e96a8cf685a59af061dbd955e5b91d4c2f1",
+            "crc32": "c8e3274e",
+            "format": "Archive BitTorrent",
+            "md5": "ad65f4addbf266c74c6a6ae6353f9ce4",
+            "mtime": "1555043558",
+            "name": "homo045_archive.torrent",
+            "sha1": "56899d110cd01680192e67698277d111286132cd",
+            "size": "8505",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "1669effc8fb7a2e3e1d41873f9242e55",
+            "name": "homo045_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "b4763719",
+            "format": "Metadata",
+            "md5": "1ddc0fd1f27e9252238e5398dace94d4",
+            "mtime": "1455310744",
+            "name": "homo045_meta.sqlite",
+            "sha1": "ba79fa7aac20f02f41d157c391d98aa95af2ea4f",
+            "size": "11264",
+            "source": "original"
+        },
+        {
+            "crc32": "549fd147",
+            "format": "Metadata",
+            "md5": "aa35b218306a069b57a1adae5ca2a7f1",
+            "mtime": "1555043557",
+            "name": "homo045_meta.xml",
+            "sha1": "99d62a523b557b0e0f453e7567e0e3db05060870",
+            "size": "1042",
+            "source": "original"
+        }
+    ],
+    "files_count": 12,
+    "item_last_updated": 1555043558,
+    "item_size": 142450360,
+    "metadata": {
+        "addeddate": "2016-02-12 20:58:50",
+        "backup_location": "ia906100_1",
+        "collection": "opensource_audio",
+        "creator": "Kevin Parks + Alice Hui-Sheng Chang",
+        "curation": "[curator]validator@archive.org[/curator][date]20160212210024[/date][comment]checked for malware[/comment]",
+        "date": "2011-03-01",
+        "description": "Confessions Of A Middle School Guidance Counselor",
+        "external_metadata_update": "2019-04-12T04:32:22Z",
+        "identifier": "homo045",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-12 20:58:50",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Abstract",
+            "Noise",
+            "Drone",
+            "Experimental"
+        ],
+        "title": "Confessions Of A Middle School Guidance Counselor",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800206.us.archive.org",
+    "uniq": 976498335,
+    "workable_servers": [
+        "ia800206.us.archive.org",
+        "ia600206.us.archive.org"
+    ]
+}

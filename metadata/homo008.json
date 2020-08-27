@@ -1,1 +1,165 @@
-{"created":1598535084,"d1":"ia600204.us.archive.org","d2":"ia800204.us.archive.org","dir":"/6/items/homo008","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1554862474","size":"2654","md5":"ad4d6aa0a476e41f15e78df0d5c9efcf","crc32":"9a015b59","sha1":"fc042f220b23615f96b0a93485a3e0b2d6868c3d","format":"Item Tile","rotation":"0"},{"name":"david kirby + ryan gregory - uredinales.afpk","source":"derivative","format":"Columbia Peaks","original":"david kirby + ryan gregory - uredinales.mp3","mtime":"1455256144","size":"198592","md5":"08cffeea553be7d6ac81566c3c1c8acf","crc32":"89c7e10c","sha1":"50a29a207db72e01060ca71c86484522b2c06775"},{"name":"david kirby + ryan gregory - uredinales.mp3","source":"original","mtime":"1455255758","size":"39811072","md5":"9553e986c911d3834236a6800e2ed32a","crc32":"410fb4a4","sha1":"18b7dc7a8c50e53bf7240ee287167b631c75daaf","format":"VBR MP3","length":"1473.93","height":"348","width":"535","artist":"David Kirby + Ryan Gregory","track":"1","album":"Uredinales [Homophoni]","title":"Uredinales","genre":"Drone","external-identifier-match-date":"acoustid:2019-04-10T02:14:25Z","external-identifier":"urn:acoustid:cd7bdac2-4a9b-4c8f-933c-b7addb317b7b"},{"name":"david kirby + ryan gregory - uredinales.ogg","source":"derivative","format":"Ogg Vorbis","original":"david kirby + ryan gregory - uredinales.mp3","mtime":"1455255863","size":"16241778","md5":"2a4159d300ba155e616e1fc45f0f499c","crc32":"dfcf56dd","sha1":"e63e49cc38b493ded5cbad020fc02f61df056b8a","length":"1473.88","height":"0","width":"0"},{"name":"david kirby + ryan gregory - uredinales.png","source":"derivative","format":"PNG","original":"david kirby + ryan gregory - uredinales.mp3","mtime":"1455255899","size":"8513","md5":"754f6f423e2c43fccd493c2304742d41","crc32":"ba36f6af","sha1":"3e04d21a1acf1819ea76b30e29f017a157f907dc"},{"name":"david kirby + ryan gregory - uredinales_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"david kirby + ryan gregory - uredinales.mp3","mtime":"1455256106","size":"39005","md5":"443f2bcf0b97530d4a4c6e2f80c02e2d","crc32":"7b338ec7","sha1":"dba8fab85f5889e1c03be8f62ad8ee7fd45e01d1"},{"name":"david kirby + ryan gregory - uredinales_spectrogram.png","source":"derivative","format":"Spectrogram","original":"david kirby + ryan gregory - uredinales.mp3","mtime":"1455255917","size":"305033","md5":"ecb0116438275a3fed901cf4e1e0d131","crc32":"2c9e024f","sha1":"6a944ef7f0cdcf87f1f25a285528ec8ba68b4127"},{"name":"homo008_archive.torrent","source":"metadata","btih":"bd5f14eeab40f31d55309d5f4d1619741fe551a0","mtime":"1554862479","size":"4922","md5":"739051366a6302aa1030ed9d405579b2","crc32":"7603d998","sha1":"17bc33e2339e9e4d5abfde7384b895dab4efcb16","format":"Archive BitTorrent"},{"name":"homo008_files.xml","source":"original","format":"Metadata","md5":"fa6ea03510d31c82166fd630ab1d1950"},{"name":"homo008_meta.sqlite","source":"original","mtime":"1455255772","size":"11264","md5":"80cee7bcf80ccf89afa7d89cfc4d7b32","crc32":"23aec3ae","sha1":"1305ff92dcaaf5bfb619443f89949fea67118a8e","format":"Metadata"},{"name":"homo008_meta.xml","source":"original","mtime":"1554862478","size":"1106","format":"Metadata","md5":"10b553abfd3deb595b00b7a90eb686d9","crc32":"0445ed64","sha1":"68d233f11e105efa3e349daa22aeefe724460d68"}],"files_count":11,"item_last_updated":1554862479,"item_size":56623939,"metadata":{"identifier":"homo008","mediatype":"audio","collection":"opensource_audio","creator":"David Kirby & Ryan Gregory","date":"2005-10-01","description":"<div>Sounds [Natural Objects, Metal Sculpture], Chimes, Effects [Processing] \u2013 David Kirby</div><div>Violin, Sounds [Metal Sculpture] \u2013 Ryan Gregory</div>","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Abstract","Experimental","Minimal"],"title":"Uredinales","publicdate":"2016-02-12 05:42:38","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-12 05:42:38","curation":"[curator]validator@archive.org[/curator][date]20160212054301[/date][comment]checked for malware[/comment]","backup_location":"ia906100_0","external_metadata_update":"2019-04-10T02:14:25Z"},"server":"ia800204.us.archive.org","uniq":1142352439,"workable_servers":["ia800204.us.archive.org","ia600204.us.archive.org"]}
+{
+    "created": 1598535084,
+    "d1": "ia600204.us.archive.org",
+    "d2": "ia800204.us.archive.org",
+    "dir": "/6/items/homo008",
+    "files": [
+        {
+            "crc32": "9a015b59",
+            "format": "Item Tile",
+            "md5": "ad4d6aa0a476e41f15e78df0d5c9efcf",
+            "mtime": "1554862474",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "fc042f220b23615f96b0a93485a3e0b2d6868c3d",
+            "size": "2654",
+            "source": "original"
+        },
+        {
+            "crc32": "89c7e10c",
+            "format": "Columbia Peaks",
+            "md5": "08cffeea553be7d6ac81566c3c1c8acf",
+            "mtime": "1455256144",
+            "name": "david kirby + ryan gregory - uredinales.afpk",
+            "original": "david kirby + ryan gregory - uredinales.mp3",
+            "sha1": "50a29a207db72e01060ca71c86484522b2c06775",
+            "size": "198592",
+            "source": "derivative"
+        },
+        {
+            "album": "Uredinales [Homophoni]",
+            "artist": "David Kirby + Ryan Gregory",
+            "crc32": "410fb4a4",
+            "external-identifier": "urn:acoustid:cd7bdac2-4a9b-4c8f-933c-b7addb317b7b",
+            "external-identifier-match-date": "acoustid:2019-04-10T02:14:25Z",
+            "format": "VBR MP3",
+            "genre": "Drone",
+            "height": "348",
+            "length": "1473.93",
+            "md5": "9553e986c911d3834236a6800e2ed32a",
+            "mtime": "1455255758",
+            "name": "david kirby + ryan gregory - uredinales.mp3",
+            "sha1": "18b7dc7a8c50e53bf7240ee287167b631c75daaf",
+            "size": "39811072",
+            "source": "original",
+            "title": "Uredinales",
+            "track": "1",
+            "width": "535"
+        },
+        {
+            "crc32": "dfcf56dd",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1473.88",
+            "md5": "2a4159d300ba155e616e1fc45f0f499c",
+            "mtime": "1455255863",
+            "name": "david kirby + ryan gregory - uredinales.ogg",
+            "original": "david kirby + ryan gregory - uredinales.mp3",
+            "sha1": "e63e49cc38b493ded5cbad020fc02f61df056b8a",
+            "size": "16241778",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "ba36f6af",
+            "format": "PNG",
+            "md5": "754f6f423e2c43fccd493c2304742d41",
+            "mtime": "1455255899",
+            "name": "david kirby + ryan gregory - uredinales.png",
+            "original": "david kirby + ryan gregory - uredinales.mp3",
+            "sha1": "3e04d21a1acf1819ea76b30e29f017a157f907dc",
+            "size": "8513",
+            "source": "derivative"
+        },
+        {
+            "crc32": "7b338ec7",
+            "format": "Essentia Low GZ",
+            "md5": "443f2bcf0b97530d4a4c6e2f80c02e2d",
+            "mtime": "1455256106",
+            "name": "david kirby + ryan gregory - uredinales_esslow.json.gz",
+            "original": "david kirby + ryan gregory - uredinales.mp3",
+            "sha1": "dba8fab85f5889e1c03be8f62ad8ee7fd45e01d1",
+            "size": "39005",
+            "source": "derivative"
+        },
+        {
+            "crc32": "2c9e024f",
+            "format": "Spectrogram",
+            "md5": "ecb0116438275a3fed901cf4e1e0d131",
+            "mtime": "1455255917",
+            "name": "david kirby + ryan gregory - uredinales_spectrogram.png",
+            "original": "david kirby + ryan gregory - uredinales.mp3",
+            "sha1": "6a944ef7f0cdcf87f1f25a285528ec8ba68b4127",
+            "size": "305033",
+            "source": "derivative"
+        },
+        {
+            "btih": "bd5f14eeab40f31d55309d5f4d1619741fe551a0",
+            "crc32": "7603d998",
+            "format": "Archive BitTorrent",
+            "md5": "739051366a6302aa1030ed9d405579b2",
+            "mtime": "1554862479",
+            "name": "homo008_archive.torrent",
+            "sha1": "17bc33e2339e9e4d5abfde7384b895dab4efcb16",
+            "size": "4922",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "fa6ea03510d31c82166fd630ab1d1950",
+            "name": "homo008_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "23aec3ae",
+            "format": "Metadata",
+            "md5": "80cee7bcf80ccf89afa7d89cfc4d7b32",
+            "mtime": "1455255772",
+            "name": "homo008_meta.sqlite",
+            "sha1": "1305ff92dcaaf5bfb619443f89949fea67118a8e",
+            "size": "11264",
+            "source": "original"
+        },
+        {
+            "crc32": "0445ed64",
+            "format": "Metadata",
+            "md5": "10b553abfd3deb595b00b7a90eb686d9",
+            "mtime": "1554862478",
+            "name": "homo008_meta.xml",
+            "sha1": "68d233f11e105efa3e349daa22aeefe724460d68",
+            "size": "1106",
+            "source": "original"
+        }
+    ],
+    "files_count": 11,
+    "item_last_updated": 1554862479,
+    "item_size": 56623939,
+    "metadata": {
+        "addeddate": "2016-02-12 05:42:38",
+        "backup_location": "ia906100_0",
+        "collection": "opensource_audio",
+        "creator": "David Kirby & Ryan Gregory",
+        "curation": "[curator]validator@archive.org[/curator][date]20160212054301[/date][comment]checked for malware[/comment]",
+        "date": "2005-10-01",
+        "description": "<div>Sounds [Natural Objects, Metal Sculpture], Chimes, Effects [Processing] \u2013 David Kirby</div><div>Violin, Sounds [Metal Sculpture] \u2013 Ryan Gregory</div>",
+        "external_metadata_update": "2019-04-10T02:14:25Z",
+        "identifier": "homo008",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-12 05:42:38",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Abstract",
+            "Experimental",
+            "Minimal"
+        ],
+        "title": "Uredinales",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia800204.us.archive.org",
+    "uniq": 1142352439,
+    "workable_servers": [
+        "ia800204.us.archive.org",
+        "ia600204.us.archive.org"
+    ]
+}

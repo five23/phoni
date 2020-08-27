@@ -1,1 +1,175 @@
-{"created":1598535535,"d1":"ia600207.us.archive.org","d2":"ia800207.us.archive.org","dir":"/22/items/homo021","files":[{"name":"Asher_-_01_-_In_Camera.afpk","source":"derivative","format":"Columbia Peaks","original":"Asher_-_01_-_In_Camera.mp3","mtime":"1455259167","size":"498728","md5":"0773ca8633890eeb4c1190a48bb66cfc","crc32":"89492360","sha1":"5aca6342855f782caf59472c7cac1b6267a917ff"},{"name":"Asher_-_01_-_In_Camera.mp3","source":"original","format":"VBR MP3","length":"1558.31","height":"348","width":"535","mtime":"1455258638","size":"62367872","md5":"dd0fb877d2df0e07951ff1fc8cfad9e2","crc32":"1baf2bbb","sha1":"0dcfaabd46a61f7bde699456ac08cc10c85bf839","title":"In Camera","artist":"Asher","track":"1","album":"In Camera","external-identifier":"urn:acoustid:ec2df0f0-9c03-459a-aa3b-09918e4f2f5d","external-identifier-match-date":"acoustid:2019-03-08T07:14:35Z"},{"name":"Asher_-_01_-_In_Camera.ogg","source":"derivative","format":"Ogg Vorbis","original":"Asher_-_01_-_In_Camera.mp3","mtime":"1455258825","size":"16050386","md5":"5fe6661df8b5fb13f24dfbff4f6bc9e0","crc32":"b851d2f5","sha1":"af0bd7037b17ae3fc6e2c977621d9683d9eed138","length":"1558.26","height":"0","width":"0"},{"name":"Asher_-_01_-_In_Camera.png","source":"derivative","format":"PNG","original":"Asher_-_01_-_In_Camera.mp3","mtime":"1455258864","size":"9615","md5":"94a39466e6dab602909d2a92c3832250","crc32":"74582757","sha1":"adcad4c5b8467477f33e8b43d17ca13f683b1820"},{"name":"Asher_-_01_-_In_Camera_esshigh.json.gz","source":"derivative","format":"Essentia High GZ","original":"Asher_-_01_-_In_Camera_esslow.json.gz","mtime":"1455259246","size":"1976","md5":"2d09ac7aff42cf6025b3a62dc81bb7b5","crc32":"53cea443","sha1":"80937bb32c9ff5baacb079bbe51208d4d162879a"},{"name":"Asher_-_01_-_In_Camera_esslow.json.gz","source":"derivative","format":"Essentia Low GZ","original":"Asher_-_01_-_In_Camera.mp3","mtime":"1455259115","size":"40167","md5":"e7d637a54e1fccc61fa95139f1ad2487","crc32":"a3b8d464","sha1":"beb279441ff5e34b4db4dcdbd6494cd965d9386e"},{"name":"Asher_-_01_-_In_Camera_spectrogram.png","source":"derivative","format":"Spectrogram","original":"Asher_-_01_-_In_Camera.mp3","mtime":"1455258887","size":"260227","md5":"a04cf8556e7abfbf9e0877c5348fedfc","crc32":"03ff16e6","sha1":"56d5b0e6fc3bff87b12eebc2b3cddaaab6e722a4"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1552029287","size":"2444","md5":"2c0e94086d7aae6414fb5f36b654d59a","crc32":"060a2928","sha1":"38d3262902a9fe47a5f576ecf614217c93243aff","format":"Item Tile","rotation":"0"},{"name":"homo021_archive.torrent","source":"metadata","btih":"4a175a1adcf123d6c490a802761d802332a72a1e","mtime":"1552029293","size":"5892","md5":"26be554395c23d17703b298ad5e69b85","crc32":"d2a9189d","sha1":"1855c925c42c0f1a2ba7e56dcdd09a81e4986631","format":"Archive BitTorrent"},{"name":"homo021_files.xml","source":"original","format":"Metadata","md5":"32ce160b4af6771f7a085d2ec0aa7bdd"},{"name":"homo021_meta.sqlite","source":"original","mtime":"1455256929","size":"9216","md5":"1c1c8b696f05ecfd1ebd5867122bf931","crc32":"195b51b3","sha1":"d471c981cedc07ac7c4b7e581118fd885e734bd4","format":"Metadata"},{"name":"homo021_meta.xml","source":"original","mtime":"1552029291","size":"905","format":"Metadata","md5":"efa3b8f19afdbda25417b2f70f4c28e7","crc32":"19f5718d","sha1":"ff6ebe323058af04a4233683929c356b2bda2aa1"}],"files_count":12,"item_last_updated":1552029293,"item_size":79247428,"metadata":{"identifier":"homo021","mediatype":"audio","collection":"opensource_audio","creator":"Asher","date":"2007-08-01","description":"In Camera","licenseurl":"http://creativecommons.org/licenses/by/3.0/","scanner":"Internet Archive HTML5 Uploader 1.6.3","subject":["Abstract","Drone","Experimental"],"title":"In Camera","publicdate":"2016-02-12 06:01:47","uploader":"davidkirby@homophoni.com","addeddate":"2016-02-12 06:01:47","curation":"[curator]validator@archive.org[/curator][date]20160212060218[/date][comment]checked for malware[/comment]","backup_location":"ia906100_0","external_metadata_update":"2019-03-08T07:14:35Z"},"server":"ia600207.us.archive.org","uniq":484868493,"workable_servers":["ia600207.us.archive.org","ia800207.us.archive.org"]}
+{
+    "created": 1598535535,
+    "d1": "ia600207.us.archive.org",
+    "d2": "ia800207.us.archive.org",
+    "dir": "/22/items/homo021",
+    "files": [
+        {
+            "crc32": "89492360",
+            "format": "Columbia Peaks",
+            "md5": "0773ca8633890eeb4c1190a48bb66cfc",
+            "mtime": "1455259167",
+            "name": "Asher_-_01_-_In_Camera.afpk",
+            "original": "Asher_-_01_-_In_Camera.mp3",
+            "sha1": "5aca6342855f782caf59472c7cac1b6267a917ff",
+            "size": "498728",
+            "source": "derivative"
+        },
+        {
+            "album": "In Camera",
+            "artist": "Asher",
+            "crc32": "1baf2bbb",
+            "external-identifier": "urn:acoustid:ec2df0f0-9c03-459a-aa3b-09918e4f2f5d",
+            "external-identifier-match-date": "acoustid:2019-03-08T07:14:35Z",
+            "format": "VBR MP3",
+            "height": "348",
+            "length": "1558.31",
+            "md5": "dd0fb877d2df0e07951ff1fc8cfad9e2",
+            "mtime": "1455258638",
+            "name": "Asher_-_01_-_In_Camera.mp3",
+            "sha1": "0dcfaabd46a61f7bde699456ac08cc10c85bf839",
+            "size": "62367872",
+            "source": "original",
+            "title": "In Camera",
+            "track": "1",
+            "width": "535"
+        },
+        {
+            "crc32": "b851d2f5",
+            "format": "Ogg Vorbis",
+            "height": "0",
+            "length": "1558.26",
+            "md5": "5fe6661df8b5fb13f24dfbff4f6bc9e0",
+            "mtime": "1455258825",
+            "name": "Asher_-_01_-_In_Camera.ogg",
+            "original": "Asher_-_01_-_In_Camera.mp3",
+            "sha1": "af0bd7037b17ae3fc6e2c977621d9683d9eed138",
+            "size": "16050386",
+            "source": "derivative",
+            "width": "0"
+        },
+        {
+            "crc32": "74582757",
+            "format": "PNG",
+            "md5": "94a39466e6dab602909d2a92c3832250",
+            "mtime": "1455258864",
+            "name": "Asher_-_01_-_In_Camera.png",
+            "original": "Asher_-_01_-_In_Camera.mp3",
+            "sha1": "adcad4c5b8467477f33e8b43d17ca13f683b1820",
+            "size": "9615",
+            "source": "derivative"
+        },
+        {
+            "crc32": "53cea443",
+            "format": "Essentia High GZ",
+            "md5": "2d09ac7aff42cf6025b3a62dc81bb7b5",
+            "mtime": "1455259246",
+            "name": "Asher_-_01_-_In_Camera_esshigh.json.gz",
+            "original": "Asher_-_01_-_In_Camera_esslow.json.gz",
+            "sha1": "80937bb32c9ff5baacb079bbe51208d4d162879a",
+            "size": "1976",
+            "source": "derivative"
+        },
+        {
+            "crc32": "a3b8d464",
+            "format": "Essentia Low GZ",
+            "md5": "e7d637a54e1fccc61fa95139f1ad2487",
+            "mtime": "1455259115",
+            "name": "Asher_-_01_-_In_Camera_esslow.json.gz",
+            "original": "Asher_-_01_-_In_Camera.mp3",
+            "sha1": "beb279441ff5e34b4db4dcdbd6494cd965d9386e",
+            "size": "40167",
+            "source": "derivative"
+        },
+        {
+            "crc32": "03ff16e6",
+            "format": "Spectrogram",
+            "md5": "a04cf8556e7abfbf9e0877c5348fedfc",
+            "mtime": "1455258887",
+            "name": "Asher_-_01_-_In_Camera_spectrogram.png",
+            "original": "Asher_-_01_-_In_Camera.mp3",
+            "sha1": "56d5b0e6fc3bff87b12eebc2b3cddaaab6e722a4",
+            "size": "260227",
+            "source": "derivative"
+        },
+        {
+            "crc32": "060a2928",
+            "format": "Item Tile",
+            "md5": "2c0e94086d7aae6414fb5f36b654d59a",
+            "mtime": "1552029287",
+            "name": "__ia_thumb.jpg",
+            "rotation": "0",
+            "sha1": "38d3262902a9fe47a5f576ecf614217c93243aff",
+            "size": "2444",
+            "source": "original"
+        },
+        {
+            "btih": "4a175a1adcf123d6c490a802761d802332a72a1e",
+            "crc32": "d2a9189d",
+            "format": "Archive BitTorrent",
+            "md5": "26be554395c23d17703b298ad5e69b85",
+            "mtime": "1552029293",
+            "name": "homo021_archive.torrent",
+            "sha1": "1855c925c42c0f1a2ba7e56dcdd09a81e4986631",
+            "size": "5892",
+            "source": "metadata"
+        },
+        {
+            "format": "Metadata",
+            "md5": "32ce160b4af6771f7a085d2ec0aa7bdd",
+            "name": "homo021_files.xml",
+            "source": "original"
+        },
+        {
+            "crc32": "195b51b3",
+            "format": "Metadata",
+            "md5": "1c1c8b696f05ecfd1ebd5867122bf931",
+            "mtime": "1455256929",
+            "name": "homo021_meta.sqlite",
+            "sha1": "d471c981cedc07ac7c4b7e581118fd885e734bd4",
+            "size": "9216",
+            "source": "original"
+        },
+        {
+            "crc32": "19f5718d",
+            "format": "Metadata",
+            "md5": "efa3b8f19afdbda25417b2f70f4c28e7",
+            "mtime": "1552029291",
+            "name": "homo021_meta.xml",
+            "sha1": "ff6ebe323058af04a4233683929c356b2bda2aa1",
+            "size": "905",
+            "source": "original"
+        }
+    ],
+    "files_count": 12,
+    "item_last_updated": 1552029293,
+    "item_size": 79247428,
+    "metadata": {
+        "addeddate": "2016-02-12 06:01:47",
+        "backup_location": "ia906100_0",
+        "collection": "opensource_audio",
+        "creator": "Asher",
+        "curation": "[curator]validator@archive.org[/curator][date]20160212060218[/date][comment]checked for malware[/comment]",
+        "date": "2007-08-01",
+        "description": "In Camera",
+        "external_metadata_update": "2019-03-08T07:14:35Z",
+        "identifier": "homo021",
+        "licenseurl": "http://creativecommons.org/licenses/by/3.0/",
+        "mediatype": "audio",
+        "publicdate": "2016-02-12 06:01:47",
+        "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+        "subject": [
+            "Abstract",
+            "Drone",
+            "Experimental"
+        ],
+        "title": "In Camera",
+        "uploader": "davidkirby@homophoni.com"
+    },
+    "server": "ia600207.us.archive.org",
+    "uniq": 484868493,
+    "workable_servers": [
+        "ia600207.us.archive.org",
+        "ia800207.us.archive.org"
+    ]
+}
