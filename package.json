@@ -1,7 +1,7 @@
 {
-  "name": "phoni_v1",
-  "version": "1.0.0",
-  "description": "",
+  "name": "phoni",
+  "version": "0.1.0",
+  "description": "New theme builder for HOMOPHONI (work in progress)",
   "main": "index.js",
   "scripts": {
     "build-task:scss-compile": "node-sass-chokidar --source-map true src/scss/ -o dist/css",
@@ -12,8 +12,8 @@
     "build": "webpack --mode production --module-bind js=babel-loader"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "David Kirby",
+  "license": "GPLv3",
   "dependencies": {
     "autoprefixer": "^9.8.6",
     "chokidar-cli": "^2.1.0",
@@ -27,8 +27,12 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^8.1.0",
     "babel-preset-env": "^1.7.0",
+    "css-loader": "^4.2.2",
     "html-loader": "^1.3.0",
     "html-webpack-plugin": "^4.3.0",
+    "sass": "^1.26.10",
+    "sass-loader": "^10.0.1",
+    "style-loader": "^1.2.1",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   }

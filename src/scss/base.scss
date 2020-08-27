@@ -1,0 +1,34 @@
+body {
+  padding: 20px;
+}
+
+pre, code {
+  width: auto !important;
+}
+
+footer {
+  padding: 20px 10px 10px 20px;
+}
+.cc-license-icons span {
+  padding: 8px;
+}
+
+.contact {
+  float: right;
+  bottom: 0;
+  padding: 5px;
+  margin-top: 300px;
+}
+
+.span--1 {
+  grid-column: span 1;
+}
+.span--2 {
+  grid-column: span 2;
+}
+.span--3 {
+  grid-column: span 3;
+}
+.span--4 {
+  grid-column: span 4;
+}
