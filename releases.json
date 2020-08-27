@@ -1,0 +1,80 @@
+[
+  {
+    "release": "homo004",
+    "artist": "David Kirby",
+    "title": "Maximalism",
+    "duration": "38:49",
+    "archive": "https://archive.org/download/homo004",
+    "waveform": "https://archive.org/download/homo004/david%20kirby%20-%20maximalism.png",
+    "spectrogram": "https://ia800207.us.archive.org/6/items/homo004/david%20kirby%20-%20maximalism_spectrogram.png",
+    "versions": [
+      {
+        "format": "audio/mpeg",
+        "quality": "192kpbs",
+        "name": "https://archive.org/download/homo004/david%20kirby%20-%20maximalism.mp3"
+      },
+      {
+        "format": "audio/ogg",
+        "name": "https://archive.org/download/homo004/david%20kirby%20-%20maximalism.ogg"
+      }
+    ]
+  },
+  {
+    "release": "homo005",
+    "artist": "Ryan Gregory + Christine Jeanine",
+    "title": "Rain",
+    "archive": "https://archive.org/download/homo005"
+  },
+  {
+    "release": "homo006",
+    "archive": "https://archive.org/download/homo006"
+  },
+  {
+    "release": "homo007",
+    "archive": "https://archive.org/download/homo007"
+  },
+  {
+    "release": "homo008",
+    "archive": "https://archive.org/download/homo008"
+  },
+  {
+    "release": "homo009",
+    "archive": "https://archive.org/download/homo009"
+  },
+  {
+    "release": "homo010",
+    "archive": "https://archive.org/download/homo010"
+  },
+  {
+    "release": "homo011",
+    "archive": "https://archive.org/download/homo011"
+  },
+  {
+    "release": "homo012",
+    "archive": "https://archive.org/download/homo012"
+  },
+  {
+    "release": "homo013",
+    "archive": "https://archive.org/download/homo013"
+  },
+  {
+    "release": "homo014",
+    "archive": "https://archive.org/download/homo014"
+  },
+  {
+    "release": "homo015",
+    "archive": "https://archive.org/download/homo015"
+  },
+  {
+    "release": "homo016",
+    "archive": "https://archive.org/download/homo016"
+  },
+  {
+    "release": "homo017",
+    "archive": "https://archive.org/download/homo017"
+  },
+  {
+    "release": "homo018",
+    "archive": "https://archive.org/download/homo018"
+  }
+]
