@@ -3,4 +3,5 @@ phoni
 
 New theme builder for HOMOPHONI (work in progress)
 
-More soon...
+```npm install
+npm run build```
