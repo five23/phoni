@@ -2,10 +2,10 @@ import "./scss/base.scss";
 import "./scss/typography.scss";
 
 document.addEventListener("DOMContentLoaded", async (event) => {
-  fetch("metadata/catalog.json")
-    .then((data) => data.json())
-    .then((json) => {
-      const metadata = json.metadata
+  await fetch("metadata/catalog.json")
+    .then(async (data) => await data.json())
+    .then(async (json) => {
+      const metadata = await json.metadata
         .filter(
           (v, i, a) => a.findIndex((t) => t.identifier === v.identifier) === i
         )
