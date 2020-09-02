@@ -1,5 +1,4 @@
 import "./scss/base.scss";
-import "./scss/loader.scss";
 import "./scss/typography.scss";
 
 import favico from "../assets/icons/favicon.ico";
@@ -28,10 +27,4 @@ document.addEventListener("DOMContentLoaded", async (event) => {
         i++;
       }
     })
-    .then(() => {
-      const wrapper = document.getElementById("wrapper");      
-      const loader = document.getElementById("loader");
-      wrapper.style.display = "block";
-      loader.style.display = "none";
-    });
 });
