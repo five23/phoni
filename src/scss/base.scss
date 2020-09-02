@@ -5,30 +5,6 @@
   box-sizing: border-box;
 }
 
-/* Remove default padding */
-ul[class],
-ol[class] {
-  padding: 0;
-}
-
-/* Remove default margin */
-body,
-h1,
-h2,
-h3,
-h4,
-p,
-ul[class],
-ol[class],
-li,
-figure,
-figcaption,
-blockquote,
-dl,
-dd {
-  margin: 0;
-}
-
 /* Set core body defaults */
 body {
   min-height: 100vh;
@@ -76,39 +52,22 @@ select {
     scroll-behavior: auto !important;
   }
 }
+
 body {
+  font-family: "Roboto", sans-serif;
+  color: #121223;
   padding: 20px;
 }
 
 ul {
-  list-style: none;
-  margin: 0;
   padding: 0;
 }
-
-li { 
+li {
   margin: 0;
-  padding: 0;
-}
-
-pre,
-code {
-  width: auto !important;
-}
-
-footer {
-  padding: 20px 10px 10px 20px;
-}
-
-.cc-license-icons span {
-  padding: 8px;
-}
-
-.contact {
-  float: right;
-  bottom: 0;
-  padding: 5px;
-  margin-top: 300px;
+  white-space: nowrap;
+  > a {
+    white-space: nowrap;
+  }
 }
 
 .span--1 {

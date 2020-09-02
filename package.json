@@ -4,6 +4,7 @@
   "description": "New theme builder for HOMOPHONI (work in progress)",
   "main": "index.js",
   "scripts": {
+    "watch": "webpack --watch --info-verbosity verbose --module-bind js=babel-loader",
     "dev": "webpack --mode development --module-bind js=babel-loader",
     "build": "webpack --mode production --module-bind js=babel-loader"
   },

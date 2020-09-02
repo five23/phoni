@@ -68,16 +68,3 @@ $ratio: 1.618;
 @media (min-width: 1600px) {
   @include typography(25px);
 }
-
-body {
-  font-family: "Roboto", sans-serif;
-  color: #121223;
-}
-code {
-  background: #cccccc;
-  display: inline-block;
-  width: 100%;
-}
-pre {
-  margin: 1em;
-}

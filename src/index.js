@@ -13,17 +13,16 @@ document.addEventListener("DOMContentLoaded", async (event) => {
       const releases = document.getElementById("releases");
       let i = 0;
       while (i < metadata.length) {
-        let li = document.createElement("li");        
+        let li = document.createElement("li"); 
         releases.appendChild(li);
         const identifier = metadata[i].identifier;
         const year = metadata[i].date.substring(0, 4);
         const creator = metadata[i].creator.toLowerCase().trim();
         const title = metadata[i].title.toLowerCase().trim();
         const url = `//archive.org/details/${identifier}`;
-        const item = `<a href="${url}">${creator} - ${title}</a> [${identifier} | ${year}]`;
+        const item = `<a target="_blank" href="${url}">${creator} - ${title}</a> [${identifier} | ${year}]`;
         li.id = identifier;
-        li.innerHTML = item;
-
+        li.innerHTML = item;        
         i++;
       }
     });
