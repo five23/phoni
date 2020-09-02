@@ -1,4 +1,5 @@
 import "./scss/base.scss";
+import "./scss/loader.scss";
 import "./scss/typography.scss";
 
 document.addEventListener("DOMContentLoaded", async (event) => {
@@ -25,5 +26,12 @@ document.addEventListener("DOMContentLoaded", async (event) => {
         li.innerHTML = item;        
         i++;
       }
+    }).then(() => {
+        const main = document.getElementById('main');
+        const footer = document.getElementById('footer');
+        const loader = document.getElementById('loader');
+        main.style.display = "block";
+        footer.style.display = "block";
+        loader.style.display = "none";
     });
 });
