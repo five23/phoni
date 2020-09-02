@@ -56,18 +56,11 @@ select {
 body {
   font-family: "Roboto", sans-serif;
   color: #121223;
-  padding: 20px;
+  padding: 2%;
 }
 
-ul {
-  padding: 0;
-}
-li {
-  margin: 0;
+article {
   white-space: nowrap;
-  > a {
-    white-space: nowrap;
-  }
 }
 
 .span--1 {
@@ -85,8 +78,11 @@ li {
 
 #main {
   display: none;
+  margin-left: 4px;
 }
 
 #footer {
   display: none;
+  margin-left: 2px;
+  padding-top: 25px;
 }

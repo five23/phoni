@@ -1,10 +1,10 @@
 {
   "name": "phoni",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "New theme builder for HOMOPHONI (work in progress)",
   "main": "index.js",
   "scripts": {
-    "watch": "webpack --watch --info-verbosity verbose --module-bind js=babel-loader",
+    "watch": "webpack --watch --info-verbosity verbose --mode development --module-bind js=babel-loader",
     "dev": "webpack --mode development --module-bind js=babel-loader",
     "build": "webpack --mode production --module-bind js=babel-loader"
   },
@@ -19,6 +19,7 @@
     "babel-loader": "^8.1.0",
     "babel-preset-env": "^1.7.0",
     "css-loader": "^4.2.2",
+    "file-loader": "^6.1.0",
     "html-loader": "^1.3.0",
     "html-webpack-plugin": "^4.3.0",
     "merge-jsons-webpack-plugin": "^1.0.21",

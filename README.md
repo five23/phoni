@@ -18,3 +18,11 @@ Build w/
 Or
 
 ```yarn build```
+
+Watch w/
+
+```npm run watch```
+
+Or
+
+```yarn watch```

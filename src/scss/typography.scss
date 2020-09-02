@@ -40,6 +40,9 @@
     margin-top: $margin;
     margin-bottom: $margin;
   }
+  a {
+    text-transform: lowercase;
+  }
 }
 
 $ratio: 1.618;
