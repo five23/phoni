@@ -29,11 +29,9 @@ document.addEventListener("DOMContentLoaded", async (event) => {
       }
     })
     .then(() => {
-      const main = document.getElementById("main");
-      const footer = document.getElementById("footer");
+      const wrapper = document.getElementById("wrapper");      
       const loader = document.getElementById("loader");
-      main.style.display = "block";
-      footer.style.display = "block";
+      wrapper.style.display = "block";
       loader.style.display = "none";
     });
 });
