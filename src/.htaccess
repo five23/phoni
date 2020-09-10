@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_URI} !\.html 
+  RewriteCond %{REQUEST_URI} !(.+)/
+  RewriteRule ^(.+) https://homophoni.com/$1.html [R=301,L]
+</IfModule>
